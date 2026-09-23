@@ -1,0 +1,7 @@
+Breadcrumbs 'Parallel'
+ - NaniteBasePass
+ - BasePass
+ - Scene
+ - RenderGraphExecute - /ViewFamilies
+ - SceneRender - ViewFamilies
+ - Frame 5331

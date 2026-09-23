@@ -1,0 +1,9 @@
+Breadcrumbs 'Parallel'
+ - MainPass
+ - Nanite::DrawGeometry
+ - RenderVirtualShadowMaps(Nanite)
+ - ShadowDepths
+ - Scene
+ - RenderGraphExecute - /ViewFamilies
+ - SceneRender - ViewFamilies
+ - Frame 5331
