@@ -1,6 +1,0 @@
-[972:4140:0926/170541.381:WARNING:chrome_main_delegate.cc(745)] This is Chrome version 128.0.6613.138 (not a warning)
-[972:15672:0926/170541.470:ERROR:google_update_settings.cc(265)] Failed opening key Software\Chromium to set usagestats; result: 5
-[972:4140:0926/170541.485:WARNING:account_consistency_mode_manager.cc(77)] Desktop Identity Consistency cannot be enabled as no OAuth client ID and client secret have been configured.
-[10136:15596:0926/170637.450:ERROR:angle_platform_impl.cc(44)] Renderer11.cpp:2280 (virtual rx::Renderer11::testDeviceLost): The D3D11 device was removed, HRESULT: 0x887A0007
-[10136:15596:0926/170637.450:ERROR:shared_context_state.cc(1244)] SharedContextState context lost via ARB/EXT_robustness. Reset status = GL_UNKNOWN_CONTEXT_RESET_KHR
-[10136:15596:0926/170637.451:ERROR:gpu_service_impl.cc(1164)] Exiting GPU process because some drivers can't recover from errors. GPU process will restart shortly.
