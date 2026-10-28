@@ -1,0 +1,35 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UnrealEditor-Software1.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"C:/Users/multi/Documents/Unreal Projects/Software1/Intermediate/Build/Win64/x64/Software1Editor/Development/UnrealEd/SharedPCH.UnrealEd.Project.ValApi.ValExpApi.Cpp20.h.obj"
+"C:/Users/multi/Documents/Unreal Projects/Software1/Intermediate/Build/Win64/x64/UnrealEditor/Development/Software1/Module.Software1.cpp.obj"
+"C:/Users/multi/Documents/Unreal Projects/Software1/Intermediate/Build/Win64/x64/UnrealEditor/Development/Software1/MyClasstest.cpp.obj"
+"C:/Users/multi/Documents/Unreal Projects/Software1/Intermediate/Build/Win64/x64/UnrealEditor/Development/Software1/Software1.cpp.obj"
+"C:/Users/multi/Documents/Unreal Projects/Software1/Intermediate/Build/Win64/x64/UnrealEditor/Development/Software1/Software1Character.cpp.obj"
+"C:/Users/multi/Documents/Unreal Projects/Software1/Intermediate/Build/Win64/x64/UnrealEditor/Development/Software1/Software1GameMode.cpp.obj"
+"C:/Users/multi/Documents/Unreal Projects/Software1/Intermediate/Build/Win64/x64/UnrealEditor/Development/Software1/Software1PlayerController.cpp.obj"
+"C:/Users/multi/Documents/Unreal Projects/Software1/Intermediate/Build/Win64/x64/UnrealEditor/Development/Software1/StrategyGameMode.cpp.obj"
+"C:/Users/multi/Documents/Unreal Projects/Software1/Intermediate/Build/Win64/x64/UnrealEditor/Development/Software1/StrategyPawn.cpp.obj"
+"C:/Users/multi/Documents/Unreal Projects/Software1/Intermediate/Build/Win64/x64/UnrealEditor/Development/Software1/StrategyPlayerController.cpp.obj"
+"C:/Users/multi/Documents/Unreal Projects/Software1/Intermediate/Build/Win64/x64/UnrealEditor/Development/Software1/StrategyUnit.cpp.obj"
+"C:/Users/multi/Documents/Unreal Projects/Software1/Intermediate/Build/Win64/x64/UnrealEditor/Development/Software1/StrategyHUD.cpp.obj"
+"C:/Users/multi/Documents/Unreal Projects/Software1/Intermediate/Build/Win64/x64/UnrealEditor/Development/Software1/StrategyUI.cpp.obj"
+"C:/Users/multi/Documents/Unreal Projects/Software1/Intermediate/Build/Win64/x64/UnrealEditor/Development/Software1/TwinStickCharacter.cpp.obj"
+"C:/Users/multi/Documents/Unreal Projects/Software1/Intermediate/Build/Win64/x64/UnrealEditor/Development/Software1/TwinStickGameMode.cpp.obj"
+"C:/Users/multi/Documents/Unreal Projects/Software1/Intermediate/Build/Win64/x64/UnrealEditor/Development/Software1/TwinStickPlayerController.cpp.obj"
+"C:/Users/multi/Documents/Unreal Projects/Software1/Intermediate/Build/Win64/x64/UnrealEditor/Development/Software1/TwinStickAIController.cpp.obj"
+"C:/Users/multi/Documents/Unreal Projects/Software1/Intermediate/Build/Win64/x64/UnrealEditor/Development/Software1/TwinStickNPC.cpp.obj"
+"C:/Users/multi/Documents/Unreal Projects/Software1/Intermediate/Build/Win64/x64/UnrealEditor/Development/Software1/TwinStickNPCDestruction.cpp.obj"
+"C:/Users/multi/Documents/Unreal Projects/Software1/Intermediate/Build/Win64/x64/UnrealEditor/Development/Software1/TwinStickSpawner.cpp.obj"
+"C:/Users/multi/Documents/Unreal Projects/Software1/Intermediate/Build/Win64/x64/UnrealEditor/Development/Software1/TwinStickStateTreeUtility.cpp.obj"
+"C:/Users/multi/Documents/Unreal Projects/Software1/Intermediate/Build/Win64/x64/UnrealEditor/Development/Software1/TwinStickAoEAttack.cpp.obj"
+"C:/Users/multi/Documents/Unreal Projects/Software1/Intermediate/Build/Win64/x64/UnrealEditor/Development/Software1/TwinStickPickup.cpp.obj"
+"C:/Users/multi/Documents/Unreal Projects/Software1/Intermediate/Build/Win64/x64/UnrealEditor/Development/Software1/TwinStickProjectile.cpp.obj"
+"C:/Users/multi/Documents/Unreal Projects/Software1/Intermediate/Build/Win64/x64/UnrealEditor/Development/Software1/TwinStickUI.cpp.obj"
+"C:/Users/multi/Documents/Unreal Projects/Software1/Intermediate/Build/Win64/x64/UnrealEditor/Development/Software1/Default.rc2.res"
+/OUT:"C:/Users/multi/Documents/Unreal Projects/Software1/Intermediate/Build/Win64/x64/UnrealEditor/Development/Software1/UnrealEditor-Software1.lib"

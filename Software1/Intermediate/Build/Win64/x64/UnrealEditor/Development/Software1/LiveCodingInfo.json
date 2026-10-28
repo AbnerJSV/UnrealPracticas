@@ -25,6 +25,8 @@
 			"TwinStickStateTreeUtility.gen.cpp.obj",
 			"TwinStickUI.gen.cpp.obj",
 			"PerModuleInline.gen.cpp.obj",
+			"Abner.cpp.obj",
+			"MyClasstest.cpp.obj",
 			"Software1.cpp.obj",
 			"Software1Character.cpp.obj",
 			"Software1GameMode.cpp.obj",

@@ -84358,6 +84358,1776 @@
     <ClInclude Include="..\..\..\..\..\..\..\Program Files\Epic Games\UE_5.7\Engine\Plugins\LightWeightInstancesEditor\Source\LightWeightInstancesEditor\Public\LightWeightInstancesEditor.h">
       <Filter>Plugins\LightWeightInstancesEditor\Source\LightWeightInstancesEditor\Public</Filter>
     </ClInclude>
+    <Filter Include="Plugins\Marketplace">
+      <UniqueIdentifier>{1E520605-3A0C-397B-A124-81C6D67B82FE}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Plugins\Marketplace\UnrealMetaXRPlugin.205.0">
+      <UniqueIdentifier>{C9974741-BA10-3099-A2E2-48606FE84E05}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Plugins\Marketplace\UnrealMetaXRPlugin.205.0\MetaXR">
+      <UniqueIdentifier>{02CE6CC2-01E4-3E7B-9EE7-391FDFF06636}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Plugins\Marketplace\UnrealMetaXRPlugin.205.0\MetaXR\Config">
+      <UniqueIdentifier>{356C915B-FB09-3C07-A18F-7C2DEC50653E}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\..\..\..\..\..\Program Files\Epic Games\UE_5.7\Engine\Plugins\Marketplace\UnrealMetaXRPlugin.205.0\MetaXR\Config\BaseOculusXR.ini">
+      <Filter>Plugins\Marketplace\UnrealMetaXRPlugin.205.0\MetaXR\Config</Filter>
+    </None>
+    <None Include="..\..\..\..\..\..\..\Program Files\Epic Games\UE_5.7\Engine\Plugins\Marketplace\UnrealMetaXRPlugin.205.0\MetaXR\Config\Engine.ini">
+      <Filter>Plugins\Marketplace\UnrealMetaXRPlugin.205.0\MetaXR\Config</Filter>
+    </None>
+    <None Include="..\..\..\..\..\..\..\Program Files\Epic Games\UE_5.7\Engine\Plugins\Marketplace\UnrealMetaXRPlugin.205.0\MetaXR\Config\FilterPlugin.ini">
+      <Filter>Plugins\Marketplace\UnrealMetaXRPlugin.205.0\MetaXR\Config</Filter>
+    </None>
+    <None Include="..\..\..\..\..\..\..\Program Files\Epic Games\UE_5.7\Engine\Plugins\Marketplace\UnrealMetaXRPlugin.205.0\MetaXR\OculusXR.uplugin">
+      <Filter>Plugins\Marketplace\UnrealMetaXRPlugin.205.0\MetaXR</Filter>
+    </None>
+    <Filter Include="Plugins\Marketplace\UnrealMetaXRPlugin.205.0\MetaXR\Resources">
+      <UniqueIdentifier>{715E5615-05F5-31DB-B21E-A59F993562A6}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\..\..\..\..\..\Program Files\Epic Games\UE_5.7\Engine\Plugins\Marketplace\UnrealMetaXRPlugin.205.0\MetaXR\Resources\BugIcon.svg">
+      <Filter>Plugins\Marketplace\UnrealMetaXRPlugin.205.0\MetaXR\Resources</Filter>
+    </None>
+    <None Include="..\..\..\..\..\..\..\Program Files\Epic Games\UE_5.7\Engine\Plugins\Marketplace\UnrealMetaXRPlugin.205.0\MetaXR\Resources\ButtonIcon_80x.png">
+      <Filter>Plugins\Marketplace\UnrealMetaXRPlugin.205.0\MetaXR\Resources</Filter>
+    </None>
+    <None Include="..\..\..\..\..\..\..\Program Files\Epic Games\UE_5.7\Engine\Plugins\Marketplace\UnrealMetaXRPlugin.205.0\MetaXR\Resources\GreenDot.svg">
+      <Filter>Plugins\Marketplace\UnrealMetaXRPlugin.205.0\MetaXR\Resources</Filter>
+    </None>
+    <None Include="..\..\..\..\..\..\..\Program Files\Epic Games\UE_5.7\Engine\Plugins\Marketplace\UnrealMetaXRPlugin.205.0\MetaXR\Resources\GreyDot.svg">
+      <Filter>Plugins\Marketplace\UnrealMetaXRPlugin.205.0\MetaXR\Resources</Filter>
+    </None>
+    <None Include="..\..\..\..\..\..\..\Program Files\Epic Games\UE_5.7\Engine\Plugins\Marketplace\UnrealMetaXRPlugin.205.0\MetaXR\Resources\Icon128.png">
+      <Filter>Plugins\Marketplace\UnrealMetaXRPlugin.205.0\MetaXR\Resources</Filter>
+    </None>
+    <None Include="..\..\..\..\..\..\..\Program Files\Epic Games\UE_5.7\Engine\Plugins\Marketplace\UnrealMetaXRPlugin.205.0\MetaXR\Resources\MetaLogo.svg">
+      <Filter>Plugins\Marketplace\UnrealMetaXRPlugin.205.0\MetaXR\Resources</Filter>
+    </None>
+    <None Include="..\..\..\..\..\..\..\Program Files\Epic Games\UE_5.7\Engine\Plugins\Marketplace\UnrealMetaXRPlugin.205.0\MetaXR\Resources\MetaQuestBackground.png">
+      <Filter>Plugins\Marketplace\UnrealMetaXRPlugin.205.0\MetaXR\Resources</Filter>
+    </None>
+    <None Include="..\..\..\..\..\..\..\Program Files\Epic Games\UE_5.7\Engine\Plugins\Marketplace\UnrealMetaXRPlugin.205.0\MetaXR\Resources\PlatformDesktop.svg">
+      <Filter>Plugins\Marketplace\UnrealMetaXRPlugin.205.0\MetaXR\Resources</Filter>
+    </None>
+    <None Include="..\..\..\..\..\..\..\Program Files\Epic Games\UE_5.7\Engine\Plugins\Marketplace\UnrealMetaXRPlugin.205.0\MetaXR\Resources\PlatformQuest2.svg">
+      <Filter>Plugins\Marketplace\UnrealMetaXRPlugin.205.0\MetaXR\Resources</Filter>
+    </None>
+    <None Include="..\..\..\..\..\..\..\Program Files\Epic Games\UE_5.7\Engine\Plugins\Marketplace\UnrealMetaXRPlugin.205.0\MetaXR\Resources\PlatformQuest3.svg">
+      <Filter>Plugins\Marketplace\UnrealMetaXRPlugin.205.0\MetaXR\Resources</Filter>
+    </None>
+    <None Include="..\..\..\..\..\..\..\Program Files\Epic Games\UE_5.7\Engine\Plugins\Marketplace\UnrealMetaXRPlugin.205.0\MetaXR\Resources\RedDot.svg">
+      <Filter>Plugins\Marketplace\UnrealMetaXRPlugin.205.0\MetaXR\Resources</Filter>
+    </None>
+    <None Include="..\..\..\..\..\..\..\Program Files\Epic Games\UE_5.7\Engine\Plugins\Marketplace\UnrealMetaXRPlugin.205.0\MetaXR\Resources\WhiteDot.svg">
+      <Filter>Plugins\Marketplace\UnrealMetaXRPlugin.205.0\MetaXR\Resources</Filter>
+    </None>
+    <None Include="..\..\..\..\..\..\..\Program Files\Epic Games\UE_5.7\Engine\Plugins\Marketplace\UnrealMetaXRPlugin.205.0\MetaXR\Resources\YellowDot.svg">
+      <Filter>Plugins\Marketplace\UnrealMetaXRPlugin.205.0\MetaXR\Resources</Filter>
+    </None>
+    <Filter Include="Plugins\Marketplace\UnrealMetaXRPlugin.205.0\MetaXR\Shaders">
+      <UniqueIdentifier>{C91BB76E-7AF0-3FB6-A937-C34B6777A431}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\..\..\..\..\..\Program Files\Epic Games\UE_5.7\Engine\Plugins\Marketplace\UnrealMetaXRPlugin.205.0\MetaXR\Shaders\Highlights.ush">
+      <Filter>Plugins\Marketplace\UnrealMetaXRPlugin.205.0\MetaXR\Shaders</Filter>
+    </None>
+    <None Include="..\..\..\..\..\..\..\Program Files\Epic Games\UE_5.7\Engine\Plugins\Marketplace\UnrealMetaXRPlugin.205.0\MetaXR\Shaders\JumpFlood.ush">
+      <Filter>Plugins\Marketplace\UnrealMetaXRPlugin.205.0\MetaXR\Shaders</Filter>
+    </None>
+    <Filter Include="Plugins\Marketplace\UnrealMetaXRPlugin.205.0\MetaXR\Shaders\Private">
+      <UniqueIdentifier>{BC1DA0B7-F25D-3A29-8F36-9B1669A13E30}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\..\..\..\..\..\Program Files\Epic Games\UE_5.7\Engine\Plugins\Marketplace\UnrealMetaXRPlugin.205.0\MetaXR\Shaders\Private\HardOcclusions.usf">
+      <Filter>Plugins\Marketplace\UnrealMetaXRPlugin.205.0\MetaXR\Shaders\Private</Filter>
+    </None>
+    <None Include="..\..\..\..\..\..\..\Program Files\Epic Games\UE_5.7\Engine\Plugins\Marketplace\UnrealMetaXRPlugin.205.0\MetaXR\Shaders\Private\PokeAHole.usf">
+      <Filter>Plugins\Marketplace\UnrealMetaXRPlugin.205.0\MetaXR\Shaders\Private</Filter>
+    </None>
+    <None Include="..\..\..\..\..\..\..\Program Files\Epic Games\UE_5.7\Engine\Plugins\Marketplace\UnrealMetaXRPlugin.205.0\MetaXR\Shaders\Private\ScreenPixelShaderArraySlice.usf">
+      <Filter>Plugins\Marketplace\UnrealMetaXRPlugin.205.0\MetaXR\Shaders\Private</Filter>
+    </None>
+    <None Include="..\..\..\..\..\..\..\Program Files\Epic Games\UE_5.7\Engine\Plugins\Marketplace\UnrealMetaXRPlugin.205.0\MetaXR\Shaders\Private\ScreenPSEnvironmentDepthMinMax.usf">
+      <Filter>Plugins\Marketplace\UnrealMetaXRPlugin.205.0\MetaXR\Shaders\Private</Filter>
+    </None>
+    <Filter Include="Plugins\Marketplace\UnrealMetaXRPlugin.205.0\MetaXR\Source">
+      <UniqueIdentifier>{5504DA21-5D4F-3276-8A07-FE02A3E19A2F}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Plugins\Marketplace\UnrealMetaXRPlugin.205.0\MetaXR\Source\MRUtilityKitEditor">
+      <UniqueIdentifier>{B26D45B6-ED6D-3F6A-8951-7F8B7E70FE2A}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\..\..\..\..\..\Program Files\Epic Games\UE_5.7\Engine\Plugins\Marketplace\UnrealMetaXRPlugin.205.0\MetaXR\Source\MRUtilityKitEditor\MRUtilityKitEditor.Build.cs">
+      <Filter>Plugins\Marketplace\UnrealMetaXRPlugin.205.0\MetaXR\Source\MRUtilityKitEditor</Filter>
+    </None>
+    <Filter Include="Plugins\Marketplace\UnrealMetaXRPlugin.205.0\MetaXR\Source\MRUtilityKitEditor\Private">
+      <UniqueIdentifier>{0F71D1EB-1C77-3B72-9D26-11FF9D7777FD}</UniqueIdentifier>
+    </Filter>
+    <ClInclude Include="..\..\..\..\..\..\..\Program Files\Epic Games\UE_5.7\Engine\Plugins\Marketplace\UnrealMetaXRPlugin.205.0\MetaXR\Source\MRUtilityKitEditor\Private\DistanceMapTestData.h">
+      <Filter>Plugins\Marketplace\UnrealMetaXRPlugin.205.0\MetaXR\Source\MRUtilityKitEditor\Private</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\..\..\..\..\Program Files\Epic Games\UE_5.7\Engine\Plugins\Marketplace\UnrealMetaXRPlugin.205.0\MetaXR\Source\MRUtilityKitEditor\Private\GridSliceResizerTestData.h">
+      <Filter>Plugins\Marketplace\UnrealMetaXRPlugin.205.0\MetaXR\Source\MRUtilityKitEditor\Private</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\..\..\..\..\..\Program Files\Epic Games\UE_5.7\Engine\Plugins\Marketplace\UnrealMetaXRPlugin.205.0\MetaXR\Source\MRUtilityKitEditor\Private\MeshActor.cpp">
+      <Filter>Plugins\Marketplace\UnrealMetaXRPlugin.205.0\MetaXR\Source\MRUtilityKitEditor\Private</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\..\..\..\..\..\Program Files\Epic Games\UE_5.7\Engine\Plugins\Marketplace\UnrealMetaXRPlugin.205.0\MetaXR\Source\MRUtilityKitEditor\Private\MeshActor.h">
+      <Filter>Plugins\Marketplace\UnrealMetaXRPlugin.205.0\MetaXR\Source\MRUtilityKitEditor\Private</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\..\..\..\..\..\Program Files\Epic Games\UE_5.7\Engine\Plugins\Marketplace\UnrealMetaXRPlugin.205.0\MetaXR\Source\MRUtilityKitEditor\Private\MRUtilityKit.spec.cpp">
+      <Filter>Plugins\Marketplace\UnrealMetaXRPlugin.205.0\MetaXR\Source\MRUtilityKitEditor\Private</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\..\..\..\..\Program Files\Epic Games\UE_5.7\Engine\Plugins\Marketplace\UnrealMetaXRPlugin.205.0\MetaXR\Source\MRUtilityKitEditor\Private\MRUtilityKitDistanceMap.spec.cpp">
+      <Filter>Plugins\Marketplace\UnrealMetaXRPlugin.205.0\MetaXR\Source\MRUtilityKitEditor\Private</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\..\..\..\..\Program Files\Epic Games\UE_5.7\Engine\Plugins\Marketplace\UnrealMetaXRPlugin.205.0\MetaXR\Source\MRUtilityKitEditor\Private\MRUtilityKitEditor.cpp">
+      <Filter>Plugins\Marketplace\UnrealMetaXRPlugin.205.0\MetaXR\Source\MRUtilityKitEditor\Private</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\..\..\..\..\Program Files\Epic Games\UE_5.7\Engine\Plugins\Marketplace\UnrealMetaXRPlugin.205.0\MetaXR\Source\MRUtilityKitEditor\Private\MRUtilityKitGeometry.spec.cpp">
+      <Filter>Plugins\Marketplace\UnrealMetaXRPlugin.205.0\MetaXR\Source\MRUtilityKitEditor\Private</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\..\..\..\..\Program Files\Epic Games\UE_5.7\Engine\Plugins\Marketplace\UnrealMetaXRPlugin.205.0\MetaXR\Source\MRUtilityKitEditor\Private\MRUtilityKitGridSliceResizer.spec.cpp">
+      <Filter>Plugins\Marketplace\UnrealMetaXRPlugin.205.0\MetaXR\Source\MRUtilityKitEditor\Private</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\..\..\..\..\Program Files\Epic Games\UE_5.7\Engine\Plugins\Marketplace\UnrealMetaXRPlugin.205.0\MetaXR\Source\MRUtilityKitEditor\Private\MRUtilityKitGridSliceResizerVisualization.cpp">
+      <Filter>Plugins\Marketplace\UnrealMetaXRPlugin.205.0\MetaXR\Source\MRUtilityKitEditor\Private</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\..\..\..\..\Program Files\Epic Games\UE_5.7\Engine\Plugins\Marketplace\UnrealMetaXRPlugin.205.0\MetaXR\Source\MRUtilityKitEditor\Private\TestHelper.cpp">
+      <Filter>Plugins\Marketplace\UnrealMetaXRPlugin.205.0\MetaXR\Source\MRUtilityKitEditor\Private</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\..\..\..\..\..\Program Files\Epic Games\UE_5.7\Engine\Plugins\Marketplace\UnrealMetaXRPlugin.205.0\MetaXR\Source\MRUtilityKitEditor\Private\TestHelper.h">
+      <Filter>Plugins\Marketplace\UnrealMetaXRPlugin.205.0\MetaXR\Source\MRUtilityKitEditor\Private</Filter>
+    </ClInclude>
+    <Filter Include="Plugins\Marketplace\UnrealMetaXRPlugin.205.0\MetaXR\Source\MRUtilityKitEditor\Public">
+      <UniqueIdentifier>{4E4FF01B-A28C-3DE4-90DE-9FD03CE2FC62}</UniqueIdentifier>
+    </Filter>
+    <ClInclude Include="..\..\..\..\..\..\..\Program Files\Epic Games\UE_5.7\Engine\Plugins\Marketplace\UnrealMetaXRPlugin.205.0\MetaXR\Source\MRUtilityKitEditor\Public\MRUKPassthroughCameraAccessActions.h">
+      <Filter>Plugins\Marketplace\UnrealMetaXRPlugin.205.0\MetaXR\Source\MRUtilityKitEditor\Public</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\..\..\..\..\Program Files\Epic Games\UE_5.7\Engine\Plugins\Marketplace\UnrealMetaXRPlugin.205.0\MetaXR\Source\MRUtilityKitEditor\Public\MRUtilityKitEditor.h">
+      <Filter>Plugins\Marketplace\UnrealMetaXRPlugin.205.0\MetaXR\Source\MRUtilityKitEditor\Public</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\..\..\..\..\Program Files\Epic Games\UE_5.7\Engine\Plugins\Marketplace\UnrealMetaXRPlugin.205.0\MetaXR\Source\MRUtilityKitEditor\Public\MRUtilityKitGridSliceResizerVisualization.h">
+      <Filter>Plugins\Marketplace\UnrealMetaXRPlugin.205.0\MetaXR\Source\MRUtilityKitEditor\Public</Filter>
+    </ClInclude>
+    <Filter Include="Plugins\Marketplace\UnrealMetaXRPlugin.205.0\MetaXR\Source\MRUtilityKitPcaEditor">
+      <UniqueIdentifier>{924EBA27-2C3F-35B0-BCB7-3C3CBCB470E5}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\..\..\..\..\..\Program Files\Epic Games\UE_5.7\Engine\Plugins\Marketplace\UnrealMetaXRPlugin.205.0\MetaXR\Source\MRUtilityKitPcaEditor\MRUtilityKitPcaEditor.Build.cs">
+      <Filter>Plugins\Marketplace\UnrealMetaXRPlugin.205.0\MetaXR\Source\MRUtilityKitPcaEditor</Filter>
+    </None>
+    <Filter Include="Plugins\Marketplace\UnrealMetaXRPlugin.205.0\MetaXR\Source\MRUtilityKitPcaEditor\Private">
+      <UniqueIdentifier>{8AF968F9-D6C3-3353-B7FA-C2AF0C27F607}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\..\..\..\..\..\Program Files\Epic Games\UE_5.7\Engine\Plugins\Marketplace\UnrealMetaXRPlugin.205.0\MetaXR\Source\MRUtilityKitPcaEditor\Private\MRUKPassthroughCameraAccessActions.cpp">
+      <Filter>Plugins\Marketplace\UnrealMetaXRPlugin.205.0\MetaXR\Source\MRUtilityKitPcaEditor\Private</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\..\..\..\..\Program Files\Epic Games\UE_5.7\Engine\Plugins\Marketplace\UnrealMetaXRPlugin.205.0\MetaXR\Source\MRUtilityKitPcaEditor\Private\MRUKPassthroughCameraAccessFactory.cpp">
+      <Filter>Plugins\Marketplace\UnrealMetaXRPlugin.205.0\MetaXR\Source\MRUtilityKitPcaEditor\Private</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\..\..\..\..\Program Files\Epic Games\UE_5.7\Engine\Plugins\Marketplace\UnrealMetaXRPlugin.205.0\MetaXR\Source\MRUtilityKitPcaEditor\Private\MRUtilityKitPcaEditor.cpp">
+      <Filter>Plugins\Marketplace\UnrealMetaXRPlugin.205.0\MetaXR\Source\MRUtilityKitPcaEditor\Private</Filter>
+    </ClCompile>
+    <Filter Include="Plugins\Marketplace\UnrealMetaXRPlugin.205.0\MetaXR\Source\MRUtilityKitPcaEditor\Public">
+      <UniqueIdentifier>{247F5011-439E-3130-8603-D80247BECB0F}</UniqueIdentifier>
+    </Filter>
+    <ClInclude Include="..\..\..\..\..\..\..\Program Files\Epic Games\UE_5.7\Engine\Plugins\Marketplace\UnrealMetaXRPlugin.205.0\MetaXR\Source\MRUtilityKitPcaEditor\Public\MRUKPassthroughCameraAccessActions.h">
+      <Filter>Plugins\Marketplace\UnrealMetaXRPlugin.205.0\MetaXR\Source\MRUtilityKitPcaEditor\Public</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\..\..\..\..\Program Files\Epic Games\UE_5.7\Engine\Plugins\Marketplace\UnrealMetaXRPlugin.205.0\MetaXR\Source\MRUtilityKitPcaEditor\Public\MRUKPassthroughCameraAccessFactory.h">
+      <Filter>Plugins\Marketplace\UnrealMetaXRPlugin.205.0\MetaXR\Source\MRUtilityKitPcaEditor\Public</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\..\..\..\..\Program Files\Epic Games\UE_5.7\Engine\Plugins\Marketplace\UnrealMetaXRPlugin.205.0\MetaXR\Source\MRUtilityKitPcaEditor\Public\MRUtilityKitPcaEditor.h">
+      <Filter>Plugins\Marketplace\UnrealMetaXRPlugin.205.0\MetaXR\Source\MRUtilityKitPcaEditor\Public</Filter>
+    </ClInclude>
+    <Filter Include="Plugins\Marketplace\UnrealMetaXRPlugin.205.0\MetaXR\Source\MRUtilityKit">
+      <UniqueIdentifier>{C1BD84DE-72E7-3CF8-A783-7BA9EA626B24}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\..\..\..\..\..\Program Files\Epic Games\UE_5.7\Engine\Plugins\Marketplace\UnrealMetaXRPlugin.205.0\MetaXR\Source\MRUtilityKit\MRUtilityKit.Build.cs">
+      <Filter>Plugins\Marketplace\UnrealMetaXRPlugin.205.0\MetaXR\Source\MRUtilityKit</Filter>
+    </None>
+    <Filter Include="Plugins\Marketplace\UnrealMetaXRPlugin.205.0\MetaXR\Source\MRUtilityKit\Private">
+      <UniqueIdentifier>{D08CA534-6D13-34B7-9789-629B030D2D4E}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Plugins\Marketplace\UnrealMetaXRPlugin.205.0\MetaXR\Source\MRUtilityKit\Private\Generated">
+      <UniqueIdentifier>{9586BDCB-7590-38C6-AE35-D06B7BCAFBE6}</UniqueIdentifier>
+    </Filter>
+    <ClInclude Include="..\..\..\..\..\..\..\Program Files\Epic Games\UE_5.7\Engine\Plugins\Marketplace\UnrealMetaXRPlugin.205.0\MetaXR\Source\MRUtilityKit\Private\Generated\MRUtilityKitShared.h">
+      <Filter>Plugins\Marketplace\UnrealMetaXRPlugin.205.0\MetaXR\Source\MRUtilityKit\Private\Generated</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\..\..\..\..\..\Program Files\Epic Games\UE_5.7\Engine\Plugins\Marketplace\UnrealMetaXRPlugin.205.0\MetaXR\Source\MRUtilityKit\Private\MRUKPassthroughCameraAccess.cpp">
+      <Filter>Plugins\Marketplace\UnrealMetaXRPlugin.205.0\MetaXR\Source\MRUtilityKit\Private</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\..\..\..\..\Program Files\Epic Games\UE_5.7\Engine\Plugins\Marketplace\UnrealMetaXRPlugin.205.0\MetaXR\Source\MRUtilityKit\Private\MRUtilityKit.cpp">
+      <Filter>Plugins\Marketplace\UnrealMetaXRPlugin.205.0\MetaXR\Source\MRUtilityKit\Private</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\..\..\..\..\Program Files\Epic Games\UE_5.7\Engine\Plugins\Marketplace\UnrealMetaXRPlugin.205.0\MetaXR\Source\MRUtilityKit\Private\MRUtilityKitAnchor.cpp">
+      <Filter>Plugins\Marketplace\UnrealMetaXRPlugin.205.0\MetaXR\Source\MRUtilityKit\Private</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\..\..\..\..\Program Files\Epic Games\UE_5.7\Engine\Plugins\Marketplace\UnrealMetaXRPlugin.205.0\MetaXR\Source\MRUtilityKit\Private\MRUtilityKitAnchorActorSpawner.cpp">
+      <Filter>Plugins\Marketplace\UnrealMetaXRPlugin.205.0\MetaXR\Source\MRUtilityKit\Private</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\..\..\..\..\Program Files\Epic Games\UE_5.7\Engine\Plugins\Marketplace\UnrealMetaXRPlugin.205.0\MetaXR\Source\MRUtilityKit\Private\MRUtilityKitBlobShadowComponent.cpp">
+      <Filter>Plugins\Marketplace\UnrealMetaXRPlugin.205.0\MetaXR\Source\MRUtilityKit\Private</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\..\..\..\..\Program Files\Epic Games\UE_5.7\Engine\Plugins\Marketplace\UnrealMetaXRPlugin.205.0\MetaXR\Source\MRUtilityKit\Private\MRUtilityKitBPLibrary.cpp">
+      <Filter>Plugins\Marketplace\UnrealMetaXRPlugin.205.0\MetaXR\Source\MRUtilityKit\Private</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\..\..\..\..\Program Files\Epic Games\UE_5.7\Engine\Plugins\Marketplace\UnrealMetaXRPlugin.205.0\MetaXR\Source\MRUtilityKit\Private\MRUtilityKitDebugComponent.cpp">
+      <Filter>Plugins\Marketplace\UnrealMetaXRPlugin.205.0\MetaXR\Source\MRUtilityKit\Private</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\..\..\..\..\Program Files\Epic Games\UE_5.7\Engine\Plugins\Marketplace\UnrealMetaXRPlugin.205.0\MetaXR\Source\MRUtilityKit\Private\MRUtilityKitDestructibleMesh.cpp">
+      <Filter>Plugins\Marketplace\UnrealMetaXRPlugin.205.0\MetaXR\Source\MRUtilityKit\Private</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\..\..\..\..\Program Files\Epic Games\UE_5.7\Engine\Plugins\Marketplace\UnrealMetaXRPlugin.205.0\MetaXR\Source\MRUtilityKit\Private\MRUtilityKitDistanceMapGenerator.cpp">
+      <Filter>Plugins\Marketplace\UnrealMetaXRPlugin.205.0\MetaXR\Source\MRUtilityKit\Private</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\..\..\..\..\Program Files\Epic Games\UE_5.7\Engine\Plugins\Marketplace\UnrealMetaXRPlugin.205.0\MetaXR\Source\MRUtilityKit\Private\MRUtilityKitGeometry.cpp">
+      <Filter>Plugins\Marketplace\UnrealMetaXRPlugin.205.0\MetaXR\Source\MRUtilityKit\Private</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\..\..\..\..\Program Files\Epic Games\UE_5.7\Engine\Plugins\Marketplace\UnrealMetaXRPlugin.205.0\MetaXR\Source\MRUtilityKit\Private\MRUtilityKitGridSliceResizer.cpp">
+      <Filter>Plugins\Marketplace\UnrealMetaXRPlugin.205.0\MetaXR\Source\MRUtilityKit\Private</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\..\..\..\..\Program Files\Epic Games\UE_5.7\Engine\Plugins\Marketplace\UnrealMetaXRPlugin.205.0\MetaXR\Source\MRUtilityKit\Private\MRUtilityKitGuardian.cpp">
+      <Filter>Plugins\Marketplace\UnrealMetaXRPlugin.205.0\MetaXR\Source\MRUtilityKit\Private</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\..\..\..\..\Program Files\Epic Games\UE_5.7\Engine\Plugins\Marketplace\UnrealMetaXRPlugin.205.0\MetaXR\Source\MRUtilityKit\Private\MRUtilityKitGuardianSpawner.cpp">
+      <Filter>Plugins\Marketplace\UnrealMetaXRPlugin.205.0\MetaXR\Source\MRUtilityKit\Private</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\..\..\..\..\Program Files\Epic Games\UE_5.7\Engine\Plugins\Marketplace\UnrealMetaXRPlugin.205.0\MetaXR\Source\MRUtilityKit\Private\MRUtilityKitLightDispatcher.cpp">
+      <Filter>Plugins\Marketplace\UnrealMetaXRPlugin.205.0\MetaXR\Source\MRUtilityKit\Private</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\..\..\..\..\Program Files\Epic Games\UE_5.7\Engine\Plugins\Marketplace\UnrealMetaXRPlugin.205.0\MetaXR\Source\MRUtilityKit\Private\MRUtilityKitOpenXrExtensionPlugin.cpp">
+      <Filter>Plugins\Marketplace\UnrealMetaXRPlugin.205.0\MetaXR\Source\MRUtilityKit\Private</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\..\..\..\..\..\Program Files\Epic Games\UE_5.7\Engine\Plugins\Marketplace\UnrealMetaXRPlugin.205.0\MetaXR\Source\MRUtilityKit\Private\MRUtilityKitOpenXrExtensionPlugin.h">
+      <Filter>Plugins\Marketplace\UnrealMetaXRPlugin.205.0\MetaXR\Source\MRUtilityKit\Private</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\..\..\..\..\..\Program Files\Epic Games\UE_5.7\Engine\Plugins\Marketplace\UnrealMetaXRPlugin.205.0\MetaXR\Source\MRUtilityKit\Private\MRUtilityKitPositionGenerator.cpp">
+      <Filter>Plugins\Marketplace\UnrealMetaXRPlugin.205.0\MetaXR\Source\MRUtilityKit\Private</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\..\..\..\..\Program Files\Epic Games\UE_5.7\Engine\Plugins\Marketplace\UnrealMetaXRPlugin.205.0\MetaXR\Source\MRUtilityKit\Private\MRUtilityKitRoom.cpp">
+      <Filter>Plugins\Marketplace\UnrealMetaXRPlugin.205.0\MetaXR\Source\MRUtilityKit\Private</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\..\..\..\..\Program Files\Epic Games\UE_5.7\Engine\Plugins\Marketplace\UnrealMetaXRPlugin.205.0\MetaXR\Source\MRUtilityKit\Private\MRUtilityKitSceneDataProvider.cpp">
+      <Filter>Plugins\Marketplace\UnrealMetaXRPlugin.205.0\MetaXR\Source\MRUtilityKit\Private</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\..\..\..\..\Program Files\Epic Games\UE_5.7\Engine\Plugins\Marketplace\UnrealMetaXRPlugin.205.0\MetaXR\Source\MRUtilityKit\Private\MRUtilityKitSeatsComponent.cpp">
+      <Filter>Plugins\Marketplace\UnrealMetaXRPlugin.205.0\MetaXR\Source\MRUtilityKit\Private</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\..\..\..\..\Program Files\Epic Games\UE_5.7\Engine\Plugins\Marketplace\UnrealMetaXRPlugin.205.0\MetaXR\Source\MRUtilityKit\Private\MRUtilityKitShared.cpp">
+      <Filter>Plugins\Marketplace\UnrealMetaXRPlugin.205.0\MetaXR\Source\MRUtilityKit\Private</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\..\..\..\..\Program Files\Epic Games\UE_5.7\Engine\Plugins\Marketplace\UnrealMetaXRPlugin.205.0\MetaXR\Source\MRUtilityKit\Private\MRUtilityKitSharedHelper.cpp">
+      <Filter>Plugins\Marketplace\UnrealMetaXRPlugin.205.0\MetaXR\Source\MRUtilityKit\Private</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\..\..\..\..\..\Program Files\Epic Games\UE_5.7\Engine\Plugins\Marketplace\UnrealMetaXRPlugin.205.0\MetaXR\Source\MRUtilityKit\Private\MRUtilityKitSharedHelper.h">
+      <Filter>Plugins\Marketplace\UnrealMetaXRPlugin.205.0\MetaXR\Source\MRUtilityKit\Private</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\..\..\..\..\..\Program Files\Epic Games\UE_5.7\Engine\Plugins\Marketplace\UnrealMetaXRPlugin.205.0\MetaXR\Source\MRUtilityKit\Private\MRUtilityKitSubsystem.cpp">
+      <Filter>Plugins\Marketplace\UnrealMetaXRPlugin.205.0\MetaXR\Source\MRUtilityKit\Private</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\..\..\..\..\Program Files\Epic Games\UE_5.7\Engine\Plugins\Marketplace\UnrealMetaXRPlugin.205.0\MetaXR\Source\MRUtilityKit\Private\MRUtilityKitTrackable.cpp">
+      <Filter>Plugins\Marketplace\UnrealMetaXRPlugin.205.0\MetaXR\Source\MRUtilityKit\Private</Filter>
+    </ClCompile>
+    <Filter Include="Plugins\Marketplace\UnrealMetaXRPlugin.205.0\MetaXR\Source\MRUtilityKit\Public">
+      <UniqueIdentifier>{2F405659-64E8-3078-AE83-43E7128A667B}</UniqueIdentifier>
+    </Filter>
+    <ClInclude Include="..\..\..\..\..\..\..\Program Files\Epic Games\UE_5.7\Engine\Plugins\Marketplace\UnrealMetaXRPlugin.205.0\MetaXR\Source\MRUtilityKit\Public\MRUKPassthroughCameraAccess.h">
+      <Filter>Plugins\Marketplace\UnrealMetaXRPlugin.205.0\MetaXR\Source\MRUtilityKit\Public</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\..\..\..\..\Program Files\Epic Games\UE_5.7\Engine\Plugins\Marketplace\UnrealMetaXRPlugin.205.0\MetaXR\Source\MRUtilityKit\Public\MRUtilityKit.h">
+      <Filter>Plugins\Marketplace\UnrealMetaXRPlugin.205.0\MetaXR\Source\MRUtilityKit\Public</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\..\..\..\..\Program Files\Epic Games\UE_5.7\Engine\Plugins\Marketplace\UnrealMetaXRPlugin.205.0\MetaXR\Source\MRUtilityKit\Public\MRUtilityKitAnchor.h">
+      <Filter>Plugins\Marketplace\UnrealMetaXRPlugin.205.0\MetaXR\Source\MRUtilityKit\Public</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\..\..\..\..\Program Files\Epic Games\UE_5.7\Engine\Plugins\Marketplace\UnrealMetaXRPlugin.205.0\MetaXR\Source\MRUtilityKit\Public\MRUtilityKitAnchorActorSpawner.h">
+      <Filter>Plugins\Marketplace\UnrealMetaXRPlugin.205.0\MetaXR\Source\MRUtilityKit\Public</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\..\..\..\..\Program Files\Epic Games\UE_5.7\Engine\Plugins\Marketplace\UnrealMetaXRPlugin.205.0\MetaXR\Source\MRUtilityKit\Public\MRUtilityKitBlobShadowComponent.h">
+      <Filter>Plugins\Marketplace\UnrealMetaXRPlugin.205.0\MetaXR\Source\MRUtilityKit\Public</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\..\..\..\..\Program Files\Epic Games\UE_5.7\Engine\Plugins\Marketplace\UnrealMetaXRPlugin.205.0\MetaXR\Source\MRUtilityKit\Public\MRUtilityKitBPLibrary.h">
+      <Filter>Plugins\Marketplace\UnrealMetaXRPlugin.205.0\MetaXR\Source\MRUtilityKit\Public</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\..\..\..\..\Program Files\Epic Games\UE_5.7\Engine\Plugins\Marketplace\UnrealMetaXRPlugin.205.0\MetaXR\Source\MRUtilityKit\Public\MRUtilityKitDebugComponent.h">
+      <Filter>Plugins\Marketplace\UnrealMetaXRPlugin.205.0\MetaXR\Source\MRUtilityKit\Public</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\..\..\..\..\Program Files\Epic Games\UE_5.7\Engine\Plugins\Marketplace\UnrealMetaXRPlugin.205.0\MetaXR\Source\MRUtilityKit\Public\MRUtilityKitDestructibleMesh.h">
+      <Filter>Plugins\Marketplace\UnrealMetaXRPlugin.205.0\MetaXR\Source\MRUtilityKit\Public</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\..\..\..\..\Program Files\Epic Games\UE_5.7\Engine\Plugins\Marketplace\UnrealMetaXRPlugin.205.0\MetaXR\Source\MRUtilityKit\Public\MRUtilityKitDistanceMapGenerator.h">
+      <Filter>Plugins\Marketplace\UnrealMetaXRPlugin.205.0\MetaXR\Source\MRUtilityKit\Public</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\..\..\..\..\Program Files\Epic Games\UE_5.7\Engine\Plugins\Marketplace\UnrealMetaXRPlugin.205.0\MetaXR\Source\MRUtilityKit\Public\MRUtilityKitGeometry.h">
+      <Filter>Plugins\Marketplace\UnrealMetaXRPlugin.205.0\MetaXR\Source\MRUtilityKit\Public</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\..\..\..\..\Program Files\Epic Games\UE_5.7\Engine\Plugins\Marketplace\UnrealMetaXRPlugin.205.0\MetaXR\Source\MRUtilityKit\Public\MRUtilityKitGridSliceResizer.h">
+      <Filter>Plugins\Marketplace\UnrealMetaXRPlugin.205.0\MetaXR\Source\MRUtilityKit\Public</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\..\..\..\..\Program Files\Epic Games\UE_5.7\Engine\Plugins\Marketplace\UnrealMetaXRPlugin.205.0\MetaXR\Source\MRUtilityKit\Public\MRUtilityKitGuardian.h">
+      <Filter>Plugins\Marketplace\UnrealMetaXRPlugin.205.0\MetaXR\Source\MRUtilityKit\Public</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\..\..\..\..\Program Files\Epic Games\UE_5.7\Engine\Plugins\Marketplace\UnrealMetaXRPlugin.205.0\MetaXR\Source\MRUtilityKit\Public\MRUtilityKitGuardianSpawner.h">
+      <Filter>Plugins\Marketplace\UnrealMetaXRPlugin.205.0\MetaXR\Source\MRUtilityKit\Public</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\..\..\..\..\Program Files\Epic Games\UE_5.7\Engine\Plugins\Marketplace\UnrealMetaXRPlugin.205.0\MetaXR\Source\MRUtilityKit\Public\MRUtilityKitLightDispatcher.h">
+      <Filter>Plugins\Marketplace\UnrealMetaXRPlugin.205.0\MetaXR\Source\MRUtilityKit\Public</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\..\..\..\..\Program Files\Epic Games\UE_5.7\Engine\Plugins\Marketplace\UnrealMetaXRPlugin.205.0\MetaXR\Source\MRUtilityKit\Public\MRUtilityKitPositionGenerator.h">
+      <Filter>Plugins\Marketplace\UnrealMetaXRPlugin.205.0\MetaXR\Source\MRUtilityKit\Public</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\..\..\..\..\Program Files\Epic Games\UE_5.7\Engine\Plugins\Marketplace\UnrealMetaXRPlugin.205.0\MetaXR\Source\MRUtilityKit\Public\MRUtilityKitRoom.h">
+      <Filter>Plugins\Marketplace\UnrealMetaXRPlugin.205.0\MetaXR\Source\MRUtilityKit\Public</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\..\..\..\..\Program Files\Epic Games\UE_5.7\Engine\Plugins\Marketplace\UnrealMetaXRPlugin.205.0\MetaXR\Source\MRUtilityKit\Public\MRUtilityKitSceneDataProvider.h">
+      <Filter>Plugins\Marketplace\UnrealMetaXRPlugin.205.0\MetaXR\Source\MRUtilityKit\Public</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\..\..\..\..\Program Files\Epic Games\UE_5.7\Engine\Plugins\Marketplace\UnrealMetaXRPlugin.205.0\MetaXR\Source\MRUtilityKit\Public\MRUtilityKitSeatsComponent.h">
+      <Filter>Plugins\Marketplace\UnrealMetaXRPlugin.205.0\MetaXR\Source\MRUtilityKit\Public</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\..\..\..\..\Program Files\Epic Games\UE_5.7\Engine\Plugins\Marketplace\UnrealMetaXRPlugin.205.0\MetaXR\Source\MRUtilityKit\Public\MRUtilityKitSubsystem.h">
+      <Filter>Plugins\Marketplace\UnrealMetaXRPlugin.205.0\MetaXR\Source\MRUtilityKit\Public</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\..\..\..\..\Program Files\Epic Games\UE_5.7\Engine\Plugins\Marketplace\UnrealMetaXRPlugin.205.0\MetaXR\Source\MRUtilityKit\Public\MRUtilityKitTelemetry.h">
+      <Filter>Plugins\Marketplace\UnrealMetaXRPlugin.205.0\MetaXR\Source\MRUtilityKit\Public</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\..\..\..\..\Program Files\Epic Games\UE_5.7\Engine\Plugins\Marketplace\UnrealMetaXRPlugin.205.0\MetaXR\Source\MRUtilityKit\Public\MRUtilityKitTrackable.h">
+      <Filter>Plugins\Marketplace\UnrealMetaXRPlugin.205.0\MetaXR\Source\MRUtilityKit\Public</Filter>
+    </ClInclude>
+    <Filter Include="Plugins\Marketplace\UnrealMetaXRPlugin.205.0\MetaXR\Source\OculusXRAnchors">
+      <UniqueIdentifier>{298864C7-64AA-3846-AEB3-40CE85B088DE}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\..\..\..\..\..\Program Files\Epic Games\UE_5.7\Engine\Plugins\Marketplace\UnrealMetaXRPlugin.205.0\MetaXR\Source\OculusXRAnchors\OculusXRAnchors.Build.cs">
+      <Filter>Plugins\Marketplace\UnrealMetaXRPlugin.205.0\MetaXR\Source\OculusXRAnchors</Filter>
+    </None>
+    <Filter Include="Plugins\Marketplace\UnrealMetaXRPlugin.205.0\MetaXR\Source\OculusXRAnchors\Private">
+      <UniqueIdentifier>{6CC70C54-510D-3081-8135-387E07EB7C6C}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\..\..\..\..\..\Program Files\Epic Games\UE_5.7\Engine\Plugins\Marketplace\UnrealMetaXRPlugin.205.0\MetaXR\Source\OculusXRAnchors\Private\OculusXRAnchorBPFunctionLibrary.cpp">
+      <Filter>Plugins\Marketplace\UnrealMetaXRPlugin.205.0\MetaXR\Source\OculusXRAnchors\Private</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\..\..\..\..\Program Files\Epic Games\UE_5.7\Engine\Plugins\Marketplace\UnrealMetaXRPlugin.205.0\MetaXR\Source\OculusXRAnchors\Private\OculusXRAnchorComponent.cpp">
+      <Filter>Plugins\Marketplace\UnrealMetaXRPlugin.205.0\MetaXR\Source\OculusXRAnchors\Private</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\..\..\..\..\Program Files\Epic Games\UE_5.7\Engine\Plugins\Marketplace\UnrealMetaXRPlugin.205.0\MetaXR\Source\OculusXRAnchors\Private\OculusXRAnchorComponents.cpp">
+      <Filter>Plugins\Marketplace\UnrealMetaXRPlugin.205.0\MetaXR\Source\OculusXRAnchors\Private</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\..\..\..\..\Program Files\Epic Games\UE_5.7\Engine\Plugins\Marketplace\UnrealMetaXRPlugin.205.0\MetaXR\Source\OculusXRAnchors\Private\OculusXRAnchorDelegates.cpp">
+      <Filter>Plugins\Marketplace\UnrealMetaXRPlugin.205.0\MetaXR\Source\OculusXRAnchors\Private</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\..\..\..\..\Program Files\Epic Games\UE_5.7\Engine\Plugins\Marketplace\UnrealMetaXRPlugin.205.0\MetaXR\Source\OculusXRAnchors\Private\OculusXRAnchorFunctionsOpenXR.cpp">
+      <Filter>Plugins\Marketplace\UnrealMetaXRPlugin.205.0\MetaXR\Source\OculusXRAnchors\Private</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\..\..\..\..\..\Program Files\Epic Games\UE_5.7\Engine\Plugins\Marketplace\UnrealMetaXRPlugin.205.0\MetaXR\Source\OculusXRAnchors\Private\OculusXRAnchorFunctionsOpenXR.h">
+      <Filter>Plugins\Marketplace\UnrealMetaXRPlugin.205.0\MetaXR\Source\OculusXRAnchors\Private</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\..\..\..\..\..\Program Files\Epic Games\UE_5.7\Engine\Plugins\Marketplace\UnrealMetaXRPlugin.205.0\MetaXR\Source\OculusXRAnchors\Private\OculusXRAnchorFunctionsOVR.cpp">
+      <Filter>Plugins\Marketplace\UnrealMetaXRPlugin.205.0\MetaXR\Source\OculusXRAnchors\Private</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\..\..\..\..\..\Program Files\Epic Games\UE_5.7\Engine\Plugins\Marketplace\UnrealMetaXRPlugin.205.0\MetaXR\Source\OculusXRAnchors\Private\OculusXRAnchorFunctionsOVR.h">
+      <Filter>Plugins\Marketplace\UnrealMetaXRPlugin.205.0\MetaXR\Source\OculusXRAnchors\Private</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\..\..\..\..\..\Program Files\Epic Games\UE_5.7\Engine\Plugins\Marketplace\UnrealMetaXRPlugin.205.0\MetaXR\Source\OculusXRAnchors\Private\OculusXRAnchorLatentActions.cpp">
+      <Filter>Plugins\Marketplace\UnrealMetaXRPlugin.205.0\MetaXR\Source\OculusXRAnchors\Private</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\..\..\..\..\Program Files\Epic Games\UE_5.7\Engine\Plugins\Marketplace\UnrealMetaXRPlugin.205.0\MetaXR\Source\OculusXRAnchors\Private\OculusXRAnchorManager.cpp">
+      <Filter>Plugins\Marketplace\UnrealMetaXRPlugin.205.0\MetaXR\Source\OculusXRAnchors\Private</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\..\..\..\..\..\Program Files\Epic Games\UE_5.7\Engine\Plugins\Marketplace\UnrealMetaXRPlugin.205.0\MetaXR\Source\OculusXRAnchors\Private\OculusXRAnchorManager.h">
+      <Filter>Plugins\Marketplace\UnrealMetaXRPlugin.205.0\MetaXR\Source\OculusXRAnchors\Private</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\..\..\..\..\..\Program Files\Epic Games\UE_5.7\Engine\Plugins\Marketplace\UnrealMetaXRPlugin.205.0\MetaXR\Source\OculusXRAnchors\Private\OculusXRAnchorRequests.cpp">
+      <Filter>Plugins\Marketplace\UnrealMetaXRPlugin.205.0\MetaXR\Source\OculusXRAnchors\Private</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\..\..\..\..\Program Files\Epic Games\UE_5.7\Engine\Plugins\Marketplace\UnrealMetaXRPlugin.205.0\MetaXR\Source\OculusXRAnchors\Private\OculusXRAnchors.cpp">
+      <Filter>Plugins\Marketplace\UnrealMetaXRPlugin.205.0\MetaXR\Source\OculusXRAnchors\Private</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\..\..\..\..\Program Files\Epic Games\UE_5.7\Engine\Plugins\Marketplace\UnrealMetaXRPlugin.205.0\MetaXR\Source\OculusXRAnchors\Private\OculusXRAnchorsEventPolling.cpp">
+      <Filter>Plugins\Marketplace\UnrealMetaXRPlugin.205.0\MetaXR\Source\OculusXRAnchors\Private</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\..\..\..\..\..\Program Files\Epic Games\UE_5.7\Engine\Plugins\Marketplace\UnrealMetaXRPlugin.205.0\MetaXR\Source\OculusXRAnchors\Private\OculusXRAnchorsEventPolling.h">
+      <Filter>Plugins\Marketplace\UnrealMetaXRPlugin.205.0\MetaXR\Source\OculusXRAnchors\Private</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\..\..\..\..\..\Program Files\Epic Games\UE_5.7\Engine\Plugins\Marketplace\UnrealMetaXRPlugin.205.0\MetaXR\Source\OculusXRAnchors\Private\OculusXRAnchorsModule.cpp">
+      <Filter>Plugins\Marketplace\UnrealMetaXRPlugin.205.0\MetaXR\Source\OculusXRAnchors\Private</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\..\..\..\..\..\Program Files\Epic Games\UE_5.7\Engine\Plugins\Marketplace\UnrealMetaXRPlugin.205.0\MetaXR\Source\OculusXRAnchors\Private\OculusXRAnchorsModule.h">
+      <Filter>Plugins\Marketplace\UnrealMetaXRPlugin.205.0\MetaXR\Source\OculusXRAnchors\Private</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\..\..\..\..\Program Files\Epic Games\UE_5.7\Engine\Plugins\Marketplace\UnrealMetaXRPlugin.205.0\MetaXR\Source\OculusXRAnchors\Private\OculusXRAnchorsPrivate.h">
+      <Filter>Plugins\Marketplace\UnrealMetaXRPlugin.205.0\MetaXR\Source\OculusXRAnchors\Private</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\..\..\..\..\..\Program Files\Epic Games\UE_5.7\Engine\Plugins\Marketplace\UnrealMetaXRPlugin.205.0\MetaXR\Source\OculusXRAnchors\Private\OculusXRAnchorsUtil.cpp">
+      <Filter>Plugins\Marketplace\UnrealMetaXRPlugin.205.0\MetaXR\Source\OculusXRAnchors\Private</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\..\..\..\..\..\Program Files\Epic Games\UE_5.7\Engine\Plugins\Marketplace\UnrealMetaXRPlugin.205.0\MetaXR\Source\OculusXRAnchors\Private\OculusXRAnchorsUtil.h">
+      <Filter>Plugins\Marketplace\UnrealMetaXRPlugin.205.0\MetaXR\Source\OculusXRAnchors\Private</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\..\..\..\..\..\Program Files\Epic Games\UE_5.7\Engine\Plugins\Marketplace\UnrealMetaXRPlugin.205.0\MetaXR\Source\OculusXRAnchors\Private\OculusXRAnchorTypes.cpp">
+      <Filter>Plugins\Marketplace\UnrealMetaXRPlugin.205.0\MetaXR\Source\OculusXRAnchors\Private</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\..\..\..\..\Program Files\Epic Games\UE_5.7\Engine\Plugins\Marketplace\UnrealMetaXRPlugin.205.0\MetaXR\Source\OculusXRAnchors\Private\OculusXRAnchorTypesPrivate.cpp">
+      <Filter>Plugins\Marketplace\UnrealMetaXRPlugin.205.0\MetaXR\Source\OculusXRAnchors\Private</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\..\..\..\..\..\Program Files\Epic Games\UE_5.7\Engine\Plugins\Marketplace\UnrealMetaXRPlugin.205.0\MetaXR\Source\OculusXRAnchors\Private\OculusXRAnchorTypesPrivate.h">
+      <Filter>Plugins\Marketplace\UnrealMetaXRPlugin.205.0\MetaXR\Source\OculusXRAnchors\Private</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\..\..\..\..\..\Program Files\Epic Games\UE_5.7\Engine\Plugins\Marketplace\UnrealMetaXRPlugin.205.0\MetaXR\Source\OculusXRAnchors\Private\OculusXRSpatialAnchorComponent.cpp">
+      <Filter>Plugins\Marketplace\UnrealMetaXRPlugin.205.0\MetaXR\Source\OculusXRAnchors\Private</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\..\..\..\..\Program Files\Epic Games\UE_5.7\Engine\Plugins\Marketplace\UnrealMetaXRPlugin.205.0\MetaXR\Source\OculusXRAnchors\Private\OculusXRSpatialAnchorManager.cpp">
+      <Filter>Plugins\Marketplace\UnrealMetaXRPlugin.205.0\MetaXR\Source\OculusXRAnchors\Private</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\..\..\..\..\..\Program Files\Epic Games\UE_5.7\Engine\Plugins\Marketplace\UnrealMetaXRPlugin.205.0\MetaXR\Source\OculusXRAnchors\Private\OculusXRSpatialAnchorManager.h">
+      <Filter>Plugins\Marketplace\UnrealMetaXRPlugin.205.0\MetaXR\Source\OculusXRAnchors\Private</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\..\..\..\..\Program Files\Epic Games\UE_5.7\Engine\Plugins\Marketplace\UnrealMetaXRPlugin.205.0\MetaXR\Source\OculusXRAnchors\Private\OculusXRTelemetryAnchorsEvents.h">
+      <Filter>Plugins\Marketplace\UnrealMetaXRPlugin.205.0\MetaXR\Source\OculusXRAnchors\Private</Filter>
+    </ClInclude>
+    <Filter Include="Plugins\Marketplace\UnrealMetaXRPlugin.205.0\MetaXR\Source\OculusXRAnchors\Private\openxr">
+      <UniqueIdentifier>{4D660285-08E6-3C23-8CEE-CE45D54E7D8F}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\..\..\..\..\..\Program Files\Epic Games\UE_5.7\Engine\Plugins\Marketplace\UnrealMetaXRPlugin.205.0\MetaXR\Source\OculusXRAnchors\Private\openxr\OculusXRAnchorsXR.cpp">
+      <Filter>Plugins\Marketplace\UnrealMetaXRPlugin.205.0\MetaXR\Source\OculusXRAnchors\Private\openxr</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\..\..\..\..\..\Program Files\Epic Games\UE_5.7\Engine\Plugins\Marketplace\UnrealMetaXRPlugin.205.0\MetaXR\Source\OculusXRAnchors\Private\openxr\OculusXRAnchorsXR.h">
+      <Filter>Plugins\Marketplace\UnrealMetaXRPlugin.205.0\MetaXR\Source\OculusXRAnchors\Private\openxr</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\..\..\..\..\Program Files\Epic Games\UE_5.7\Engine\Plugins\Marketplace\UnrealMetaXRPlugin.205.0\MetaXR\Source\OculusXRAnchors\Private\openxr\OculusXRAnchorsXRIncludes.h">
+      <Filter>Plugins\Marketplace\UnrealMetaXRPlugin.205.0\MetaXR\Source\OculusXRAnchors\Private\openxr</Filter>
+    </ClInclude>
+    <Filter Include="Plugins\Marketplace\UnrealMetaXRPlugin.205.0\MetaXR\Source\OculusXRAnchors\Public">
+      <UniqueIdentifier>{CBF55A58-620C-3047-A8D0-5CF60CA107B3}</UniqueIdentifier>
+    </Filter>
+    <ClInclude Include="..\..\..\..\..\..\..\Program Files\Epic Games\UE_5.7\Engine\Plugins\Marketplace\UnrealMetaXRPlugin.205.0\MetaXR\Source\OculusXRAnchors\Public\IOculusXRAnchorsModule.h">
+      <Filter>Plugins\Marketplace\UnrealMetaXRPlugin.205.0\MetaXR\Source\OculusXRAnchors\Public</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\..\..\..\..\Program Files\Epic Games\UE_5.7\Engine\Plugins\Marketplace\UnrealMetaXRPlugin.205.0\MetaXR\Source\OculusXRAnchors\Public\OculusXRAnchorBPFunctionLibrary.h">
+      <Filter>Plugins\Marketplace\UnrealMetaXRPlugin.205.0\MetaXR\Source\OculusXRAnchors\Public</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\..\..\..\..\Program Files\Epic Games\UE_5.7\Engine\Plugins\Marketplace\UnrealMetaXRPlugin.205.0\MetaXR\Source\OculusXRAnchors\Public\OculusXRAnchorComponent.h">
+      <Filter>Plugins\Marketplace\UnrealMetaXRPlugin.205.0\MetaXR\Source\OculusXRAnchors\Public</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\..\..\..\..\Program Files\Epic Games\UE_5.7\Engine\Plugins\Marketplace\UnrealMetaXRPlugin.205.0\MetaXR\Source\OculusXRAnchors\Public\OculusXRAnchorComponents.h">
+      <Filter>Plugins\Marketplace\UnrealMetaXRPlugin.205.0\MetaXR\Source\OculusXRAnchors\Public</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\..\..\..\..\Program Files\Epic Games\UE_5.7\Engine\Plugins\Marketplace\UnrealMetaXRPlugin.205.0\MetaXR\Source\OculusXRAnchors\Public\OculusXRAnchorDelegates.h">
+      <Filter>Plugins\Marketplace\UnrealMetaXRPlugin.205.0\MetaXR\Source\OculusXRAnchors\Public</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\..\..\..\..\Program Files\Epic Games\UE_5.7\Engine\Plugins\Marketplace\UnrealMetaXRPlugin.205.0\MetaXR\Source\OculusXRAnchors\Public\OculusXRAnchorFunctions.h">
+      <Filter>Plugins\Marketplace\UnrealMetaXRPlugin.205.0\MetaXR\Source\OculusXRAnchors\Public</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\..\..\..\..\Program Files\Epic Games\UE_5.7\Engine\Plugins\Marketplace\UnrealMetaXRPlugin.205.0\MetaXR\Source\OculusXRAnchors\Public\OculusXRAnchorLatentActions.h">
+      <Filter>Plugins\Marketplace\UnrealMetaXRPlugin.205.0\MetaXR\Source\OculusXRAnchors\Public</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\..\..\..\..\Program Files\Epic Games\UE_5.7\Engine\Plugins\Marketplace\UnrealMetaXRPlugin.205.0\MetaXR\Source\OculusXRAnchors\Public\OculusXRAnchors.h">
+      <Filter>Plugins\Marketplace\UnrealMetaXRPlugin.205.0\MetaXR\Source\OculusXRAnchors\Public</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\..\..\..\..\Program Files\Epic Games\UE_5.7\Engine\Plugins\Marketplace\UnrealMetaXRPlugin.205.0\MetaXR\Source\OculusXRAnchors\Public\OculusXRAnchorsRequests.h">
+      <Filter>Plugins\Marketplace\UnrealMetaXRPlugin.205.0\MetaXR\Source\OculusXRAnchors\Public</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\..\..\..\..\Program Files\Epic Games\UE_5.7\Engine\Plugins\Marketplace\UnrealMetaXRPlugin.205.0\MetaXR\Source\OculusXRAnchors\Public\OculusXRAnchorTypes.h">
+      <Filter>Plugins\Marketplace\UnrealMetaXRPlugin.205.0\MetaXR\Source\OculusXRAnchors\Public</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\..\..\..\..\Program Files\Epic Games\UE_5.7\Engine\Plugins\Marketplace\UnrealMetaXRPlugin.205.0\MetaXR\Source\OculusXRAnchors\Public\OculusXRSpatialAnchorComponent.h">
+      <Filter>Plugins\Marketplace\UnrealMetaXRPlugin.205.0\MetaXR\Source\OculusXRAnchors\Public</Filter>
+    </ClInclude>
+    <Filter Include="Plugins\Marketplace\UnrealMetaXRPlugin.205.0\MetaXR\Source\OculusXRAsyncRequest">
+      <UniqueIdentifier>{5B0BB702-3D82-3B2A-8C80-187633E4CB96}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\..\..\..\..\..\Program Files\Epic Games\UE_5.7\Engine\Plugins\Marketplace\UnrealMetaXRPlugin.205.0\MetaXR\Source\OculusXRAsyncRequest\OculusXRAsyncRequest.Build.cs">
+      <Filter>Plugins\Marketplace\UnrealMetaXRPlugin.205.0\MetaXR\Source\OculusXRAsyncRequest</Filter>
+    </None>
+    <Filter Include="Plugins\Marketplace\UnrealMetaXRPlugin.205.0\MetaXR\Source\OculusXRAsyncRequest\Private">
+      <UniqueIdentifier>{D7B0E8F4-12E7-3348-949D-E05A148DE92B}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\..\..\..\..\..\Program Files\Epic Games\UE_5.7\Engine\Plugins\Marketplace\UnrealMetaXRPlugin.205.0\MetaXR\Source\OculusXRAsyncRequest\Private\OculusXRAsyncRequestModule.cpp">
+      <Filter>Plugins\Marketplace\UnrealMetaXRPlugin.205.0\MetaXR\Source\OculusXRAsyncRequest\Private</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\..\..\..\..\..\Program Files\Epic Games\UE_5.7\Engine\Plugins\Marketplace\UnrealMetaXRPlugin.205.0\MetaXR\Source\OculusXRAsyncRequest\Private\OculusXRAsyncRequestModule.h">
+      <Filter>Plugins\Marketplace\UnrealMetaXRPlugin.205.0\MetaXR\Source\OculusXRAsyncRequest\Private</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\..\..\..\..\..\Program Files\Epic Games\UE_5.7\Engine\Plugins\Marketplace\UnrealMetaXRPlugin.205.0\MetaXR\Source\OculusXRAsyncRequest\Private\OculusXRAsyncRequestSubsystem.cpp">
+      <Filter>Plugins\Marketplace\UnrealMetaXRPlugin.205.0\MetaXR\Source\OculusXRAsyncRequest\Private</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\..\..\..\..\..\Program Files\Epic Games\UE_5.7\Engine\Plugins\Marketplace\UnrealMetaXRPlugin.205.0\MetaXR\Source\OculusXRAsyncRequest\Private\OculusXRAsyncRequestSubsystem.h">
+      <Filter>Plugins\Marketplace\UnrealMetaXRPlugin.205.0\MetaXR\Source\OculusXRAsyncRequest\Private</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\..\..\..\..\..\Program Files\Epic Games\UE_5.7\Engine\Plugins\Marketplace\UnrealMetaXRPlugin.205.0\MetaXR\Source\OculusXRAsyncRequest\Private\OculusXRAsyncRequestSystem.cpp">
+      <Filter>Plugins\Marketplace\UnrealMetaXRPlugin.205.0\MetaXR\Source\OculusXRAsyncRequest\Private</Filter>
+    </ClCompile>
+    <Filter Include="Plugins\Marketplace\UnrealMetaXRPlugin.205.0\MetaXR\Source\OculusXRAsyncRequest\Public">
+      <UniqueIdentifier>{6E5BC88F-DAD7-3EF9-9AB3-1EB65ECC3CA9}</UniqueIdentifier>
+    </Filter>
+    <ClInclude Include="..\..\..\..\..\..\..\Program Files\Epic Games\UE_5.7\Engine\Plugins\Marketplace\UnrealMetaXRPlugin.205.0\MetaXR\Source\OculusXRAsyncRequest\Public\IOculusXRAsyncRequestModule.h">
+      <Filter>Plugins\Marketplace\UnrealMetaXRPlugin.205.0\MetaXR\Source\OculusXRAsyncRequest\Public</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\..\..\..\..\Program Files\Epic Games\UE_5.7\Engine\Plugins\Marketplace\UnrealMetaXRPlugin.205.0\MetaXR\Source\OculusXRAsyncRequest\Public\OculusXRAsyncRequest.h">
+      <Filter>Plugins\Marketplace\UnrealMetaXRPlugin.205.0\MetaXR\Source\OculusXRAsyncRequest\Public</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\..\..\..\..\Program Files\Epic Games\UE_5.7\Engine\Plugins\Marketplace\UnrealMetaXRPlugin.205.0\MetaXR\Source\OculusXRAsyncRequest\Public\OculusXRAsyncRequestBase.h">
+      <Filter>Plugins\Marketplace\UnrealMetaXRPlugin.205.0\MetaXR\Source\OculusXRAsyncRequest\Public</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\..\..\..\..\Program Files\Epic Games\UE_5.7\Engine\Plugins\Marketplace\UnrealMetaXRPlugin.205.0\MetaXR\Source\OculusXRAsyncRequest\Public\OculusXRAsyncRequestSystem.h">
+      <Filter>Plugins\Marketplace\UnrealMetaXRPlugin.205.0\MetaXR\Source\OculusXRAsyncRequest\Public</Filter>
+    </ClInclude>
+    <Filter Include="Plugins\Marketplace\UnrealMetaXRPlugin.205.0\MetaXR\Source\OculusXRColocation">
+      <UniqueIdentifier>{BA9C5637-4BA2-3AB0-A501-94783D1F0F0A}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\..\..\..\..\..\Program Files\Epic Games\UE_5.7\Engine\Plugins\Marketplace\UnrealMetaXRPlugin.205.0\MetaXR\Source\OculusXRColocation\OculusXRColocation.Build.cs">
+      <Filter>Plugins\Marketplace\UnrealMetaXRPlugin.205.0\MetaXR\Source\OculusXRColocation</Filter>
+    </None>
+    <Filter Include="Plugins\Marketplace\UnrealMetaXRPlugin.205.0\MetaXR\Source\OculusXRColocation\Private">
+      <UniqueIdentifier>{C1878C1B-A46F-3133-8729-299D447F5208}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\..\..\..\..\..\Program Files\Epic Games\UE_5.7\Engine\Plugins\Marketplace\UnrealMetaXRPlugin.205.0\MetaXR\Source\OculusXRColocation\Private\OculusXRColocation.cpp">
+      <Filter>Plugins\Marketplace\UnrealMetaXRPlugin.205.0\MetaXR\Source\OculusXRColocation\Private</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\..\..\..\..\Program Files\Epic Games\UE_5.7\Engine\Plugins\Marketplace\UnrealMetaXRPlugin.205.0\MetaXR\Source\OculusXRColocation\Private\OculusXRColocationEventDelegates.cpp">
+      <Filter>Plugins\Marketplace\UnrealMetaXRPlugin.205.0\MetaXR\Source\OculusXRColocation\Private</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\..\..\..\..\..\Program Files\Epic Games\UE_5.7\Engine\Plugins\Marketplace\UnrealMetaXRPlugin.205.0\MetaXR\Source\OculusXRColocation\Private\OculusXRColocationEventDelegates.h">
+      <Filter>Plugins\Marketplace\UnrealMetaXRPlugin.205.0\MetaXR\Source\OculusXRColocation\Private</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\..\..\..\..\..\Program Files\Epic Games\UE_5.7\Engine\Plugins\Marketplace\UnrealMetaXRPlugin.205.0\MetaXR\Source\OculusXRColocation\Private\OculusXRColocationEventPolling.cpp">
+      <Filter>Plugins\Marketplace\UnrealMetaXRPlugin.205.0\MetaXR\Source\OculusXRColocation\Private</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\..\..\..\..\..\Program Files\Epic Games\UE_5.7\Engine\Plugins\Marketplace\UnrealMetaXRPlugin.205.0\MetaXR\Source\OculusXRColocation\Private\OculusXRColocationEventPolling.h">
+      <Filter>Plugins\Marketplace\UnrealMetaXRPlugin.205.0\MetaXR\Source\OculusXRColocation\Private</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\..\..\..\..\..\Program Files\Epic Games\UE_5.7\Engine\Plugins\Marketplace\UnrealMetaXRPlugin.205.0\MetaXR\Source\OculusXRColocation\Private\OculusXRColocationFunctionLibrary.cpp">
+      <Filter>Plugins\Marketplace\UnrealMetaXRPlugin.205.0\MetaXR\Source\OculusXRColocation\Private</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\..\..\..\..\Program Files\Epic Games\UE_5.7\Engine\Plugins\Marketplace\UnrealMetaXRPlugin.205.0\MetaXR\Source\OculusXRColocation\Private\OculusXRColocationFunctions.cpp">
+      <Filter>Plugins\Marketplace\UnrealMetaXRPlugin.205.0\MetaXR\Source\OculusXRColocation\Private</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\..\..\..\..\..\Program Files\Epic Games\UE_5.7\Engine\Plugins\Marketplace\UnrealMetaXRPlugin.205.0\MetaXR\Source\OculusXRColocation\Private\OculusXRColocationFunctions.h">
+      <Filter>Plugins\Marketplace\UnrealMetaXRPlugin.205.0\MetaXR\Source\OculusXRColocation\Private</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\..\..\..\..\..\Program Files\Epic Games\UE_5.7\Engine\Plugins\Marketplace\UnrealMetaXRPlugin.205.0\MetaXR\Source\OculusXRColocation\Private\OculusXRColocationFunctionsOpenXR.cpp">
+      <Filter>Plugins\Marketplace\UnrealMetaXRPlugin.205.0\MetaXR\Source\OculusXRColocation\Private</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\..\..\..\..\..\Program Files\Epic Games\UE_5.7\Engine\Plugins\Marketplace\UnrealMetaXRPlugin.205.0\MetaXR\Source\OculusXRColocation\Private\OculusXRColocationFunctionsOpenXR.h">
+      <Filter>Plugins\Marketplace\UnrealMetaXRPlugin.205.0\MetaXR\Source\OculusXRColocation\Private</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\..\..\..\..\..\Program Files\Epic Games\UE_5.7\Engine\Plugins\Marketplace\UnrealMetaXRPlugin.205.0\MetaXR\Source\OculusXRColocation\Private\OculusXRColocationFunctionsOVR.cpp">
+      <Filter>Plugins\Marketplace\UnrealMetaXRPlugin.205.0\MetaXR\Source\OculusXRColocation\Private</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\..\..\..\..\..\Program Files\Epic Games\UE_5.7\Engine\Plugins\Marketplace\UnrealMetaXRPlugin.205.0\MetaXR\Source\OculusXRColocation\Private\OculusXRColocationFunctionsOVR.h">
+      <Filter>Plugins\Marketplace\UnrealMetaXRPlugin.205.0\MetaXR\Source\OculusXRColocation\Private</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\..\..\..\..\..\Program Files\Epic Games\UE_5.7\Engine\Plugins\Marketplace\UnrealMetaXRPlugin.205.0\MetaXR\Source\OculusXRColocation\Private\OculusXRColocationLatentActions.cpp">
+      <Filter>Plugins\Marketplace\UnrealMetaXRPlugin.205.0\MetaXR\Source\OculusXRColocation\Private</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\..\..\..\..\Program Files\Epic Games\UE_5.7\Engine\Plugins\Marketplace\UnrealMetaXRPlugin.205.0\MetaXR\Source\OculusXRColocation\Private\OculusXRColocationModule.cpp">
+      <Filter>Plugins\Marketplace\UnrealMetaXRPlugin.205.0\MetaXR\Source\OculusXRColocation\Private</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\..\..\..\..\..\Program Files\Epic Games\UE_5.7\Engine\Plugins\Marketplace\UnrealMetaXRPlugin.205.0\MetaXR\Source\OculusXRColocation\Private\OculusXRColocationModule.h">
+      <Filter>Plugins\Marketplace\UnrealMetaXRPlugin.205.0\MetaXR\Source\OculusXRColocation\Private</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\..\..\..\..\..\Program Files\Epic Games\UE_5.7\Engine\Plugins\Marketplace\UnrealMetaXRPlugin.205.0\MetaXR\Source\OculusXRColocation\Private\OculusXRColocationRequests.cpp">
+      <Filter>Plugins\Marketplace\UnrealMetaXRPlugin.205.0\MetaXR\Source\OculusXRColocation\Private</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\..\..\..\..\Program Files\Epic Games\UE_5.7\Engine\Plugins\Marketplace\UnrealMetaXRPlugin.205.0\MetaXR\Source\OculusXRColocation\Private\OculusXRColocationSubsystem.cpp">
+      <Filter>Plugins\Marketplace\UnrealMetaXRPlugin.205.0\MetaXR\Source\OculusXRColocation\Private</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\..\..\..\..\Program Files\Epic Games\UE_5.7\Engine\Plugins\Marketplace\UnrealMetaXRPlugin.205.0\MetaXR\Source\OculusXRColocation\Private\OculusXRColocationUtil.cpp">
+      <Filter>Plugins\Marketplace\UnrealMetaXRPlugin.205.0\MetaXR\Source\OculusXRColocation\Private</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\..\..\..\..\..\Program Files\Epic Games\UE_5.7\Engine\Plugins\Marketplace\UnrealMetaXRPlugin.205.0\MetaXR\Source\OculusXRColocation\Private\OculusXRColocationUtil.h">
+      <Filter>Plugins\Marketplace\UnrealMetaXRPlugin.205.0\MetaXR\Source\OculusXRColocation\Private</Filter>
+    </ClInclude>
+    <Filter Include="Plugins\Marketplace\UnrealMetaXRPlugin.205.0\MetaXR\Source\OculusXRColocation\Private\openxr">
+      <UniqueIdentifier>{A6A5D884-F2CD-3A52-8915-F9B9968B7B6A}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\..\..\..\..\..\Program Files\Epic Games\UE_5.7\Engine\Plugins\Marketplace\UnrealMetaXRPlugin.205.0\MetaXR\Source\OculusXRColocation\Private\openxr\OculusXRColocationXR.cpp">
+      <Filter>Plugins\Marketplace\UnrealMetaXRPlugin.205.0\MetaXR\Source\OculusXRColocation\Private\openxr</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\..\..\..\..\..\Program Files\Epic Games\UE_5.7\Engine\Plugins\Marketplace\UnrealMetaXRPlugin.205.0\MetaXR\Source\OculusXRColocation\Private\openxr\OculusXRColocationXR.h">
+      <Filter>Plugins\Marketplace\UnrealMetaXRPlugin.205.0\MetaXR\Source\OculusXRColocation\Private\openxr</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\..\..\..\..\Program Files\Epic Games\UE_5.7\Engine\Plugins\Marketplace\UnrealMetaXRPlugin.205.0\MetaXR\Source\OculusXRColocation\Private\openxr\OculusXRColocationXRIncludes.h">
+      <Filter>Plugins\Marketplace\UnrealMetaXRPlugin.205.0\MetaXR\Source\OculusXRColocation\Private\openxr</Filter>
+    </ClInclude>
+    <Filter Include="Plugins\Marketplace\UnrealMetaXRPlugin.205.0\MetaXR\Source\OculusXRColocation\Public">
+      <UniqueIdentifier>{92A7976A-44D9-3BC4-BA28-6B8F8CB81358}</UniqueIdentifier>
+    </Filter>
+    <ClInclude Include="..\..\..\..\..\..\..\Program Files\Epic Games\UE_5.7\Engine\Plugins\Marketplace\UnrealMetaXRPlugin.205.0\MetaXR\Source\OculusXRColocation\Public\IOculusXRColocationModule.h">
+      <Filter>Plugins\Marketplace\UnrealMetaXRPlugin.205.0\MetaXR\Source\OculusXRColocation\Public</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\..\..\..\..\Program Files\Epic Games\UE_5.7\Engine\Plugins\Marketplace\UnrealMetaXRPlugin.205.0\MetaXR\Source\OculusXRColocation\Public\OculusXRColocation.h">
+      <Filter>Plugins\Marketplace\UnrealMetaXRPlugin.205.0\MetaXR\Source\OculusXRColocation\Public</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\..\..\..\..\Program Files\Epic Games\UE_5.7\Engine\Plugins\Marketplace\UnrealMetaXRPlugin.205.0\MetaXR\Source\OculusXRColocation\Public\OculusXRColocationFunctionLibrary.h">
+      <Filter>Plugins\Marketplace\UnrealMetaXRPlugin.205.0\MetaXR\Source\OculusXRColocation\Public</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\..\..\..\..\Program Files\Epic Games\UE_5.7\Engine\Plugins\Marketplace\UnrealMetaXRPlugin.205.0\MetaXR\Source\OculusXRColocation\Public\OculusXRColocationLatentActions.h">
+      <Filter>Plugins\Marketplace\UnrealMetaXRPlugin.205.0\MetaXR\Source\OculusXRColocation\Public</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\..\..\..\..\Program Files\Epic Games\UE_5.7\Engine\Plugins\Marketplace\UnrealMetaXRPlugin.205.0\MetaXR\Source\OculusXRColocation\Public\OculusXRColocationRequests.h">
+      <Filter>Plugins\Marketplace\UnrealMetaXRPlugin.205.0\MetaXR\Source\OculusXRColocation\Public</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\..\..\..\..\Program Files\Epic Games\UE_5.7\Engine\Plugins\Marketplace\UnrealMetaXRPlugin.205.0\MetaXR\Source\OculusXRColocation\Public\OculusXRColocationSession.h">
+      <Filter>Plugins\Marketplace\UnrealMetaXRPlugin.205.0\MetaXR\Source\OculusXRColocation\Public</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\..\..\..\..\Program Files\Epic Games\UE_5.7\Engine\Plugins\Marketplace\UnrealMetaXRPlugin.205.0\MetaXR\Source\OculusXRColocation\Public\OculusXRColocationSubsystem.h">
+      <Filter>Plugins\Marketplace\UnrealMetaXRPlugin.205.0\MetaXR\Source\OculusXRColocation\Public</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\..\..\..\..\Program Files\Epic Games\UE_5.7\Engine\Plugins\Marketplace\UnrealMetaXRPlugin.205.0\MetaXR\Source\OculusXRColocation\Public\OculusXRColocationTypes.h">
+      <Filter>Plugins\Marketplace\UnrealMetaXRPlugin.205.0\MetaXR\Source\OculusXRColocation\Public</Filter>
+    </ClInclude>
+    <Filter Include="Plugins\Marketplace\UnrealMetaXRPlugin.205.0\MetaXR\Source\OculusXREditor">
+      <UniqueIdentifier>{CA7859C2-55FD-317D-8CE0-7D9909304342}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\..\..\..\..\..\Program Files\Epic Games\UE_5.7\Engine\Plugins\Marketplace\UnrealMetaXRPlugin.205.0\MetaXR\Source\OculusXREditor\OculusXREditor.Build.cs">
+      <Filter>Plugins\Marketplace\UnrealMetaXRPlugin.205.0\MetaXR\Source\OculusXREditor</Filter>
+    </None>
+    <Filter Include="Plugins\Marketplace\UnrealMetaXRPlugin.205.0\MetaXR\Source\OculusXREditor\Private">
+      <UniqueIdentifier>{8291B7B4-E59E-3100-82CE-DDE1B264DDC4}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\..\..\..\..\..\Program Files\Epic Games\UE_5.7\Engine\Plugins\Marketplace\UnrealMetaXRPlugin.205.0\MetaXR\Source\OculusXREditor\Private\OculusXRBuildAnalytics.cpp">
+      <Filter>Plugins\Marketplace\UnrealMetaXRPlugin.205.0\MetaXR\Source\OculusXREditor\Private</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\..\..\..\..\..\Program Files\Epic Games\UE_5.7\Engine\Plugins\Marketplace\UnrealMetaXRPlugin.205.0\MetaXR\Source\OculusXREditor\Private\OculusXRBuildAnalytics.h">
+      <Filter>Plugins\Marketplace\UnrealMetaXRPlugin.205.0\MetaXR\Source\OculusXREditor\Private</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\..\..\..\..\..\Program Files\Epic Games\UE_5.7\Engine\Plugins\Marketplace\UnrealMetaXRPlugin.205.0\MetaXR\Source\OculusXREditor\Private\OculusXREditorModule.cpp">
+      <Filter>Plugins\Marketplace\UnrealMetaXRPlugin.205.0\MetaXR\Source\OculusXREditor\Private</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\..\..\..\..\..\Program Files\Epic Games\UE_5.7\Engine\Plugins\Marketplace\UnrealMetaXRPlugin.205.0\MetaXR\Source\OculusXREditor\Private\OculusXREditorModule.h">
+      <Filter>Plugins\Marketplace\UnrealMetaXRPlugin.205.0\MetaXR\Source\OculusXREditor\Private</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\..\..\..\..\..\Program Files\Epic Games\UE_5.7\Engine\Plugins\Marketplace\UnrealMetaXRPlugin.205.0\MetaXR\Source\OculusXREditor\Private\OculusXREditorSettings.cpp">
+      <Filter>Plugins\Marketplace\UnrealMetaXRPlugin.205.0\MetaXR\Source\OculusXREditor\Private</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\..\..\..\..\Program Files\Epic Games\UE_5.7\Engine\Plugins\Marketplace\UnrealMetaXRPlugin.205.0\MetaXR\Source\OculusXREditor\Private\OculusXRMovementAssetsFactories.cpp">
+      <Filter>Plugins\Marketplace\UnrealMetaXRPlugin.205.0\MetaXR\Source\OculusXREditor\Private</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\..\..\..\..\..\Program Files\Epic Games\UE_5.7\Engine\Plugins\Marketplace\UnrealMetaXRPlugin.205.0\MetaXR\Source\OculusXREditor\Private\OculusXRMovementAssetsFactories.h">
+      <Filter>Plugins\Marketplace\UnrealMetaXRPlugin.205.0\MetaXR\Source\OculusXREditor\Private</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\..\..\..\..\..\Program Files\Epic Games\UE_5.7\Engine\Plugins\Marketplace\UnrealMetaXRPlugin.205.0\MetaXR\Source\OculusXREditor\Private\OculusXROSVersionPropertyCustomization.cpp">
+      <Filter>Plugins\Marketplace\UnrealMetaXRPlugin.205.0\MetaXR\Source\OculusXREditor\Private</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\..\..\..\..\..\Program Files\Epic Games\UE_5.7\Engine\Plugins\Marketplace\UnrealMetaXRPlugin.205.0\MetaXR\Source\OculusXREditor\Private\OculusXROSVersionPropertyCustomization.h">
+      <Filter>Plugins\Marketplace\UnrealMetaXRPlugin.205.0\MetaXR\Source\OculusXREditor\Private</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\..\..\..\..\..\Program Files\Epic Games\UE_5.7\Engine\Plugins\Marketplace\UnrealMetaXRPlugin.205.0\MetaXR\Source\OculusXREditor\Private\OculusXRPassthroughColorLutAsset.cpp">
+      <Filter>Plugins\Marketplace\UnrealMetaXRPlugin.205.0\MetaXR\Source\OculusXREditor\Private</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\..\..\..\..\..\Program Files\Epic Games\UE_5.7\Engine\Plugins\Marketplace\UnrealMetaXRPlugin.205.0\MetaXR\Source\OculusXREditor\Private\OculusXRPassthroughColorLutAsset.h">
+      <Filter>Plugins\Marketplace\UnrealMetaXRPlugin.205.0\MetaXR\Source\OculusXREditor\Private</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\..\..\..\..\..\Program Files\Epic Games\UE_5.7\Engine\Plugins\Marketplace\UnrealMetaXRPlugin.205.0\MetaXR\Source\OculusXREditor\Private\OculusXRPlatformToolSettings.cpp">
+      <Filter>Plugins\Marketplace\UnrealMetaXRPlugin.205.0\MetaXR\Source\OculusXREditor\Private</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\..\..\..\..\Program Files\Epic Games\UE_5.7\Engine\Plugins\Marketplace\UnrealMetaXRPlugin.205.0\MetaXR\Source\OculusXREditor\Private\OculusXRPlatformToolWidget.cpp">
+      <Filter>Plugins\Marketplace\UnrealMetaXRPlugin.205.0\MetaXR\Source\OculusXREditor\Private</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\..\..\..\..\..\Program Files\Epic Games\UE_5.7\Engine\Plugins\Marketplace\UnrealMetaXRPlugin.205.0\MetaXR\Source\OculusXREditor\Private\OculusXRPlatformToolWidget.h">
+      <Filter>Plugins\Marketplace\UnrealMetaXRPlugin.205.0\MetaXR\Source\OculusXREditor\Private</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\..\..\..\..\..\Program Files\Epic Games\UE_5.7\Engine\Plugins\Marketplace\UnrealMetaXRPlugin.205.0\MetaXR\Source\OculusXREditor\Private\OculusXRPrivacyNotification.cpp">
+      <Filter>Plugins\Marketplace\UnrealMetaXRPlugin.205.0\MetaXR\Source\OculusXREditor\Private</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\..\..\..\..\..\Program Files\Epic Games\UE_5.7\Engine\Plugins\Marketplace\UnrealMetaXRPlugin.205.0\MetaXR\Source\OculusXREditor\Private\OculusXRPrivacyNotification.h">
+      <Filter>Plugins\Marketplace\UnrealMetaXRPlugin.205.0\MetaXR\Source\OculusXREditor\Private</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\..\..\..\..\..\Program Files\Epic Games\UE_5.7\Engine\Plugins\Marketplace\UnrealMetaXRPlugin.205.0\MetaXR\Source\OculusXREditor\Private\OculusXRPTLayerComponentDetailsCustomization.cpp">
+      <Filter>Plugins\Marketplace\UnrealMetaXRPlugin.205.0\MetaXR\Source\OculusXREditor\Private</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\..\..\..\..\..\Program Files\Epic Games\UE_5.7\Engine\Plugins\Marketplace\UnrealMetaXRPlugin.205.0\MetaXR\Source\OculusXREditor\Private\OculusXRPTLayerComponentDetailsCustomization.h">
+      <Filter>Plugins\Marketplace\UnrealMetaXRPlugin.205.0\MetaXR\Source\OculusXREditor\Private</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\..\..\..\..\..\Program Files\Epic Games\UE_5.7\Engine\Plugins\Marketplace\UnrealMetaXRPlugin.205.0\MetaXR\Source\OculusXREditor\Private\OculusXRSettingsToggle.cpp">
+      <Filter>Plugins\Marketplace\UnrealMetaXRPlugin.205.0\MetaXR\Source\OculusXREditor\Private</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\..\..\..\..\..\Program Files\Epic Games\UE_5.7\Engine\Plugins\Marketplace\UnrealMetaXRPlugin.205.0\MetaXR\Source\OculusXREditor\Private\OculusXRSettingsToggle.h">
+      <Filter>Plugins\Marketplace\UnrealMetaXRPlugin.205.0\MetaXR\Source\OculusXREditor\Private</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\..\..\..\..\..\Program Files\Epic Games\UE_5.7\Engine\Plugins\Marketplace\UnrealMetaXRPlugin.205.0\MetaXR\Source\OculusXREditor\Private\OculusXRSurveyNotification.cpp">
+      <Filter>Plugins\Marketplace\UnrealMetaXRPlugin.205.0\MetaXR\Source\OculusXREditor\Private</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\..\..\..\..\..\Program Files\Epic Games\UE_5.7\Engine\Plugins\Marketplace\UnrealMetaXRPlugin.205.0\MetaXR\Source\OculusXREditor\Private\OculusXRSurveyNotification.h">
+      <Filter>Plugins\Marketplace\UnrealMetaXRPlugin.205.0\MetaXR\Source\OculusXREditor\Private</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\..\..\..\..\..\Program Files\Epic Games\UE_5.7\Engine\Plugins\Marketplace\UnrealMetaXRPlugin.205.0\MetaXR\Source\OculusXREditor\Private\OculusXRSurveySettings.cpp">
+      <Filter>Plugins\Marketplace\UnrealMetaXRPlugin.205.0\MetaXR\Source\OculusXREditor\Private</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\..\..\..\..\..\Program Files\Epic Games\UE_5.7\Engine\Plugins\Marketplace\UnrealMetaXRPlugin.205.0\MetaXR\Source\OculusXREditor\Private\OculusXRSurveySettings.h">
+      <Filter>Plugins\Marketplace\UnrealMetaXRPlugin.205.0\MetaXR\Source\OculusXREditor\Private</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\..\..\..\..\Program Files\Epic Games\UE_5.7\Engine\Plugins\Marketplace\UnrealMetaXRPlugin.205.0\MetaXR\Source\OculusXREditor\Private\OculusXRTelemetryEditorEvents.h">
+      <Filter>Plugins\Marketplace\UnrealMetaXRPlugin.205.0\MetaXR\Source\OculusXREditor\Private</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\..\..\..\..\..\Program Files\Epic Games\UE_5.7\Engine\Plugins\Marketplace\UnrealMetaXRPlugin.205.0\MetaXR\Source\OculusXREditor\Private\OculusXRToolCommands.cpp">
+      <Filter>Plugins\Marketplace\UnrealMetaXRPlugin.205.0\MetaXR\Source\OculusXREditor\Private</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\..\..\..\..\..\Program Files\Epic Games\UE_5.7\Engine\Plugins\Marketplace\UnrealMetaXRPlugin.205.0\MetaXR\Source\OculusXREditor\Private\OculusXRToolCommands.h">
+      <Filter>Plugins\Marketplace\UnrealMetaXRPlugin.205.0\MetaXR\Source\OculusXREditor\Private</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\..\..\..\..\..\Program Files\Epic Games\UE_5.7\Engine\Plugins\Marketplace\UnrealMetaXRPlugin.205.0\MetaXR\Source\OculusXREditor\Private\OculusXRToolStyle.cpp">
+      <Filter>Plugins\Marketplace\UnrealMetaXRPlugin.205.0\MetaXR\Source\OculusXREditor\Private</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\..\..\..\..\..\Program Files\Epic Games\UE_5.7\Engine\Plugins\Marketplace\UnrealMetaXRPlugin.205.0\MetaXR\Source\OculusXREditor\Private\OculusXRToolStyle.h">
+      <Filter>Plugins\Marketplace\UnrealMetaXRPlugin.205.0\MetaXR\Source\OculusXREditor\Private</Filter>
+    </ClInclude>
+    <Filter Include="Plugins\Marketplace\UnrealMetaXRPlugin.205.0\MetaXR\Source\OculusXREditor\Public">
+      <UniqueIdentifier>{05F59428-66BA-36BF-A02E-62D1F1BF10EF}</UniqueIdentifier>
+    </Filter>
+    <ClInclude Include="..\..\..\..\..\..\..\Program Files\Epic Games\UE_5.7\Engine\Plugins\Marketplace\UnrealMetaXRPlugin.205.0\MetaXR\Source\OculusXREditor\Public\IOculusXREditorModule.h">
+      <Filter>Plugins\Marketplace\UnrealMetaXRPlugin.205.0\MetaXR\Source\OculusXREditor\Public</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\..\..\..\..\Program Files\Epic Games\UE_5.7\Engine\Plugins\Marketplace\UnrealMetaXRPlugin.205.0\MetaXR\Source\OculusXREditor\Public\OculusXREditorSettings.h">
+      <Filter>Plugins\Marketplace\UnrealMetaXRPlugin.205.0\MetaXR\Source\OculusXREditor\Public</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\..\..\..\..\Program Files\Epic Games\UE_5.7\Engine\Plugins\Marketplace\UnrealMetaXRPlugin.205.0\MetaXR\Source\OculusXREditor\Public\OculusXRPlatformToolSettings.h">
+      <Filter>Plugins\Marketplace\UnrealMetaXRPlugin.205.0\MetaXR\Source\OculusXREditor\Public</Filter>
+    </ClInclude>
+    <Filter Include="Plugins\Marketplace\UnrealMetaXRPlugin.205.0\MetaXR\Source\OculusXREyeTracker">
+      <UniqueIdentifier>{20789E68-EAE9-3FCC-9C75-FA32CB7138F2}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\..\..\..\..\..\Program Files\Epic Games\UE_5.7\Engine\Plugins\Marketplace\UnrealMetaXRPlugin.205.0\MetaXR\Source\OculusXREyeTracker\OculusXREyeTracker.Build.cs">
+      <Filter>Plugins\Marketplace\UnrealMetaXRPlugin.205.0\MetaXR\Source\OculusXREyeTracker</Filter>
+    </None>
+    <Filter Include="Plugins\Marketplace\UnrealMetaXRPlugin.205.0\MetaXR\Source\OculusXREyeTracker\Private">
+      <UniqueIdentifier>{1C35878E-D7DB-36C5-A45F-D5BE78425270}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\..\..\..\..\..\Program Files\Epic Games\UE_5.7\Engine\Plugins\Marketplace\UnrealMetaXRPlugin.205.0\MetaXR\Source\OculusXREyeTracker\Private\OculusXREyeTracker.cpp">
+      <Filter>Plugins\Marketplace\UnrealMetaXRPlugin.205.0\MetaXR\Source\OculusXREyeTracker\Private</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\..\..\..\..\..\Program Files\Epic Games\UE_5.7\Engine\Plugins\Marketplace\UnrealMetaXRPlugin.205.0\MetaXR\Source\OculusXREyeTracker\Private\OculusXRTelemetryEyeTrackerEvents.h">
+      <Filter>Plugins\Marketplace\UnrealMetaXRPlugin.205.0\MetaXR\Source\OculusXREyeTracker\Private</Filter>
+    </ClInclude>
+    <Filter Include="Plugins\Marketplace\UnrealMetaXRPlugin.205.0\MetaXR\Source\OculusXRHMD">
+      <UniqueIdentifier>{11EB71D1-7805-348A-80E2-36BFF5043D40}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\..\..\..\..\..\Program Files\Epic Games\UE_5.7\Engine\Plugins\Marketplace\UnrealMetaXRPlugin.205.0\MetaXR\Source\OculusXRHMD\OculusMobile_APL.xml">
+      <Filter>Plugins\Marketplace\UnrealMetaXRPlugin.205.0\MetaXR\Source\OculusXRHMD</Filter>
+    </None>
+    <None Include="..\..\..\..\..\..\..\Program Files\Epic Games\UE_5.7\Engine\Plugins\Marketplace\UnrealMetaXRPlugin.205.0\MetaXR\Source\OculusXRHMD\OculusXRHMD.Build.cs">
+      <Filter>Plugins\Marketplace\UnrealMetaXRPlugin.205.0\MetaXR\Source\OculusXRHMD</Filter>
+    </None>
+    <Filter Include="Plugins\Marketplace\UnrealMetaXRPlugin.205.0\MetaXR\Source\OculusXRHMD\Private">
+      <UniqueIdentifier>{53E4E26F-049D-3BE0-97F6-4235F147F83E}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\..\..\..\..\..\Program Files\Epic Games\UE_5.7\Engine\Plugins\Marketplace\UnrealMetaXRPlugin.205.0\MetaXR\Source\OculusXRHMD\Private\OculusStressTestShader.usf">
+      <Filter>Plugins\Marketplace\UnrealMetaXRPlugin.205.0\MetaXR\Source\OculusXRHMD\Private</Filter>
+    </None>
+    <ClCompile Include="..\..\..\..\..\..\..\Program Files\Epic Games\UE_5.7\Engine\Plugins\Marketplace\UnrealMetaXRPlugin.205.0\MetaXR\Source\OculusXRHMD\Private\OculusXRAssetManager.cpp">
+      <Filter>Plugins\Marketplace\UnrealMetaXRPlugin.205.0\MetaXR\Source\OculusXRHMD\Private</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\..\..\..\..\..\Program Files\Epic Games\UE_5.7\Engine\Plugins\Marketplace\UnrealMetaXRPlugin.205.0\MetaXR\Source\OculusXRHMD\Private\OculusXRAssetManager.h">
+      <Filter>Plugins\Marketplace\UnrealMetaXRPlugin.205.0\MetaXR\Source\OculusXRHMD\Private</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\..\..\..\..\..\Program Files\Epic Games\UE_5.7\Engine\Plugins\Marketplace\UnrealMetaXRPlugin.205.0\MetaXR\Source\OculusXRHMD\Private\OculusXRDelegates.cpp">
+      <Filter>Plugins\Marketplace\UnrealMetaXRPlugin.205.0\MetaXR\Source\OculusXRHMD\Private</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\..\..\..\..\..\Program Files\Epic Games\UE_5.7\Engine\Plugins\Marketplace\UnrealMetaXRPlugin.205.0\MetaXR\Source\OculusXRHMD\Private\OculusXRDelegates.h">
+      <Filter>Plugins\Marketplace\UnrealMetaXRPlugin.205.0\MetaXR\Source\OculusXRHMD\Private</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\..\..\..\..\..\Program Files\Epic Games\UE_5.7\Engine\Plugins\Marketplace\UnrealMetaXRPlugin.205.0\MetaXR\Source\OculusXRHMD\Private\OculusXREventComponent.cpp">
+      <Filter>Plugins\Marketplace\UnrealMetaXRPlugin.205.0\MetaXR\Source\OculusXRHMD\Private</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\..\..\..\..\Program Files\Epic Games\UE_5.7\Engine\Plugins\Marketplace\UnrealMetaXRPlugin.205.0\MetaXR\Source\OculusXRHMD\Private\OculusXRFunctionLibrary.cpp">
+      <Filter>Plugins\Marketplace\UnrealMetaXRPlugin.205.0\MetaXR\Source\OculusXRHMD\Private</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\..\..\..\..\Program Files\Epic Games\UE_5.7\Engine\Plugins\Marketplace\UnrealMetaXRPlugin.205.0\MetaXR\Source\OculusXRHMD\Private\OculusXRFunctionLibraryOpenXR.cpp">
+      <Filter>Plugins\Marketplace\UnrealMetaXRPlugin.205.0\MetaXR\Source\OculusXRHMD\Private</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\..\..\..\..\..\Program Files\Epic Games\UE_5.7\Engine\Plugins\Marketplace\UnrealMetaXRPlugin.205.0\MetaXR\Source\OculusXRHMD\Private\OculusXRFunctionLibraryOpenXR.h">
+      <Filter>Plugins\Marketplace\UnrealMetaXRPlugin.205.0\MetaXR\Source\OculusXRHMD\Private</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\..\..\..\..\..\Program Files\Epic Games\UE_5.7\Engine\Plugins\Marketplace\UnrealMetaXRPlugin.205.0\MetaXR\Source\OculusXRHMD\Private\OculusXRFunctionLibraryOVR.cpp">
+      <Filter>Plugins\Marketplace\UnrealMetaXRPlugin.205.0\MetaXR\Source\OculusXRHMD\Private</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\..\..\..\..\..\Program Files\Epic Games\UE_5.7\Engine\Plugins\Marketplace\UnrealMetaXRPlugin.205.0\MetaXR\Source\OculusXRHMD\Private\OculusXRFunctionLibraryOVR.h">
+      <Filter>Plugins\Marketplace\UnrealMetaXRPlugin.205.0\MetaXR\Source\OculusXRHMD\Private</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\..\..\..\..\..\Program Files\Epic Games\UE_5.7\Engine\Plugins\Marketplace\UnrealMetaXRPlugin.205.0\MetaXR\Source\OculusXRHMD\Private\OculusXRHMD.cpp">
+      <Filter>Plugins\Marketplace\UnrealMetaXRPlugin.205.0\MetaXR\Source\OculusXRHMD\Private</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\..\..\..\..\..\Program Files\Epic Games\UE_5.7\Engine\Plugins\Marketplace\UnrealMetaXRPlugin.205.0\MetaXR\Source\OculusXRHMD\Private\OculusXRHMD.h">
+      <Filter>Plugins\Marketplace\UnrealMetaXRPlugin.205.0\MetaXR\Source\OculusXRHMD\Private</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\..\..\..\..\..\Program Files\Epic Games\UE_5.7\Engine\Plugins\Marketplace\UnrealMetaXRPlugin.205.0\MetaXR\Source\OculusXRHMD\Private\OculusXRHMDModule.cpp">
+      <Filter>Plugins\Marketplace\UnrealMetaXRPlugin.205.0\MetaXR\Source\OculusXRHMD\Private</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\..\..\..\..\..\Program Files\Epic Games\UE_5.7\Engine\Plugins\Marketplace\UnrealMetaXRPlugin.205.0\MetaXR\Source\OculusXRHMD\Private\OculusXRHMDModule.h">
+      <Filter>Plugins\Marketplace\UnrealMetaXRPlugin.205.0\MetaXR\Source\OculusXRHMD\Private</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\..\..\..\..\..\Program Files\Epic Games\UE_5.7\Engine\Plugins\Marketplace\UnrealMetaXRPlugin.205.0\MetaXR\Source\OculusXRHMD\Private\OculusXRHMDPrivate.cpp">
+      <Filter>Plugins\Marketplace\UnrealMetaXRPlugin.205.0\MetaXR\Source\OculusXRHMD\Private</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\..\..\..\..\..\Program Files\Epic Games\UE_5.7\Engine\Plugins\Marketplace\UnrealMetaXRPlugin.205.0\MetaXR\Source\OculusXRHMD\Private\OculusXRHMDPrivate.h">
+      <Filter>Plugins\Marketplace\UnrealMetaXRPlugin.205.0\MetaXR\Source\OculusXRHMD\Private</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\..\..\..\..\Program Files\Epic Games\UE_5.7\Engine\Plugins\Marketplace\UnrealMetaXRPlugin.205.0\MetaXR\Source\OculusXRHMD\Private\OculusXRHMDPrivateRHI.h">
+      <Filter>Plugins\Marketplace\UnrealMetaXRPlugin.205.0\MetaXR\Source\OculusXRHMD\Private</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\..\..\..\..\..\Program Files\Epic Games\UE_5.7\Engine\Plugins\Marketplace\UnrealMetaXRPlugin.205.0\MetaXR\Source\OculusXRHMD\Private\OculusXRHMDRuntimeSettings.cpp">
+      <Filter>Plugins\Marketplace\UnrealMetaXRPlugin.205.0\MetaXR\Source\OculusXRHMD\Private</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\..\..\..\..\Program Files\Epic Games\UE_5.7\Engine\Plugins\Marketplace\UnrealMetaXRPlugin.205.0\MetaXR\Source\OculusXRHMD\Private\OculusXRHMD_ConsoleCommands.cpp">
+      <Filter>Plugins\Marketplace\UnrealMetaXRPlugin.205.0\MetaXR\Source\OculusXRHMD\Private</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\..\..\..\..\..\Program Files\Epic Games\UE_5.7\Engine\Plugins\Marketplace\UnrealMetaXRPlugin.205.0\MetaXR\Source\OculusXRHMD\Private\OculusXRHMD_ConsoleCommands.h">
+      <Filter>Plugins\Marketplace\UnrealMetaXRPlugin.205.0\MetaXR\Source\OculusXRHMD\Private</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\..\..\..\..\..\Program Files\Epic Games\UE_5.7\Engine\Plugins\Marketplace\UnrealMetaXRPlugin.205.0\MetaXR\Source\OculusXRHMD\Private\OculusXRHMD_CustomPresent.cpp">
+      <Filter>Plugins\Marketplace\UnrealMetaXRPlugin.205.0\MetaXR\Source\OculusXRHMD\Private</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\..\..\..\..\..\Program Files\Epic Games\UE_5.7\Engine\Plugins\Marketplace\UnrealMetaXRPlugin.205.0\MetaXR\Source\OculusXRHMD\Private\OculusXRHMD_CustomPresent.h">
+      <Filter>Plugins\Marketplace\UnrealMetaXRPlugin.205.0\MetaXR\Source\OculusXRHMD\Private</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\..\..\..\..\..\Program Files\Epic Games\UE_5.7\Engine\Plugins\Marketplace\UnrealMetaXRPlugin.205.0\MetaXR\Source\OculusXRHMD\Private\OculusXRHMD_CustomPresent_D3D11.cpp">
+      <Filter>Plugins\Marketplace\UnrealMetaXRPlugin.205.0\MetaXR\Source\OculusXRHMD\Private</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\..\..\..\..\Program Files\Epic Games\UE_5.7\Engine\Plugins\Marketplace\UnrealMetaXRPlugin.205.0\MetaXR\Source\OculusXRHMD\Private\OculusXRHMD_CustomPresent_D3D12.cpp">
+      <Filter>Plugins\Marketplace\UnrealMetaXRPlugin.205.0\MetaXR\Source\OculusXRHMD\Private</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\..\..\..\..\Program Files\Epic Games\UE_5.7\Engine\Plugins\Marketplace\UnrealMetaXRPlugin.205.0\MetaXR\Source\OculusXRHMD\Private\OculusXRHMD_CustomPresent_Vulkan.cpp">
+      <Filter>Plugins\Marketplace\UnrealMetaXRPlugin.205.0\MetaXR\Source\OculusXRHMD\Private</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\..\..\..\..\Program Files\Epic Games\UE_5.7\Engine\Plugins\Marketplace\UnrealMetaXRPlugin.205.0\MetaXR\Source\OculusXRHMD\Private\OculusXRHMD_DeferredDeletionQueue.cpp">
+      <Filter>Plugins\Marketplace\UnrealMetaXRPlugin.205.0\MetaXR\Source\OculusXRHMD\Private</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\..\..\..\..\..\Program Files\Epic Games\UE_5.7\Engine\Plugins\Marketplace\UnrealMetaXRPlugin.205.0\MetaXR\Source\OculusXRHMD\Private\OculusXRHMD_DeferredDeletionQueue.h">
+      <Filter>Plugins\Marketplace\UnrealMetaXRPlugin.205.0\MetaXR\Source\OculusXRHMD\Private</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\..\..\..\..\..\Program Files\Epic Games\UE_5.7\Engine\Plugins\Marketplace\UnrealMetaXRPlugin.205.0\MetaXR\Source\OculusXRHMD\Private\OculusXRHMD_DynamicResolutionState.cpp">
+      <Filter>Plugins\Marketplace\UnrealMetaXRPlugin.205.0\MetaXR\Source\OculusXRHMD\Private</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\..\..\..\..\..\Program Files\Epic Games\UE_5.7\Engine\Plugins\Marketplace\UnrealMetaXRPlugin.205.0\MetaXR\Source\OculusXRHMD\Private\OculusXRHMD_DynamicResolutionState.h">
+      <Filter>Plugins\Marketplace\UnrealMetaXRPlugin.205.0\MetaXR\Source\OculusXRHMD\Private</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\..\..\..\..\..\Program Files\Epic Games\UE_5.7\Engine\Plugins\Marketplace\UnrealMetaXRPlugin.205.0\MetaXR\Source\OculusXRHMD\Private\OculusXRHMD_FoveatedRendering.cpp">
+      <Filter>Plugins\Marketplace\UnrealMetaXRPlugin.205.0\MetaXR\Source\OculusXRHMD\Private</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\..\..\..\..\..\Program Files\Epic Games\UE_5.7\Engine\Plugins\Marketplace\UnrealMetaXRPlugin.205.0\MetaXR\Source\OculusXRHMD\Private\OculusXRHMD_FoveatedRendering.h">
+      <Filter>Plugins\Marketplace\UnrealMetaXRPlugin.205.0\MetaXR\Source\OculusXRHMD\Private</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\..\..\..\..\..\Program Files\Epic Games\UE_5.7\Engine\Plugins\Marketplace\UnrealMetaXRPlugin.205.0\MetaXR\Source\OculusXRHMD\Private\OculusXRHMD_GameFrame.cpp">
+      <Filter>Plugins\Marketplace\UnrealMetaXRPlugin.205.0\MetaXR\Source\OculusXRHMD\Private</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\..\..\..\..\..\Program Files\Epic Games\UE_5.7\Engine\Plugins\Marketplace\UnrealMetaXRPlugin.205.0\MetaXR\Source\OculusXRHMD\Private\OculusXRHMD_GameFrame.h">
+      <Filter>Plugins\Marketplace\UnrealMetaXRPlugin.205.0\MetaXR\Source\OculusXRHMD\Private</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\..\..\..\..\..\Program Files\Epic Games\UE_5.7\Engine\Plugins\Marketplace\UnrealMetaXRPlugin.205.0\MetaXR\Source\OculusXRHMD\Private\OculusXRHMD_Layer.cpp">
+      <Filter>Plugins\Marketplace\UnrealMetaXRPlugin.205.0\MetaXR\Source\OculusXRHMD\Private</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\..\..\..\..\..\Program Files\Epic Games\UE_5.7\Engine\Plugins\Marketplace\UnrealMetaXRPlugin.205.0\MetaXR\Source\OculusXRHMD\Private\OculusXRHMD_Layer.h">
+      <Filter>Plugins\Marketplace\UnrealMetaXRPlugin.205.0\MetaXR\Source\OculusXRHMD\Private</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\..\..\..\..\..\Program Files\Epic Games\UE_5.7\Engine\Plugins\Marketplace\UnrealMetaXRPlugin.205.0\MetaXR\Source\OculusXRHMD\Private\OculusXRHMD_Settings.cpp">
+      <Filter>Plugins\Marketplace\UnrealMetaXRPlugin.205.0\MetaXR\Source\OculusXRHMD\Private</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\..\..\..\..\..\Program Files\Epic Games\UE_5.7\Engine\Plugins\Marketplace\UnrealMetaXRPlugin.205.0\MetaXR\Source\OculusXRHMD\Private\OculusXRHMD_Settings.h">
+      <Filter>Plugins\Marketplace\UnrealMetaXRPlugin.205.0\MetaXR\Source\OculusXRHMD\Private</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\..\..\..\..\..\Program Files\Epic Games\UE_5.7\Engine\Plugins\Marketplace\UnrealMetaXRPlugin.205.0\MetaXR\Source\OculusXRHMD\Private\OculusXRHMD_SpectatorScreenController.cpp">
+      <Filter>Plugins\Marketplace\UnrealMetaXRPlugin.205.0\MetaXR\Source\OculusXRHMD\Private</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\..\..\..\..\..\Program Files\Epic Games\UE_5.7\Engine\Plugins\Marketplace\UnrealMetaXRPlugin.205.0\MetaXR\Source\OculusXRHMD\Private\OculusXRHMD_SpectatorScreenController.h">
+      <Filter>Plugins\Marketplace\UnrealMetaXRPlugin.205.0\MetaXR\Source\OculusXRHMD\Private</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\..\..\..\..\..\Program Files\Epic Games\UE_5.7\Engine\Plugins\Marketplace\UnrealMetaXRPlugin.205.0\MetaXR\Source\OculusXRHMD\Private\OculusXRHMD_Splash.cpp">
+      <Filter>Plugins\Marketplace\UnrealMetaXRPlugin.205.0\MetaXR\Source\OculusXRHMD\Private</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\..\..\..\..\..\Program Files\Epic Games\UE_5.7\Engine\Plugins\Marketplace\UnrealMetaXRPlugin.205.0\MetaXR\Source\OculusXRHMD\Private\OculusXRHMD_Splash.h">
+      <Filter>Plugins\Marketplace\UnrealMetaXRPlugin.205.0\MetaXR\Source\OculusXRHMD\Private</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\..\..\..\..\..\Program Files\Epic Games\UE_5.7\Engine\Plugins\Marketplace\UnrealMetaXRPlugin.205.0\MetaXR\Source\OculusXRHMD\Private\OculusXRHMD_StressTester.cpp">
+      <Filter>Plugins\Marketplace\UnrealMetaXRPlugin.205.0\MetaXR\Source\OculusXRHMD\Private</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\..\..\..\..\..\Program Files\Epic Games\UE_5.7\Engine\Plugins\Marketplace\UnrealMetaXRPlugin.205.0\MetaXR\Source\OculusXRHMD\Private\OculusXRHMD_StressTester.h">
+      <Filter>Plugins\Marketplace\UnrealMetaXRPlugin.205.0\MetaXR\Source\OculusXRHMD\Private</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\..\..\..\..\..\Program Files\Epic Games\UE_5.7\Engine\Plugins\Marketplace\UnrealMetaXRPlugin.205.0\MetaXR\Source\OculusXRHMD\Private\OculusXRHMD_VulkanExtensions.cpp">
+      <Filter>Plugins\Marketplace\UnrealMetaXRPlugin.205.0\MetaXR\Source\OculusXRHMD\Private</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\..\..\..\..\..\Program Files\Epic Games\UE_5.7\Engine\Plugins\Marketplace\UnrealMetaXRPlugin.205.0\MetaXR\Source\OculusXRHMD\Private\OculusXRHMD_VulkanExtensions.h">
+      <Filter>Plugins\Marketplace\UnrealMetaXRPlugin.205.0\MetaXR\Source\OculusXRHMD\Private</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\..\..\..\..\..\Program Files\Epic Games\UE_5.7\Engine\Plugins\Marketplace\UnrealMetaXRPlugin.205.0\MetaXR\Source\OculusXRHMD\Private\OculusXRMultiPlayerTestingSubsystem.cpp">
+      <Filter>Plugins\Marketplace\UnrealMetaXRPlugin.205.0\MetaXR\Source\OculusXRHMD\Private</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\..\..\..\..\Program Files\Epic Games\UE_5.7\Engine\Plugins\Marketplace\UnrealMetaXRPlugin.205.0\MetaXR\Source\OculusXRHMD\Private\OculusXROSVersions.cpp">
+      <Filter>Plugins\Marketplace\UnrealMetaXRPlugin.205.0\MetaXR\Source\OculusXRHMD\Private</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\..\..\..\..\Program Files\Epic Games\UE_5.7\Engine\Plugins\Marketplace\UnrealMetaXRPlugin.205.0\MetaXR\Source\OculusXRHMD\Private\OculusXRPassthroughLayerShapes.cpp">
+      <Filter>Plugins\Marketplace\UnrealMetaXRPlugin.205.0\MetaXR\Source\OculusXRHMD\Private</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\..\..\..\..\Program Files\Epic Games\UE_5.7\Engine\Plugins\Marketplace\UnrealMetaXRPlugin.205.0\MetaXR\Source\OculusXRHMD\Private\OculusXRPluginWrapper.cpp">
+      <Filter>Plugins\Marketplace\UnrealMetaXRPlugin.205.0\MetaXR\Source\OculusXRHMD\Private</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\..\..\..\..\..\Program Files\Epic Games\UE_5.7\Engine\Plugins\Marketplace\UnrealMetaXRPlugin.205.0\MetaXR\Source\OculusXRHMD\Private\OculusXRPluginWrapper.h">
+      <Filter>Plugins\Marketplace\UnrealMetaXRPlugin.205.0\MetaXR\Source\OculusXRHMD\Private</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\..\..\..\..\..\Program Files\Epic Games\UE_5.7\Engine\Plugins\Marketplace\UnrealMetaXRPlugin.205.0\MetaXR\Source\OculusXRHMD\Private\OculusXRResourceHolder.cpp">
+      <Filter>Plugins\Marketplace\UnrealMetaXRPlugin.205.0\MetaXR\Source\OculusXRHMD\Private</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\..\..\..\..\..\Program Files\Epic Games\UE_5.7\Engine\Plugins\Marketplace\UnrealMetaXRPlugin.205.0\MetaXR\Source\OculusXRHMD\Private\OculusXRResourceHolder.h">
+      <Filter>Plugins\Marketplace\UnrealMetaXRPlugin.205.0\MetaXR\Source\OculusXRHMD\Private</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\..\..\..\..\..\Program Files\Epic Games\UE_5.7\Engine\Plugins\Marketplace\UnrealMetaXRPlugin.205.0\MetaXR\Source\OculusXRHMD\Private\OculusXRSceneCaptureCubemap.cpp">
+      <Filter>Plugins\Marketplace\UnrealMetaXRPlugin.205.0\MetaXR\Source\OculusXRHMD\Private</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\..\..\..\..\..\Program Files\Epic Games\UE_5.7\Engine\Plugins\Marketplace\UnrealMetaXRPlugin.205.0\MetaXR\Source\OculusXRHMD\Private\OculusXRSceneCaptureCubemap.h">
+      <Filter>Plugins\Marketplace\UnrealMetaXRPlugin.205.0\MetaXR\Source\OculusXRHMD\Private</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\..\..\..\..\..\Program Files\Epic Games\UE_5.7\Engine\Plugins\Marketplace\UnrealMetaXRPlugin.205.0\MetaXR\Source\OculusXRHMD\Private\OculusXRSimulator.cpp">
+      <Filter>Plugins\Marketplace\UnrealMetaXRPlugin.205.0\MetaXR\Source\OculusXRHMD\Private</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\..\..\..\..\..\Program Files\Epic Games\UE_5.7\Engine\Plugins\Marketplace\UnrealMetaXRPlugin.205.0\MetaXR\Source\OculusXRHMD\Private\OculusXRSimulator.h">
+      <Filter>Plugins\Marketplace\UnrealMetaXRPlugin.205.0\MetaXR\Source\OculusXRHMD\Private</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\..\..\..\..\..\Program Files\Epic Games\UE_5.7\Engine\Plugins\Marketplace\UnrealMetaXRPlugin.205.0\MetaXR\Source\OculusXRHMD\Private\OculusXRStereoLayersFlagsSupplier.cpp">
+      <Filter>Plugins\Marketplace\UnrealMetaXRPlugin.205.0\MetaXR\Source\OculusXRHMD\Private</Filter>
+    </ClCompile>
+    <Filter Include="Plugins\Marketplace\UnrealMetaXRPlugin.205.0\MetaXR\Source\OculusXRHMD\Private\OpenXR">
+      <UniqueIdentifier>{467AF076-6A01-3019-9332-30996C1660B3}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\..\..\..\..\..\Program Files\Epic Games\UE_5.7\Engine\Plugins\Marketplace\UnrealMetaXRPlugin.205.0\MetaXR\Source\OculusXRHMD\Private\OpenXR\OculusXRCoreExtensionPlugin.cpp">
+      <Filter>Plugins\Marketplace\UnrealMetaXRPlugin.205.0\MetaXR\Source\OculusXRHMD\Private\OpenXR</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\..\..\..\..\..\Program Files\Epic Games\UE_5.7\Engine\Plugins\Marketplace\UnrealMetaXRPlugin.205.0\MetaXR\Source\OculusXRHMD\Private\OpenXR\OculusXRCoreExtensionPlugin.h">
+      <Filter>Plugins\Marketplace\UnrealMetaXRPlugin.205.0\MetaXR\Source\OculusXRHMD\Private\OpenXR</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\..\..\..\..\..\Program Files\Epic Games\UE_5.7\Engine\Plugins\Marketplace\UnrealMetaXRPlugin.205.0\MetaXR\Source\OculusXRHMD\Private\OpenXR\OculusXRDebugUtilsExtensionPlugin.cpp">
+      <Filter>Plugins\Marketplace\UnrealMetaXRPlugin.205.0\MetaXR\Source\OculusXRHMD\Private\OpenXR</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\..\..\..\..\..\Program Files\Epic Games\UE_5.7\Engine\Plugins\Marketplace\UnrealMetaXRPlugin.205.0\MetaXR\Source\OculusXRHMD\Private\OpenXR\OculusXRDebugUtilsExtensionPlugin.h">
+      <Filter>Plugins\Marketplace\UnrealMetaXRPlugin.205.0\MetaXR\Source\OculusXRHMD\Private\OpenXR</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\..\..\..\..\..\Program Files\Epic Games\UE_5.7\Engine\Plugins\Marketplace\UnrealMetaXRPlugin.205.0\MetaXR\Source\OculusXRHMD\Private\OpenXR\OculusXREnvironmentDepthExtensionPlugin.cpp">
+      <Filter>Plugins\Marketplace\UnrealMetaXRPlugin.205.0\MetaXR\Source\OculusXRHMD\Private\OpenXR</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\..\..\..\..\..\Program Files\Epic Games\UE_5.7\Engine\Plugins\Marketplace\UnrealMetaXRPlugin.205.0\MetaXR\Source\OculusXRHMD\Private\OpenXR\OculusXREnvironmentDepthExtensionPlugin.h">
+      <Filter>Plugins\Marketplace\UnrealMetaXRPlugin.205.0\MetaXR\Source\OculusXRHMD\Private\OpenXR</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\..\..\..\..\..\Program Files\Epic Games\UE_5.7\Engine\Plugins\Marketplace\UnrealMetaXRPlugin.205.0\MetaXR\Source\OculusXRHMD\Private\OpenXR\OculusXRExtensionPluginManager.cpp">
+      <Filter>Plugins\Marketplace\UnrealMetaXRPlugin.205.0\MetaXR\Source\OculusXRHMD\Private\OpenXR</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\..\..\..\..\..\Program Files\Epic Games\UE_5.7\Engine\Plugins\Marketplace\UnrealMetaXRPlugin.205.0\MetaXR\Source\OculusXRHMD\Private\OpenXR\OculusXRExtensionPluginManager.h">
+      <Filter>Plugins\Marketplace\UnrealMetaXRPlugin.205.0\MetaXR\Source\OculusXRHMD\Private\OpenXR</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\..\..\..\..\..\Program Files\Epic Games\UE_5.7\Engine\Plugins\Marketplace\UnrealMetaXRPlugin.205.0\MetaXR\Source\OculusXRHMD\Private\OpenXR\OculusXRGuardianExtensionPlugin.cpp">
+      <Filter>Plugins\Marketplace\UnrealMetaXRPlugin.205.0\MetaXR\Source\OculusXRHMD\Private\OpenXR</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\..\..\..\..\..\Program Files\Epic Games\UE_5.7\Engine\Plugins\Marketplace\UnrealMetaXRPlugin.205.0\MetaXR\Source\OculusXRHMD\Private\OpenXR\OculusXRGuardianExtensionPlugin.h">
+      <Filter>Plugins\Marketplace\UnrealMetaXRPlugin.205.0\MetaXR\Source\OculusXRHMD\Private\OpenXR</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\..\..\..\..\..\Program Files\Epic Games\UE_5.7\Engine\Plugins\Marketplace\UnrealMetaXRPlugin.205.0\MetaXR\Source\OculusXRHMD\Private\OpenXR\OculusXRLayerExtensionPlugin.cpp">
+      <Filter>Plugins\Marketplace\UnrealMetaXRPlugin.205.0\MetaXR\Source\OculusXRHMD\Private\OpenXR</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\..\..\..\..\..\Program Files\Epic Games\UE_5.7\Engine\Plugins\Marketplace\UnrealMetaXRPlugin.205.0\MetaXR\Source\OculusXRHMD\Private\OpenXR\OculusXRLayerExtensionPlugin.h">
+      <Filter>Plugins\Marketplace\UnrealMetaXRPlugin.205.0\MetaXR\Source\OculusXRHMD\Private\OpenXR</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\..\..\..\..\..\Program Files\Epic Games\UE_5.7\Engine\Plugins\Marketplace\UnrealMetaXRPlugin.205.0\MetaXR\Source\OculusXRHMD\Private\OpenXR\OculusXRMultiPlayerStateExtensionPlugin.cpp">
+      <Filter>Plugins\Marketplace\UnrealMetaXRPlugin.205.0\MetaXR\Source\OculusXRHMD\Private\OpenXR</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\..\..\..\..\..\Program Files\Epic Games\UE_5.7\Engine\Plugins\Marketplace\UnrealMetaXRPlugin.205.0\MetaXR\Source\OculusXRHMD\Private\OpenXR\OculusXRMultiPlayerStateExtensionPlugin.h">
+      <Filter>Plugins\Marketplace\UnrealMetaXRPlugin.205.0\MetaXR\Source\OculusXRHMD\Private\OpenXR</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\..\..\..\..\..\Program Files\Epic Games\UE_5.7\Engine\Plugins\Marketplace\UnrealMetaXRPlugin.205.0\MetaXR\Source\OculusXRHMD\Private\OpenXR\OculusXROpenXRDynamicResolutionState.cpp">
+      <Filter>Plugins\Marketplace\UnrealMetaXRPlugin.205.0\MetaXR\Source\OculusXRHMD\Private\OpenXR</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\..\..\..\..\..\Program Files\Epic Games\UE_5.7\Engine\Plugins\Marketplace\UnrealMetaXRPlugin.205.0\MetaXR\Source\OculusXRHMD\Private\OpenXR\OculusXROpenXRDynamicResolutionState.h">
+      <Filter>Plugins\Marketplace\UnrealMetaXRPlugin.205.0\MetaXR\Source\OculusXRHMD\Private\OpenXR</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\..\..\..\..\..\Program Files\Epic Games\UE_5.7\Engine\Plugins\Marketplace\UnrealMetaXRPlugin.205.0\MetaXR\Source\OculusXRHMD\Private\OpenXR\OculusXROpenXRUtilities.cpp">
+      <Filter>Plugins\Marketplace\UnrealMetaXRPlugin.205.0\MetaXR\Source\OculusXRHMD\Private\OpenXR</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\..\..\..\..\..\Program Files\Epic Games\UE_5.7\Engine\Plugins\Marketplace\UnrealMetaXRPlugin.205.0\MetaXR\Source\OculusXRHMD\Private\OpenXR\OculusXROpenXRUtilities.h">
+      <Filter>Plugins\Marketplace\UnrealMetaXRPlugin.205.0\MetaXR\Source\OculusXRHMD\Private\OpenXR</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\..\..\..\..\..\Program Files\Epic Games\UE_5.7\Engine\Plugins\Marketplace\UnrealMetaXRPlugin.205.0\MetaXR\Source\OculusXRHMD\Private\OpenXR\OculusXRPerformanceExtensionPlugin.cpp">
+      <Filter>Plugins\Marketplace\UnrealMetaXRPlugin.205.0\MetaXR\Source\OculusXRHMD\Private\OpenXR</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\..\..\..\..\..\Program Files\Epic Games\UE_5.7\Engine\Plugins\Marketplace\UnrealMetaXRPlugin.205.0\MetaXR\Source\OculusXRHMD\Private\OpenXR\OculusXRPerformanceExtensionPlugin.h">
+      <Filter>Plugins\Marketplace\UnrealMetaXRPlugin.205.0\MetaXR\Source\OculusXRHMD\Private\OpenXR</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\..\..\..\..\..\Program Files\Epic Games\UE_5.7\Engine\Plugins\Marketplace\UnrealMetaXRPlugin.205.0\MetaXR\Source\OculusXRHMD\Private\OpenXR\OculusXRSimulatorExtensionPlugin.cpp">
+      <Filter>Plugins\Marketplace\UnrealMetaXRPlugin.205.0\MetaXR\Source\OculusXRHMD\Private\OpenXR</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\..\..\..\..\..\Program Files\Epic Games\UE_5.7\Engine\Plugins\Marketplace\UnrealMetaXRPlugin.205.0\MetaXR\Source\OculusXRHMD\Private\OpenXR\OculusXRSimulatorExtensionPlugin.h">
+      <Filter>Plugins\Marketplace\UnrealMetaXRPlugin.205.0\MetaXR\Source\OculusXRHMD\Private\OpenXR</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\..\..\..\..\..\Program Files\Epic Games\UE_5.7\Engine\Plugins\Marketplace\UnrealMetaXRPlugin.205.0\MetaXR\Source\OculusXRHMD\Private\OpenXR\OculusXRSpaceWarp.cpp">
+      <Filter>Plugins\Marketplace\UnrealMetaXRPlugin.205.0\MetaXR\Source\OculusXRHMD\Private\OpenXR</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\..\..\..\..\..\Program Files\Epic Games\UE_5.7\Engine\Plugins\Marketplace\UnrealMetaXRPlugin.205.0\MetaXR\Source\OculusXRHMD\Private\OpenXR\OculusXRSpaceWarp.h">
+      <Filter>Plugins\Marketplace\UnrealMetaXRPlugin.205.0\MetaXR\Source\OculusXRHMD\Private\OpenXR</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\..\..\..\..\..\Program Files\Epic Games\UE_5.7\Engine\Plugins\Marketplace\UnrealMetaXRPlugin.205.0\MetaXR\Source\OculusXRHMD\Private\OpenXR\OculusXRSystemInfoExtensionPlugin.cpp">
+      <Filter>Plugins\Marketplace\UnrealMetaXRPlugin.205.0\MetaXR\Source\OculusXRHMD\Private\OpenXR</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\..\..\..\..\..\Program Files\Epic Games\UE_5.7\Engine\Plugins\Marketplace\UnrealMetaXRPlugin.205.0\MetaXR\Source\OculusXRHMD\Private\OpenXR\OculusXRSystemInfoExtensionPlugin.h">
+      <Filter>Plugins\Marketplace\UnrealMetaXRPlugin.205.0\MetaXR\Source\OculusXRHMD\Private\OpenXR</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\..\..\..\..\..\Program Files\Epic Games\UE_5.7\Engine\Plugins\Marketplace\UnrealMetaXRPlugin.205.0\MetaXR\Source\OculusXRHMD\Private\OpenXR\OculusXRXRFunctions.cpp">
+      <Filter>Plugins\Marketplace\UnrealMetaXRPlugin.205.0\MetaXR\Source\OculusXRHMD\Private\OpenXR</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\..\..\..\..\..\Program Files\Epic Games\UE_5.7\Engine\Plugins\Marketplace\UnrealMetaXRPlugin.205.0\MetaXR\Source\OculusXRHMD\Private\OpenXR\OculusXRXRFunctions.h">
+      <Filter>Plugins\Marketplace\UnrealMetaXRPlugin.205.0\MetaXR\Source\OculusXRHMD\Private\OpenXR</Filter>
+    </ClInclude>
+    <Filter Include="Plugins\Marketplace\UnrealMetaXRPlugin.205.0\MetaXR\Source\OculusXRHMD\Public">
+      <UniqueIdentifier>{22FB20B1-15B7-3325-88F2-BE56F529EBE6}</UniqueIdentifier>
+    </Filter>
+    <ClInclude Include="..\..\..\..\..\..\..\Program Files\Epic Games\UE_5.7\Engine\Plugins\Marketplace\UnrealMetaXRPlugin.205.0\MetaXR\Source\OculusXRHMD\Public\IOculusXRHMDModule.h">
+      <Filter>Plugins\Marketplace\UnrealMetaXRPlugin.205.0\MetaXR\Source\OculusXRHMD\Public</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\..\..\..\..\Program Files\Epic Games\UE_5.7\Engine\Plugins\Marketplace\UnrealMetaXRPlugin.205.0\MetaXR\Source\OculusXRHMD\Public\OculusXRAssetDirectory.h">
+      <Filter>Plugins\Marketplace\UnrealMetaXRPlugin.205.0\MetaXR\Source\OculusXRHMD\Public</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\..\..\..\..\Program Files\Epic Games\UE_5.7\Engine\Plugins\Marketplace\UnrealMetaXRPlugin.205.0\MetaXR\Source\OculusXRHMD\Public\OculusXREventComponent.h">
+      <Filter>Plugins\Marketplace\UnrealMetaXRPlugin.205.0\MetaXR\Source\OculusXRHMD\Public</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\..\..\..\..\Program Files\Epic Games\UE_5.7\Engine\Plugins\Marketplace\UnrealMetaXRPlugin.205.0\MetaXR\Source\OculusXRHMD\Public\OculusXRFunctionLibrary.h">
+      <Filter>Plugins\Marketplace\UnrealMetaXRPlugin.205.0\MetaXR\Source\OculusXRHMD\Public</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\..\..\..\..\Program Files\Epic Games\UE_5.7\Engine\Plugins\Marketplace\UnrealMetaXRPlugin.205.0\MetaXR\Source\OculusXRHMD\Public\OculusXRHMDRuntimeSettings.h">
+      <Filter>Plugins\Marketplace\UnrealMetaXRPlugin.205.0\MetaXR\Source\OculusXRHMD\Public</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\..\..\..\..\Program Files\Epic Games\UE_5.7\Engine\Plugins\Marketplace\UnrealMetaXRPlugin.205.0\MetaXR\Source\OculusXRHMD\Public\OculusXRHMDTypes.h">
+      <Filter>Plugins\Marketplace\UnrealMetaXRPlugin.205.0\MetaXR\Source\OculusXRHMD\Public</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\..\..\..\..\Program Files\Epic Games\UE_5.7\Engine\Plugins\Marketplace\UnrealMetaXRPlugin.205.0\MetaXR\Source\OculusXRHMD\Public\OculusXRMultiPlayerTestingSubsystem.h">
+      <Filter>Plugins\Marketplace\UnrealMetaXRPlugin.205.0\MetaXR\Source\OculusXRHMD\Public</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\..\..\..\..\Program Files\Epic Games\UE_5.7\Engine\Plugins\Marketplace\UnrealMetaXRPlugin.205.0\MetaXR\Source\OculusXRHMD\Public\OculusXROSVersions.h">
+      <Filter>Plugins\Marketplace\UnrealMetaXRPlugin.205.0\MetaXR\Source\OculusXRHMD\Public</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\..\..\..\..\Program Files\Epic Games\UE_5.7\Engine\Plugins\Marketplace\UnrealMetaXRPlugin.205.0\MetaXR\Source\OculusXRHMD\Public\OculusXRPassthroughLayerShapes.h">
+      <Filter>Plugins\Marketplace\UnrealMetaXRPlugin.205.0\MetaXR\Source\OculusXRHMD\Public</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\..\..\..\..\Program Files\Epic Games\UE_5.7\Engine\Plugins\Marketplace\UnrealMetaXRPlugin.205.0\MetaXR\Source\OculusXRHMD\Public\OculusXRPassthroughMesh.h">
+      <Filter>Plugins\Marketplace\UnrealMetaXRPlugin.205.0\MetaXR\Source\OculusXRHMD\Public</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\..\..\..\..\Program Files\Epic Games\UE_5.7\Engine\Plugins\Marketplace\UnrealMetaXRPlugin.205.0\MetaXR\Source\OculusXRHMD\Public\OculusXRStereoLayersFlagsSupplier.h">
+      <Filter>Plugins\Marketplace\UnrealMetaXRPlugin.205.0\MetaXR\Source\OculusXRHMD\Public</Filter>
+    </ClInclude>
+    <Filter Include="Plugins\Marketplace\UnrealMetaXRPlugin.205.0\MetaXR\Source\OculusXRHMD\Public\OpenXR">
+      <UniqueIdentifier>{6E8A6743-8E11-3905-B65A-DBCDF4FAAAB2}</UniqueIdentifier>
+    </Filter>
+    <ClInclude Include="..\..\..\..\..\..\..\Program Files\Epic Games\UE_5.7\Engine\Plugins\Marketplace\UnrealMetaXRPlugin.205.0\MetaXR\Source\OculusXRHMD\Public\OpenXR\IOculusXRExtensionPlugin.h">
+      <Filter>Plugins\Marketplace\UnrealMetaXRPlugin.205.0\MetaXR\Source\OculusXRHMD\Public\OpenXR</Filter>
+    </ClInclude>
+    <Filter Include="Plugins\Marketplace\UnrealMetaXRPlugin.205.0\MetaXR\Source\OculusXRInput">
+      <UniqueIdentifier>{8CAA4CD2-B5AE-33E3-982F-BA6E13162355}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\..\..\..\..\..\Program Files\Epic Games\UE_5.7\Engine\Plugins\Marketplace\UnrealMetaXRPlugin.205.0\MetaXR\Source\OculusXRInput\OculusXRInput.Build.cs">
+      <Filter>Plugins\Marketplace\UnrealMetaXRPlugin.205.0\MetaXR\Source\OculusXRInput</Filter>
+    </None>
+    <Filter Include="Plugins\Marketplace\UnrealMetaXRPlugin.205.0\MetaXR\Source\OculusXRInput\Private">
+      <UniqueIdentifier>{DC394AC5-619E-3BBB-AB5D-35FBDCB5AF9E}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\..\..\..\..\..\Program Files\Epic Games\UE_5.7\Engine\Plugins\Marketplace\UnrealMetaXRPlugin.205.0\MetaXR\Source\OculusXRInput\Private\OculusXRControllerComponent.cpp">
+      <Filter>Plugins\Marketplace\UnrealMetaXRPlugin.205.0\MetaXR\Source\OculusXRInput\Private</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\..\..\..\..\Program Files\Epic Games\UE_5.7\Engine\Plugins\Marketplace\UnrealMetaXRPlugin.205.0\MetaXR\Source\OculusXRInput\Private\OculusXRControllerLegacyPoseTransformComponent.cpp">
+      <Filter>Plugins\Marketplace\UnrealMetaXRPlugin.205.0\MetaXR\Source\OculusXRInput\Private</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\..\..\..\..\Program Files\Epic Games\UE_5.7\Engine\Plugins\Marketplace\UnrealMetaXRPlugin.205.0\MetaXR\Source\OculusXRInput\Private\OculusXRControllerTracking.cpp">
+      <Filter>Plugins\Marketplace\UnrealMetaXRPlugin.205.0\MetaXR\Source\OculusXRInput\Private</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\..\..\..\..\..\Program Files\Epic Games\UE_5.7\Engine\Plugins\Marketplace\UnrealMetaXRPlugin.205.0\MetaXR\Source\OculusXRInput\Private\OculusXRControllerTracking.h">
+      <Filter>Plugins\Marketplace\UnrealMetaXRPlugin.205.0\MetaXR\Source\OculusXRInput\Private</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\..\..\..\..\..\Program Files\Epic Games\UE_5.7\Engine\Plugins\Marketplace\UnrealMetaXRPlugin.205.0\MetaXR\Source\OculusXRInput\Private\OculusXRHandComponent.cpp">
+      <Filter>Plugins\Marketplace\UnrealMetaXRPlugin.205.0\MetaXR\Source\OculusXRInput\Private</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\..\..\..\..\Program Files\Epic Games\UE_5.7\Engine\Plugins\Marketplace\UnrealMetaXRPlugin.205.0\MetaXR\Source\OculusXRInput\Private\OculusXRHandTracking.cpp">
+      <Filter>Plugins\Marketplace\UnrealMetaXRPlugin.205.0\MetaXR\Source\OculusXRInput\Private</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\..\..\..\..\..\Program Files\Epic Games\UE_5.7\Engine\Plugins\Marketplace\UnrealMetaXRPlugin.205.0\MetaXR\Source\OculusXRInput\Private\OculusXRHandTracking.h">
+      <Filter>Plugins\Marketplace\UnrealMetaXRPlugin.205.0\MetaXR\Source\OculusXRInput\Private</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\..\..\..\..\..\Program Files\Epic Games\UE_5.7\Engine\Plugins\Marketplace\UnrealMetaXRPlugin.205.0\MetaXR\Source\OculusXRInput\Private\OculusXRInput.cpp">
+      <Filter>Plugins\Marketplace\UnrealMetaXRPlugin.205.0\MetaXR\Source\OculusXRInput\Private</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\..\..\..\..\..\Program Files\Epic Games\UE_5.7\Engine\Plugins\Marketplace\UnrealMetaXRPlugin.205.0\MetaXR\Source\OculusXRInput\Private\OculusXRInput.h">
+      <Filter>Plugins\Marketplace\UnrealMetaXRPlugin.205.0\MetaXR\Source\OculusXRInput\Private</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\..\..\..\..\..\Program Files\Epic Games\UE_5.7\Engine\Plugins\Marketplace\UnrealMetaXRPlugin.205.0\MetaXR\Source\OculusXRInput\Private\OculusXRInputExtensionPlugin.cpp">
+      <Filter>Plugins\Marketplace\UnrealMetaXRPlugin.205.0\MetaXR\Source\OculusXRInput\Private</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\..\..\..\..\..\Program Files\Epic Games\UE_5.7\Engine\Plugins\Marketplace\UnrealMetaXRPlugin.205.0\MetaXR\Source\OculusXRInput\Private\OculusXRInputExtensionPlugin.h">
+      <Filter>Plugins\Marketplace\UnrealMetaXRPlugin.205.0\MetaXR\Source\OculusXRInput\Private</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\..\..\..\..\..\Program Files\Epic Games\UE_5.7\Engine\Plugins\Marketplace\UnrealMetaXRPlugin.205.0\MetaXR\Source\OculusXRInput\Private\OculusXRInputFunctionLibrary.cpp">
+      <Filter>Plugins\Marketplace\UnrealMetaXRPlugin.205.0\MetaXR\Source\OculusXRInput\Private</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\..\..\..\..\Program Files\Epic Games\UE_5.7\Engine\Plugins\Marketplace\UnrealMetaXRPlugin.205.0\MetaXR\Source\OculusXRInput\Private\OculusXRInputHandTrackingExtensionPlugin.cpp">
+      <Filter>Plugins\Marketplace\UnrealMetaXRPlugin.205.0\MetaXR\Source\OculusXRInput\Private</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\..\..\..\..\..\Program Files\Epic Games\UE_5.7\Engine\Plugins\Marketplace\UnrealMetaXRPlugin.205.0\MetaXR\Source\OculusXRInput\Private\OculusXRInputHandTrackingExtensionPlugin.h">
+      <Filter>Plugins\Marketplace\UnrealMetaXRPlugin.205.0\MetaXR\Source\OculusXRInput\Private</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\..\..\..\..\Program Files\Epic Games\UE_5.7\Engine\Plugins\Marketplace\UnrealMetaXRPlugin.205.0\MetaXR\Source\OculusXRInput\Private\OculusXRInputHandTrackingTypes.h">
+      <Filter>Plugins\Marketplace\UnrealMetaXRPlugin.205.0\MetaXR\Source\OculusXRInput\Private</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\..\..\..\..\..\Program Files\Epic Games\UE_5.7\Engine\Plugins\Marketplace\UnrealMetaXRPlugin.205.0\MetaXR\Source\OculusXRInput\Private\OculusXRInputHapticsExtensionPlugin.cpp">
+      <Filter>Plugins\Marketplace\UnrealMetaXRPlugin.205.0\MetaXR\Source\OculusXRInput\Private</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\..\..\..\..\..\Program Files\Epic Games\UE_5.7\Engine\Plugins\Marketplace\UnrealMetaXRPlugin.205.0\MetaXR\Source\OculusXRInput\Private\OculusXRInputHapticsExtensionPlugin.h">
+      <Filter>Plugins\Marketplace\UnrealMetaXRPlugin.205.0\MetaXR\Source\OculusXRInput\Private</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\..\..\..\..\..\Program Files\Epic Games\UE_5.7\Engine\Plugins\Marketplace\UnrealMetaXRPlugin.205.0\MetaXR\Source\OculusXRInput\Private\OculusXRInputModule.cpp">
+      <Filter>Plugins\Marketplace\UnrealMetaXRPlugin.205.0\MetaXR\Source\OculusXRInput\Private</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\..\..\..\..\..\Program Files\Epic Games\UE_5.7\Engine\Plugins\Marketplace\UnrealMetaXRPlugin.205.0\MetaXR\Source\OculusXRInput\Private\OculusXRInputModule.h">
+      <Filter>Plugins\Marketplace\UnrealMetaXRPlugin.205.0\MetaXR\Source\OculusXRInput\Private</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\..\..\..\..\..\Program Files\Epic Games\UE_5.7\Engine\Plugins\Marketplace\UnrealMetaXRPlugin.205.0\MetaXR\Source\OculusXRInput\Private\OculusXRInputOpenXR.cpp">
+      <Filter>Plugins\Marketplace\UnrealMetaXRPlugin.205.0\MetaXR\Source\OculusXRInput\Private</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\..\..\..\..\..\Program Files\Epic Games\UE_5.7\Engine\Plugins\Marketplace\UnrealMetaXRPlugin.205.0\MetaXR\Source\OculusXRInput\Private\OculusXRInputOpenXR.h">
+      <Filter>Plugins\Marketplace\UnrealMetaXRPlugin.205.0\MetaXR\Source\OculusXRInput\Private</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\..\..\..\..\..\Program Files\Epic Games\UE_5.7\Engine\Plugins\Marketplace\UnrealMetaXRPlugin.205.0\MetaXR\Source\OculusXRInput\Private\OculusXRInputOVR.cpp">
+      <Filter>Plugins\Marketplace\UnrealMetaXRPlugin.205.0\MetaXR\Source\OculusXRInput\Private</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\..\..\..\..\..\Program Files\Epic Games\UE_5.7\Engine\Plugins\Marketplace\UnrealMetaXRPlugin.205.0\MetaXR\Source\OculusXRInput\Private\OculusXRInputOVR.h">
+      <Filter>Plugins\Marketplace\UnrealMetaXRPlugin.205.0\MetaXR\Source\OculusXRInput\Private</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\..\..\..\..\Program Files\Epic Games\UE_5.7\Engine\Plugins\Marketplace\UnrealMetaXRPlugin.205.0\MetaXR\Source\OculusXRInput\Private\OculusXRInputState.h">
+      <Filter>Plugins\Marketplace\UnrealMetaXRPlugin.205.0\MetaXR\Source\OculusXRInput\Private</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\..\..\..\..\..\Program Files\Epic Games\UE_5.7\Engine\Plugins\Marketplace\UnrealMetaXRPlugin.205.0\MetaXR\Source\OculusXRInput\Private\OculusXRInputXRFunctions.cpp">
+      <Filter>Plugins\Marketplace\UnrealMetaXRPlugin.205.0\MetaXR\Source\OculusXRInput\Private</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\..\..\..\..\..\Program Files\Epic Games\UE_5.7\Engine\Plugins\Marketplace\UnrealMetaXRPlugin.205.0\MetaXR\Source\OculusXRInput\Private\OculusXRInputXRFunctions.h">
+      <Filter>Plugins\Marketplace\UnrealMetaXRPlugin.205.0\MetaXR\Source\OculusXRInput\Private</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\..\..\..\..\..\Program Files\Epic Games\UE_5.7\Engine\Plugins\Marketplace\UnrealMetaXRPlugin.205.0\MetaXR\Source\OculusXRInput\Private\OculusXRLegacyPoseTransformComponent.cpp">
+      <Filter>Plugins\Marketplace\UnrealMetaXRPlugin.205.0\MetaXR\Source\OculusXRInput\Private</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\..\..\..\..\Program Files\Epic Games\UE_5.7\Engine\Plugins\Marketplace\UnrealMetaXRPlugin.205.0\MetaXR\Source\OculusXRInput\Private\OculusXRSimultaneousHandsAndControllersExtensionPlugin.cpp">
+      <Filter>Plugins\Marketplace\UnrealMetaXRPlugin.205.0\MetaXR\Source\OculusXRInput\Private</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\..\..\..\..\..\Program Files\Epic Games\UE_5.7\Engine\Plugins\Marketplace\UnrealMetaXRPlugin.205.0\MetaXR\Source\OculusXRInput\Private\OculusXRSimultaneousHandsAndControllersExtensionPlugin.h">
+      <Filter>Plugins\Marketplace\UnrealMetaXRPlugin.205.0\MetaXR\Source\OculusXRInput\Private</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\..\..\..\..\..\Program Files\Epic Games\UE_5.7\Engine\Plugins\Marketplace\UnrealMetaXRPlugin.205.0\MetaXR\Source\OculusXRInput\Private\OculusXRTouchPlusInputExtensionPlugin.cpp">
+      <Filter>Plugins\Marketplace\UnrealMetaXRPlugin.205.0\MetaXR\Source\OculusXRInput\Private</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\..\..\..\..\..\Program Files\Epic Games\UE_5.7\Engine\Plugins\Marketplace\UnrealMetaXRPlugin.205.0\MetaXR\Source\OculusXRInput\Private\OculusXRTouchPlusInputExtensionPlugin.h">
+      <Filter>Plugins\Marketplace\UnrealMetaXRPlugin.205.0\MetaXR\Source\OculusXRInput\Private</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\..\..\..\..\..\Program Files\Epic Games\UE_5.7\Engine\Plugins\Marketplace\UnrealMetaXRPlugin.205.0\MetaXR\Source\OculusXRInput\Private\OculusXRTouchProInputExtensionPlugin.cpp">
+      <Filter>Plugins\Marketplace\UnrealMetaXRPlugin.205.0\MetaXR\Source\OculusXRInput\Private</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\..\..\..\..\..\Program Files\Epic Games\UE_5.7\Engine\Plugins\Marketplace\UnrealMetaXRPlugin.205.0\MetaXR\Source\OculusXRInput\Private\OculusXRTouchProInputExtensionPlugin.h">
+      <Filter>Plugins\Marketplace\UnrealMetaXRPlugin.205.0\MetaXR\Source\OculusXRInput\Private</Filter>
+    </ClInclude>
+    <Filter Include="Plugins\Marketplace\UnrealMetaXRPlugin.205.0\MetaXR\Source\OculusXRInput\Public">
+      <UniqueIdentifier>{C3C4761F-A725-3830-8C70-97E3D8B19527}</UniqueIdentifier>
+    </Filter>
+    <ClInclude Include="..\..\..\..\..\..\..\Program Files\Epic Games\UE_5.7\Engine\Plugins\Marketplace\UnrealMetaXRPlugin.205.0\MetaXR\Source\OculusXRInput\Public\IOculusXRInputModule.h">
+      <Filter>Plugins\Marketplace\UnrealMetaXRPlugin.205.0\MetaXR\Source\OculusXRInput\Public</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\..\..\..\..\Program Files\Epic Games\UE_5.7\Engine\Plugins\Marketplace\UnrealMetaXRPlugin.205.0\MetaXR\Source\OculusXRInput\Public\OculusXRControllerComponent.h">
+      <Filter>Plugins\Marketplace\UnrealMetaXRPlugin.205.0\MetaXR\Source\OculusXRInput\Public</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\..\..\..\..\Program Files\Epic Games\UE_5.7\Engine\Plugins\Marketplace\UnrealMetaXRPlugin.205.0\MetaXR\Source\OculusXRInput\Public\OculusXRControllerLegacyPoseTransformComponent.h">
+      <Filter>Plugins\Marketplace\UnrealMetaXRPlugin.205.0\MetaXR\Source\OculusXRInput\Public</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\..\..\..\..\Program Files\Epic Games\UE_5.7\Engine\Plugins\Marketplace\UnrealMetaXRPlugin.205.0\MetaXR\Source\OculusXRInput\Public\OculusXRHandComponent.h">
+      <Filter>Plugins\Marketplace\UnrealMetaXRPlugin.205.0\MetaXR\Source\OculusXRInput\Public</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\..\..\..\..\Program Files\Epic Games\UE_5.7\Engine\Plugins\Marketplace\UnrealMetaXRPlugin.205.0\MetaXR\Source\OculusXRInput\Public\OculusXRInputFunctionLibrary.h">
+      <Filter>Plugins\Marketplace\UnrealMetaXRPlugin.205.0\MetaXR\Source\OculusXRInput\Public</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\..\..\..\..\Program Files\Epic Games\UE_5.7\Engine\Plugins\Marketplace\UnrealMetaXRPlugin.205.0\MetaXR\Source\OculusXRInput\Public\OculusXRLegacyPoseTransformComponent.h">
+      <Filter>Plugins\Marketplace\UnrealMetaXRPlugin.205.0\MetaXR\Source\OculusXRInput\Public</Filter>
+    </ClInclude>
+    <Filter Include="Plugins\Marketplace\UnrealMetaXRPlugin.205.0\MetaXR\Source\OculusXRMovement">
+      <UniqueIdentifier>{F3074DCF-CB19-38F1-AC03-6AB03545A4C5}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\..\..\..\..\..\Program Files\Epic Games\UE_5.7\Engine\Plugins\Marketplace\UnrealMetaXRPlugin.205.0\MetaXR\Source\OculusXRMovement\OculusXRMovement.Build.cs">
+      <Filter>Plugins\Marketplace\UnrealMetaXRPlugin.205.0\MetaXR\Source\OculusXRMovement</Filter>
+    </None>
+    <Filter Include="Plugins\Marketplace\UnrealMetaXRPlugin.205.0\MetaXR\Source\OculusXRMovement\Private">
+      <UniqueIdentifier>{7FB804D3-C8C2-3E94-8659-E8265D5C164F}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\..\..\..\..\..\Program Files\Epic Games\UE_5.7\Engine\Plugins\Marketplace\UnrealMetaXRPlugin.205.0\MetaXR\Source\OculusXRMovement\Private\LiveLinkOculusXRMovementSourceFactory.cpp">
+      <Filter>Plugins\Marketplace\UnrealMetaXRPlugin.205.0\MetaXR\Source\OculusXRMovement\Private</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\..\..\..\..\..\Program Files\Epic Games\UE_5.7\Engine\Plugins\Marketplace\UnrealMetaXRPlugin.205.0\MetaXR\Source\OculusXRMovement\Private\LiveLinkOculusXRMovementSourceFactory.h">
+      <Filter>Plugins\Marketplace\UnrealMetaXRPlugin.205.0\MetaXR\Source\OculusXRMovement\Private</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\..\..\..\..\..\Program Files\Epic Games\UE_5.7\Engine\Plugins\Marketplace\UnrealMetaXRPlugin.205.0\MetaXR\Source\OculusXRMovement\Private\OculusXRBodyTrackingComponent.cpp">
+      <Filter>Plugins\Marketplace\UnrealMetaXRPlugin.205.0\MetaXR\Source\OculusXRMovement\Private</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\..\..\..\..\Program Files\Epic Games\UE_5.7\Engine\Plugins\Marketplace\UnrealMetaXRPlugin.205.0\MetaXR\Source\OculusXRMovement\Private\OculusXREyeTrackingComponent.cpp">
+      <Filter>Plugins\Marketplace\UnrealMetaXRPlugin.205.0\MetaXR\Source\OculusXRMovement\Private</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\..\..\..\..\Program Files\Epic Games\UE_5.7\Engine\Plugins\Marketplace\UnrealMetaXRPlugin.205.0\MetaXR\Source\OculusXRMovement\Private\OculusXRFaceTrackingComponent.cpp">
+      <Filter>Plugins\Marketplace\UnrealMetaXRPlugin.205.0\MetaXR\Source\OculusXRMovement\Private</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\..\..\..\..\Program Files\Epic Games\UE_5.7\Engine\Plugins\Marketplace\UnrealMetaXRPlugin.205.0\MetaXR\Source\OculusXRMovement\Private\OculusXRLiveLinkRetargetBodyAsset.cpp">
+      <Filter>Plugins\Marketplace\UnrealMetaXRPlugin.205.0\MetaXR\Source\OculusXRMovement\Private</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\..\..\..\..\Program Files\Epic Games\UE_5.7\Engine\Plugins\Marketplace\UnrealMetaXRPlugin.205.0\MetaXR\Source\OculusXRMovement\Private\OculusXRLiveLinkRetargetFaceAsset.cpp">
+      <Filter>Plugins\Marketplace\UnrealMetaXRPlugin.205.0\MetaXR\Source\OculusXRMovement\Private</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\..\..\..\..\Program Files\Epic Games\UE_5.7\Engine\Plugins\Marketplace\UnrealMetaXRPlugin.205.0\MetaXR\Source\OculusXRMovement\Private\OculusXRLiveLinkRetargetFaceVisemesAsset.cpp">
+      <Filter>Plugins\Marketplace\UnrealMetaXRPlugin.205.0\MetaXR\Source\OculusXRMovement\Private</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\..\..\..\..\Program Files\Epic Games\UE_5.7\Engine\Plugins\Marketplace\UnrealMetaXRPlugin.205.0\MetaXR\Source\OculusXRMovement\Private\OculusXRMorphTargetsController.cpp">
+      <Filter>Plugins\Marketplace\UnrealMetaXRPlugin.205.0\MetaXR\Source\OculusXRMovement\Private</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\..\..\..\..\Program Files\Epic Games\UE_5.7\Engine\Plugins\Marketplace\UnrealMetaXRPlugin.205.0\MetaXR\Source\OculusXRMovement\Private\OculusXRMovement.cpp">
+      <Filter>Plugins\Marketplace\UnrealMetaXRPlugin.205.0\MetaXR\Source\OculusXRMovement\Private</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\..\..\..\..\Program Files\Epic Games\UE_5.7\Engine\Plugins\Marketplace\UnrealMetaXRPlugin.205.0\MetaXR\Source\OculusXRMovement\Private\OculusXRMovementFunctionLibrary.cpp">
+      <Filter>Plugins\Marketplace\UnrealMetaXRPlugin.205.0\MetaXR\Source\OculusXRMovement\Private</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\..\..\..\..\Program Files\Epic Games\UE_5.7\Engine\Plugins\Marketplace\UnrealMetaXRPlugin.205.0\MetaXR\Source\OculusXRMovement\Private\OculusXRMovementFunctionsOpenXR.cpp">
+      <Filter>Plugins\Marketplace\UnrealMetaXRPlugin.205.0\MetaXR\Source\OculusXRMovement\Private</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\..\..\..\..\..\Program Files\Epic Games\UE_5.7\Engine\Plugins\Marketplace\UnrealMetaXRPlugin.205.0\MetaXR\Source\OculusXRMovement\Private\OculusXRMovementFunctionsOpenXR.h">
+      <Filter>Plugins\Marketplace\UnrealMetaXRPlugin.205.0\MetaXR\Source\OculusXRMovement\Private</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\..\..\..\..\..\Program Files\Epic Games\UE_5.7\Engine\Plugins\Marketplace\UnrealMetaXRPlugin.205.0\MetaXR\Source\OculusXRMovement\Private\OculusXRMovementFunctionsOVR.cpp">
+      <Filter>Plugins\Marketplace\UnrealMetaXRPlugin.205.0\MetaXR\Source\OculusXRMovement\Private</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\..\..\..\..\..\Program Files\Epic Games\UE_5.7\Engine\Plugins\Marketplace\UnrealMetaXRPlugin.205.0\MetaXR\Source\OculusXRMovement\Private\OculusXRMovementFunctionsOVR.h">
+      <Filter>Plugins\Marketplace\UnrealMetaXRPlugin.205.0\MetaXR\Source\OculusXRMovement\Private</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\..\..\..\..\..\Program Files\Epic Games\UE_5.7\Engine\Plugins\Marketplace\UnrealMetaXRPlugin.205.0\MetaXR\Source\OculusXRMovement\Private\OculusXRMovementLiveLink.cpp">
+      <Filter>Plugins\Marketplace\UnrealMetaXRPlugin.205.0\MetaXR\Source\OculusXRMovement\Private</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\..\..\..\..\..\Program Files\Epic Games\UE_5.7\Engine\Plugins\Marketplace\UnrealMetaXRPlugin.205.0\MetaXR\Source\OculusXRMovement\Private\OculusXRMovementLiveLink.h">
+      <Filter>Plugins\Marketplace\UnrealMetaXRPlugin.205.0\MetaXR\Source\OculusXRMovement\Private</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\..\..\..\..\Program Files\Epic Games\UE_5.7\Engine\Plugins\Marketplace\UnrealMetaXRPlugin.205.0\MetaXR\Source\OculusXRMovement\Private\OculusXRMovementLog.h">
+      <Filter>Plugins\Marketplace\UnrealMetaXRPlugin.205.0\MetaXR\Source\OculusXRMovement\Private</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\..\..\..\..\..\Program Files\Epic Games\UE_5.7\Engine\Plugins\Marketplace\UnrealMetaXRPlugin.205.0\MetaXR\Source\OculusXRMovement\Private\OculusXRMovementModule.cpp">
+      <Filter>Plugins\Marketplace\UnrealMetaXRPlugin.205.0\MetaXR\Source\OculusXRMovement\Private</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\..\..\..\..\..\Program Files\Epic Games\UE_5.7\Engine\Plugins\Marketplace\UnrealMetaXRPlugin.205.0\MetaXR\Source\OculusXRMovement\Private\OculusXRMovementModule.h">
+      <Filter>Plugins\Marketplace\UnrealMetaXRPlugin.205.0\MetaXR\Source\OculusXRMovement\Private</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\..\..\..\..\..\Program Files\Epic Games\UE_5.7\Engine\Plugins\Marketplace\UnrealMetaXRPlugin.205.0\MetaXR\Source\OculusXRMovement\Private\OculusXRMovementTypes.cpp">
+      <Filter>Plugins\Marketplace\UnrealMetaXRPlugin.205.0\MetaXR\Source\OculusXRMovement\Private</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\..\..\..\..\..\Program Files\Epic Games\UE_5.7\Engine\Plugins\Marketplace\UnrealMetaXRPlugin.205.0\MetaXR\Source\OculusXRMovement\Private\OculusXRTelemetryMovementEvents.h">
+      <Filter>Plugins\Marketplace\UnrealMetaXRPlugin.205.0\MetaXR\Source\OculusXRMovement\Private</Filter>
+    </ClInclude>
+    <Filter Include="Plugins\Marketplace\UnrealMetaXRPlugin.205.0\MetaXR\Source\OculusXRMovement\Private\openxr">
+      <UniqueIdentifier>{6187539A-B727-35F6-9FA1-9E7C26AA14BB}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\..\..\..\..\..\Program Files\Epic Games\UE_5.7\Engine\Plugins\Marketplace\UnrealMetaXRPlugin.205.0\MetaXR\Source\OculusXRMovement\Private\openxr\OculusXRBodyTrackingXR.cpp">
+      <Filter>Plugins\Marketplace\UnrealMetaXRPlugin.205.0\MetaXR\Source\OculusXRMovement\Private\openxr</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\..\..\..\..\..\Program Files\Epic Games\UE_5.7\Engine\Plugins\Marketplace\UnrealMetaXRPlugin.205.0\MetaXR\Source\OculusXRMovement\Private\openxr\OculusXRBodyTrackingXR.h">
+      <Filter>Plugins\Marketplace\UnrealMetaXRPlugin.205.0\MetaXR\Source\OculusXRMovement\Private\openxr</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\..\..\..\..\..\Program Files\Epic Games\UE_5.7\Engine\Plugins\Marketplace\UnrealMetaXRPlugin.205.0\MetaXR\Source\OculusXRMovement\Private\openxr\OculusXREyeTrackingXR.cpp">
+      <Filter>Plugins\Marketplace\UnrealMetaXRPlugin.205.0\MetaXR\Source\OculusXRMovement\Private\openxr</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\..\..\..\..\..\Program Files\Epic Games\UE_5.7\Engine\Plugins\Marketplace\UnrealMetaXRPlugin.205.0\MetaXR\Source\OculusXRMovement\Private\openxr\OculusXREyeTrackingXR.h">
+      <Filter>Plugins\Marketplace\UnrealMetaXRPlugin.205.0\MetaXR\Source\OculusXRMovement\Private\openxr</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\..\..\..\..\..\Program Files\Epic Games\UE_5.7\Engine\Plugins\Marketplace\UnrealMetaXRPlugin.205.0\MetaXR\Source\OculusXRMovement\Private\openxr\OculusXRFaceTrackingXR.cpp">
+      <Filter>Plugins\Marketplace\UnrealMetaXRPlugin.205.0\MetaXR\Source\OculusXRMovement\Private\openxr</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\..\..\..\..\..\Program Files\Epic Games\UE_5.7\Engine\Plugins\Marketplace\UnrealMetaXRPlugin.205.0\MetaXR\Source\OculusXRMovement\Private\openxr\OculusXRFaceTrackingXR.h">
+      <Filter>Plugins\Marketplace\UnrealMetaXRPlugin.205.0\MetaXR\Source\OculusXRMovement\Private\openxr</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\..\..\..\..\Program Files\Epic Games\UE_5.7\Engine\Plugins\Marketplace\UnrealMetaXRPlugin.205.0\MetaXR\Source\OculusXRMovement\Private\openxr\OculusXRMovementXRIncludes.h">
+      <Filter>Plugins\Marketplace\UnrealMetaXRPlugin.205.0\MetaXR\Source\OculusXRMovement\Private\openxr</Filter>
+    </ClInclude>
+    <Filter Include="Plugins\Marketplace\UnrealMetaXRPlugin.205.0\MetaXR\Source\OculusXRMovement\Public">
+      <UniqueIdentifier>{29A84B1E-AD2D-300C-B034-574547575877}</UniqueIdentifier>
+    </Filter>
+    <ClInclude Include="..\..\..\..\..\..\..\Program Files\Epic Games\UE_5.7\Engine\Plugins\Marketplace\UnrealMetaXRPlugin.205.0\MetaXR\Source\OculusXRMovement\Public\IOculusXRMovementModule.h">
+      <Filter>Plugins\Marketplace\UnrealMetaXRPlugin.205.0\MetaXR\Source\OculusXRMovement\Public</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\..\..\..\..\Program Files\Epic Games\UE_5.7\Engine\Plugins\Marketplace\UnrealMetaXRPlugin.205.0\MetaXR\Source\OculusXRMovement\Public\OculusXRAnimCurveMapping.h">
+      <Filter>Plugins\Marketplace\UnrealMetaXRPlugin.205.0\MetaXR\Source\OculusXRMovement\Public</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\..\..\..\..\Program Files\Epic Games\UE_5.7\Engine\Plugins\Marketplace\UnrealMetaXRPlugin.205.0\MetaXR\Source\OculusXRMovement\Public\OculusXRBodyTrackingComponent.h">
+      <Filter>Plugins\Marketplace\UnrealMetaXRPlugin.205.0\MetaXR\Source\OculusXRMovement\Public</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\..\..\..\..\Program Files\Epic Games\UE_5.7\Engine\Plugins\Marketplace\UnrealMetaXRPlugin.205.0\MetaXR\Source\OculusXRMovement\Public\OculusXREyeTrackingComponent.h">
+      <Filter>Plugins\Marketplace\UnrealMetaXRPlugin.205.0\MetaXR\Source\OculusXRMovement\Public</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\..\..\..\..\Program Files\Epic Games\UE_5.7\Engine\Plugins\Marketplace\UnrealMetaXRPlugin.205.0\MetaXR\Source\OculusXRMovement\Public\OculusXRFaceTrackingComponent.h">
+      <Filter>Plugins\Marketplace\UnrealMetaXRPlugin.205.0\MetaXR\Source\OculusXRMovement\Public</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\..\..\..\..\Program Files\Epic Games\UE_5.7\Engine\Plugins\Marketplace\UnrealMetaXRPlugin.205.0\MetaXR\Source\OculusXRMovement\Public\OculusXRLiveLinkRetargetBodyAsset.h">
+      <Filter>Plugins\Marketplace\UnrealMetaXRPlugin.205.0\MetaXR\Source\OculusXRMovement\Public</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\..\..\..\..\Program Files\Epic Games\UE_5.7\Engine\Plugins\Marketplace\UnrealMetaXRPlugin.205.0\MetaXR\Source\OculusXRMovement\Public\OculusXRLiveLinkRetargetFaceAsset.h">
+      <Filter>Plugins\Marketplace\UnrealMetaXRPlugin.205.0\MetaXR\Source\OculusXRMovement\Public</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\..\..\..\..\Program Files\Epic Games\UE_5.7\Engine\Plugins\Marketplace\UnrealMetaXRPlugin.205.0\MetaXR\Source\OculusXRMovement\Public\OculusXRLiveLinkRetargetFaceVisemesAsset.h">
+      <Filter>Plugins\Marketplace\UnrealMetaXRPlugin.205.0\MetaXR\Source\OculusXRMovement\Public</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\..\..\..\..\Program Files\Epic Games\UE_5.7\Engine\Plugins\Marketplace\UnrealMetaXRPlugin.205.0\MetaXR\Source\OculusXRMovement\Public\OculusXRMorphTargetsController.h">
+      <Filter>Plugins\Marketplace\UnrealMetaXRPlugin.205.0\MetaXR\Source\OculusXRMovement\Public</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\..\..\..\..\Program Files\Epic Games\UE_5.7\Engine\Plugins\Marketplace\UnrealMetaXRPlugin.205.0\MetaXR\Source\OculusXRMovement\Public\OculusXRMovement.h">
+      <Filter>Plugins\Marketplace\UnrealMetaXRPlugin.205.0\MetaXR\Source\OculusXRMovement\Public</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\..\..\..\..\Program Files\Epic Games\UE_5.7\Engine\Plugins\Marketplace\UnrealMetaXRPlugin.205.0\MetaXR\Source\OculusXRMovement\Public\OculusXRMovementFunctionLibrary.h">
+      <Filter>Plugins\Marketplace\UnrealMetaXRPlugin.205.0\MetaXR\Source\OculusXRMovement\Public</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\..\..\..\..\Program Files\Epic Games\UE_5.7\Engine\Plugins\Marketplace\UnrealMetaXRPlugin.205.0\MetaXR\Source\OculusXRMovement\Public\OculusXRMovementFunctions.h">
+      <Filter>Plugins\Marketplace\UnrealMetaXRPlugin.205.0\MetaXR\Source\OculusXRMovement\Public</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\..\..\..\..\Program Files\Epic Games\UE_5.7\Engine\Plugins\Marketplace\UnrealMetaXRPlugin.205.0\MetaXR\Source\OculusXRMovement\Public\OculusXRMovementHelpers.h">
+      <Filter>Plugins\Marketplace\UnrealMetaXRPlugin.205.0\MetaXR\Source\OculusXRMovement\Public</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\..\..\..\..\Program Files\Epic Games\UE_5.7\Engine\Plugins\Marketplace\UnrealMetaXRPlugin.205.0\MetaXR\Source\OculusXRMovement\Public\OculusXRMovementTypes.h">
+      <Filter>Plugins\Marketplace\UnrealMetaXRPlugin.205.0\MetaXR\Source\OculusXRMovement\Public</Filter>
+    </ClInclude>
+    <Filter Include="Plugins\Marketplace\UnrealMetaXRPlugin.205.0\MetaXR\Source\OculusXRPassthrough">
+      <UniqueIdentifier>{A21DC997-924E-35C4-9216-EAE060CC6BD4}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\..\..\..\..\..\Program Files\Epic Games\UE_5.7\Engine\Plugins\Marketplace\UnrealMetaXRPlugin.205.0\MetaXR\Source\OculusXRPassthrough\OculusXRPassthrough.Build.cs">
+      <Filter>Plugins\Marketplace\UnrealMetaXRPlugin.205.0\MetaXR\Source\OculusXRPassthrough</Filter>
+    </None>
+    <Filter Include="Plugins\Marketplace\UnrealMetaXRPlugin.205.0\MetaXR\Source\OculusXRPassthrough\Private">
+      <UniqueIdentifier>{ADA977BF-4137-352F-A8F0-9D205261DF45}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\..\..\..\..\..\Program Files\Epic Games\UE_5.7\Engine\Plugins\Marketplace\UnrealMetaXRPlugin.205.0\MetaXR\Source\OculusXRPassthrough\Private\OculusXRPassthroughColorLut.cpp">
+      <Filter>Plugins\Marketplace\UnrealMetaXRPlugin.205.0\MetaXR\Source\OculusXRPassthrough\Private</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\..\..\..\..\Program Files\Epic Games\UE_5.7\Engine\Plugins\Marketplace\UnrealMetaXRPlugin.205.0\MetaXR\Source\OculusXRPassthrough\Private\OculusXRPassthroughEventHandling.cpp">
+      <Filter>Plugins\Marketplace\UnrealMetaXRPlugin.205.0\MetaXR\Source\OculusXRPassthrough\Private</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\..\..\..\..\..\Program Files\Epic Games\UE_5.7\Engine\Plugins\Marketplace\UnrealMetaXRPlugin.205.0\MetaXR\Source\OculusXRPassthrough\Private\OculusXRPassthroughEventHandling.h">
+      <Filter>Plugins\Marketplace\UnrealMetaXRPlugin.205.0\MetaXR\Source\OculusXRPassthrough\Private</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\..\..\..\..\..\Program Files\Epic Games\UE_5.7\Engine\Plugins\Marketplace\UnrealMetaXRPlugin.205.0\MetaXR\Source\OculusXRPassthrough\Private\OculusXRPassthroughLayerComponent.cpp">
+      <Filter>Plugins\Marketplace\UnrealMetaXRPlugin.205.0\MetaXR\Source\OculusXRPassthrough\Private</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\..\..\..\..\Program Files\Epic Games\UE_5.7\Engine\Plugins\Marketplace\UnrealMetaXRPlugin.205.0\MetaXR\Source\OculusXRPassthrough\Private\OculusXRPassthroughModule.cpp">
+      <Filter>Plugins\Marketplace\UnrealMetaXRPlugin.205.0\MetaXR\Source\OculusXRPassthrough\Private</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\..\..\..\..\..\Program Files\Epic Games\UE_5.7\Engine\Plugins\Marketplace\UnrealMetaXRPlugin.205.0\MetaXR\Source\OculusXRPassthrough\Private\OculusXRPassthroughModule.h">
+      <Filter>Plugins\Marketplace\UnrealMetaXRPlugin.205.0\MetaXR\Source\OculusXRPassthrough\Private</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\..\..\..\..\..\Program Files\Epic Games\UE_5.7\Engine\Plugins\Marketplace\UnrealMetaXRPlugin.205.0\MetaXR\Source\OculusXRPassthrough\Private\OculusXRPassthroughSubsystem.cpp">
+      <Filter>Plugins\Marketplace\UnrealMetaXRPlugin.205.0\MetaXR\Source\OculusXRPassthrough\Private</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\..\..\..\..\Program Files\Epic Games\UE_5.7\Engine\Plugins\Marketplace\UnrealMetaXRPlugin.205.0\MetaXR\Source\OculusXRPassthrough\Private\OculusXRPassthroughXR.cpp">
+      <Filter>Plugins\Marketplace\UnrealMetaXRPlugin.205.0\MetaXR\Source\OculusXRPassthrough\Private</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\..\..\..\..\..\Program Files\Epic Games\UE_5.7\Engine\Plugins\Marketplace\UnrealMetaXRPlugin.205.0\MetaXR\Source\OculusXRPassthrough\Private\OculusXRPassthroughXR.h">
+      <Filter>Plugins\Marketplace\UnrealMetaXRPlugin.205.0\MetaXR\Source\OculusXRPassthrough\Private</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\..\..\..\..\..\Program Files\Epic Games\UE_5.7\Engine\Plugins\Marketplace\UnrealMetaXRPlugin.205.0\MetaXR\Source\OculusXRPassthrough\Private\OculusXRPassthroughXRFunctions.cpp">
+      <Filter>Plugins\Marketplace\UnrealMetaXRPlugin.205.0\MetaXR\Source\OculusXRPassthrough\Private</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\..\..\..\..\..\Program Files\Epic Games\UE_5.7\Engine\Plugins\Marketplace\UnrealMetaXRPlugin.205.0\MetaXR\Source\OculusXRPassthrough\Private\OculusXRPassthroughXRFunctions.h">
+      <Filter>Plugins\Marketplace\UnrealMetaXRPlugin.205.0\MetaXR\Source\OculusXRPassthrough\Private</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\..\..\..\..\..\Program Files\Epic Games\UE_5.7\Engine\Plugins\Marketplace\UnrealMetaXRPlugin.205.0\MetaXR\Source\OculusXRPassthrough\Private\OculusXRPersistentPassthroughInstance.cpp">
+      <Filter>Plugins\Marketplace\UnrealMetaXRPlugin.205.0\MetaXR\Source\OculusXRPassthrough\Private</Filter>
+    </ClCompile>
+    <Filter Include="Plugins\Marketplace\UnrealMetaXRPlugin.205.0\MetaXR\Source\OculusXRPassthrough\Public">
+      <UniqueIdentifier>{22D490E5-D669-3826-9FD8-143909018259}</UniqueIdentifier>
+    </Filter>
+    <ClInclude Include="..\..\..\..\..\..\..\Program Files\Epic Games\UE_5.7\Engine\Plugins\Marketplace\UnrealMetaXRPlugin.205.0\MetaXR\Source\OculusXRPassthrough\Public\IOculusXRPassthroughModule.h">
+      <Filter>Plugins\Marketplace\UnrealMetaXRPlugin.205.0\MetaXR\Source\OculusXRPassthrough\Public</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\..\..\..\..\Program Files\Epic Games\UE_5.7\Engine\Plugins\Marketplace\UnrealMetaXRPlugin.205.0\MetaXR\Source\OculusXRPassthrough\Public\OculusXRPassthroughColorLut.h">
+      <Filter>Plugins\Marketplace\UnrealMetaXRPlugin.205.0\MetaXR\Source\OculusXRPassthrough\Public</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\..\..\..\..\Program Files\Epic Games\UE_5.7\Engine\Plugins\Marketplace\UnrealMetaXRPlugin.205.0\MetaXR\Source\OculusXRPassthrough\Public\OculusXRPassthroughLayerComponent.h">
+      <Filter>Plugins\Marketplace\UnrealMetaXRPlugin.205.0\MetaXR\Source\OculusXRPassthrough\Public</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\..\..\..\..\Program Files\Epic Games\UE_5.7\Engine\Plugins\Marketplace\UnrealMetaXRPlugin.205.0\MetaXR\Source\OculusXRPassthrough\Public\OculusXRPassthroughSubsystem.h">
+      <Filter>Plugins\Marketplace\UnrealMetaXRPlugin.205.0\MetaXR\Source\OculusXRPassthrough\Public</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\..\..\..\..\Program Files\Epic Games\UE_5.7\Engine\Plugins\Marketplace\UnrealMetaXRPlugin.205.0\MetaXR\Source\OculusXRPassthrough\Public\OculusXRPersistentPassthroughInstance.h">
+      <Filter>Plugins\Marketplace\UnrealMetaXRPlugin.205.0\MetaXR\Source\OculusXRPassthrough\Public</Filter>
+    </ClInclude>
+    <Filter Include="Plugins\Marketplace\UnrealMetaXRPlugin.205.0\MetaXR\Source\OculusXRProjectSetupTool">
+      <UniqueIdentifier>{D3F754B9-EA4F-3CC6-B56E-2C0DAB4EDA22}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\..\..\..\..\..\Program Files\Epic Games\UE_5.7\Engine\Plugins\Marketplace\UnrealMetaXRPlugin.205.0\MetaXR\Source\OculusXRProjectSetupTool\OculusXRProjectSetupTool.Build.cs">
+      <Filter>Plugins\Marketplace\UnrealMetaXRPlugin.205.0\MetaXR\Source\OculusXRProjectSetupTool</Filter>
+    </None>
+    <Filter Include="Plugins\Marketplace\UnrealMetaXRPlugin.205.0\MetaXR\Source\OculusXRProjectSetupTool\Private">
+      <UniqueIdentifier>{BE558A47-3E15-3322-AF77-98CC9BF93140}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\..\..\..\..\..\Program Files\Epic Games\UE_5.7\Engine\Plugins\Marketplace\UnrealMetaXRPlugin.205.0\MetaXR\Source\OculusXRProjectSetupTool\Private\OculusXRProjectSetupToolModule.cpp">
+      <Filter>Plugins\Marketplace\UnrealMetaXRPlugin.205.0\MetaXR\Source\OculusXRProjectSetupTool\Private</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\..\..\..\..\..\Program Files\Epic Games\UE_5.7\Engine\Plugins\Marketplace\UnrealMetaXRPlugin.205.0\MetaXR\Source\OculusXRProjectSetupTool\Private\OculusXRProjectSetupToolModule.h">
+      <Filter>Plugins\Marketplace\UnrealMetaXRPlugin.205.0\MetaXR\Source\OculusXRProjectSetupTool\Private</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\..\..\..\..\Program Files\Epic Games\UE_5.7\Engine\Plugins\Marketplace\UnrealMetaXRPlugin.205.0\MetaXR\Source\OculusXRProjectSetupTool\Private\OculusXRPSTEvents.h">
+      <Filter>Plugins\Marketplace\UnrealMetaXRPlugin.205.0\MetaXR\Source\OculusXRProjectSetupTool\Private</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\..\..\..\..\Program Files\Epic Games\UE_5.7\Engine\Plugins\Marketplace\UnrealMetaXRPlugin.205.0\MetaXR\Source\OculusXRProjectSetupTool\Private\OculusXRPSTUtils.h">
+      <Filter>Plugins\Marketplace\UnrealMetaXRPlugin.205.0\MetaXR\Source\OculusXRProjectSetupTool\Private</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\..\..\..\..\..\Program Files\Epic Games\UE_5.7\Engine\Plugins\Marketplace\UnrealMetaXRPlugin.205.0\MetaXR\Source\OculusXRProjectSetupTool\Private\OculusXRRuleProcessorSubsystem.cpp">
+      <Filter>Plugins\Marketplace\UnrealMetaXRPlugin.205.0\MetaXR\Source\OculusXRProjectSetupTool\Private</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\..\..\..\..\Program Files\Epic Games\UE_5.7\Engine\Plugins\Marketplace\UnrealMetaXRPlugin.205.0\MetaXR\Source\OculusXRProjectSetupTool\Private\OculusXRSetupRule.cpp">
+      <Filter>Plugins\Marketplace\UnrealMetaXRPlugin.205.0\MetaXR\Source\OculusXRProjectSetupTool\Private</Filter>
+    </ClCompile>
+    <Filter Include="Plugins\Marketplace\UnrealMetaXRPlugin.205.0\MetaXR\Source\OculusXRProjectSetupTool\Private\Rules">
+      <UniqueIdentifier>{CEA984AD-396B-3511-B9F0-051C42D86057}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\..\..\..\..\..\Program Files\Epic Games\UE_5.7\Engine\Plugins\Marketplace\UnrealMetaXRPlugin.205.0\MetaXR\Source\OculusXRProjectSetupTool\Private\Rules\OculusXRAnchorsRules.cpp">
+      <Filter>Plugins\Marketplace\UnrealMetaXRPlugin.205.0\MetaXR\Source\OculusXRProjectSetupTool\Private\Rules</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\..\..\..\..\..\Program Files\Epic Games\UE_5.7\Engine\Plugins\Marketplace\UnrealMetaXRPlugin.205.0\MetaXR\Source\OculusXRProjectSetupTool\Private\Rules\OculusXRAnchorsRules.h">
+      <Filter>Plugins\Marketplace\UnrealMetaXRPlugin.205.0\MetaXR\Source\OculusXRProjectSetupTool\Private\Rules</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\..\..\..\..\..\Program Files\Epic Games\UE_5.7\Engine\Plugins\Marketplace\UnrealMetaXRPlugin.205.0\MetaXR\Source\OculusXRProjectSetupTool\Private\Rules\OculusXRCompatibilityRules.cpp">
+      <Filter>Plugins\Marketplace\UnrealMetaXRPlugin.205.0\MetaXR\Source\OculusXRProjectSetupTool\Private\Rules</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\..\..\..\..\..\Program Files\Epic Games\UE_5.7\Engine\Plugins\Marketplace\UnrealMetaXRPlugin.205.0\MetaXR\Source\OculusXRProjectSetupTool\Private\Rules\OculusXRCompatibilityRules.h">
+      <Filter>Plugins\Marketplace\UnrealMetaXRPlugin.205.0\MetaXR\Source\OculusXRProjectSetupTool\Private\Rules</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\..\..\..\..\..\Program Files\Epic Games\UE_5.7\Engine\Plugins\Marketplace\UnrealMetaXRPlugin.205.0\MetaXR\Source\OculusXRProjectSetupTool\Private\Rules\OculusXRMovementRules.cpp">
+      <Filter>Plugins\Marketplace\UnrealMetaXRPlugin.205.0\MetaXR\Source\OculusXRProjectSetupTool\Private\Rules</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\..\..\..\..\..\Program Files\Epic Games\UE_5.7\Engine\Plugins\Marketplace\UnrealMetaXRPlugin.205.0\MetaXR\Source\OculusXRProjectSetupTool\Private\Rules\OculusXRMovementRules.h">
+      <Filter>Plugins\Marketplace\UnrealMetaXRPlugin.205.0\MetaXR\Source\OculusXRProjectSetupTool\Private\Rules</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\..\..\..\..\..\Program Files\Epic Games\UE_5.7\Engine\Plugins\Marketplace\UnrealMetaXRPlugin.205.0\MetaXR\Source\OculusXRProjectSetupTool\Private\Rules\OculusXRPassthroughRules.cpp">
+      <Filter>Plugins\Marketplace\UnrealMetaXRPlugin.205.0\MetaXR\Source\OculusXRProjectSetupTool\Private\Rules</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\..\..\..\..\..\Program Files\Epic Games\UE_5.7\Engine\Plugins\Marketplace\UnrealMetaXRPlugin.205.0\MetaXR\Source\OculusXRProjectSetupTool\Private\Rules\OculusXRPassthroughRules.h">
+      <Filter>Plugins\Marketplace\UnrealMetaXRPlugin.205.0\MetaXR\Source\OculusXRProjectSetupTool\Private\Rules</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\..\..\..\..\..\Program Files\Epic Games\UE_5.7\Engine\Plugins\Marketplace\UnrealMetaXRPlugin.205.0\MetaXR\Source\OculusXRProjectSetupTool\Private\Rules\OculusXRPluginRules.cpp">
+      <Filter>Plugins\Marketplace\UnrealMetaXRPlugin.205.0\MetaXR\Source\OculusXRProjectSetupTool\Private\Rules</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\..\..\..\..\..\Program Files\Epic Games\UE_5.7\Engine\Plugins\Marketplace\UnrealMetaXRPlugin.205.0\MetaXR\Source\OculusXRProjectSetupTool\Private\Rules\OculusXRPluginRules.h">
+      <Filter>Plugins\Marketplace\UnrealMetaXRPlugin.205.0\MetaXR\Source\OculusXRProjectSetupTool\Private\Rules</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\..\..\..\..\..\Program Files\Epic Games\UE_5.7\Engine\Plugins\Marketplace\UnrealMetaXRPlugin.205.0\MetaXR\Source\OculusXRProjectSetupTool\Private\Rules\OculusXRRenderingRules.cpp">
+      <Filter>Plugins\Marketplace\UnrealMetaXRPlugin.205.0\MetaXR\Source\OculusXRProjectSetupTool\Private\Rules</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\..\..\..\..\..\Program Files\Epic Games\UE_5.7\Engine\Plugins\Marketplace\UnrealMetaXRPlugin.205.0\MetaXR\Source\OculusXRProjectSetupTool\Private\Rules\OculusXRRenderingRules.h">
+      <Filter>Plugins\Marketplace\UnrealMetaXRPlugin.205.0\MetaXR\Source\OculusXRProjectSetupTool\Private\Rules</Filter>
+    </ClInclude>
+    <Filter Include="Plugins\Marketplace\UnrealMetaXRPlugin.205.0\MetaXR\Source\OculusXRProjectSetupTool\Private\Tests">
+      <UniqueIdentifier>{7AE8C2D7-BD73-3E86-B1AF-8DF65D9D1FD5}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\..\..\..\..\..\Program Files\Epic Games\UE_5.7\Engine\Plugins\Marketplace\UnrealMetaXRPlugin.205.0\MetaXR\Source\OculusXRProjectSetupTool\Private\Tests\OculusXRProjectSetupTool.spec.cpp">
+      <Filter>Plugins\Marketplace\UnrealMetaXRPlugin.205.0\MetaXR\Source\OculusXRProjectSetupTool\Private\Tests</Filter>
+    </ClCompile>
+    <Filter Include="Plugins\Marketplace\UnrealMetaXRPlugin.205.0\MetaXR\Source\OculusXRProjectSetupTool\Private\Widget">
+      <UniqueIdentifier>{B5897228-E1AC-3E88-AAF4-3E96DB10139E}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\..\..\..\..\..\Program Files\Epic Games\UE_5.7\Engine\Plugins\Marketplace\UnrealMetaXRPlugin.205.0\MetaXR\Source\OculusXRProjectSetupTool\Private\Widget\OculusXRProjectSetupToolWidget.cpp">
+      <Filter>Plugins\Marketplace\UnrealMetaXRPlugin.205.0\MetaXR\Source\OculusXRProjectSetupTool\Private\Widget</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\..\..\..\..\..\Program Files\Epic Games\UE_5.7\Engine\Plugins\Marketplace\UnrealMetaXRPlugin.205.0\MetaXR\Source\OculusXRProjectSetupTool\Private\Widget\OculusXRProjectSetupToolWidget.h">
+      <Filter>Plugins\Marketplace\UnrealMetaXRPlugin.205.0\MetaXR\Source\OculusXRProjectSetupTool\Private\Widget</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\..\..\..\..\..\Program Files\Epic Games\UE_5.7\Engine\Plugins\Marketplace\UnrealMetaXRPlugin.205.0\MetaXR\Source\OculusXRProjectSetupTool\Private\Widget\OculusXRProjectTutorialWidget.cpp">
+      <Filter>Plugins\Marketplace\UnrealMetaXRPlugin.205.0\MetaXR\Source\OculusXRProjectSetupTool\Private\Widget</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\..\..\..\..\..\Program Files\Epic Games\UE_5.7\Engine\Plugins\Marketplace\UnrealMetaXRPlugin.205.0\MetaXR\Source\OculusXRProjectSetupTool\Private\Widget\OculusXRProjectTutorialWidget.h">
+      <Filter>Plugins\Marketplace\UnrealMetaXRPlugin.205.0\MetaXR\Source\OculusXRProjectSetupTool\Private\Widget</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\..\..\..\..\..\Program Files\Epic Games\UE_5.7\Engine\Plugins\Marketplace\UnrealMetaXRPlugin.205.0\MetaXR\Source\OculusXRProjectSetupTool\Private\Widget\OculusXRStatusBarWidget.cpp">
+      <Filter>Plugins\Marketplace\UnrealMetaXRPlugin.205.0\MetaXR\Source\OculusXRProjectSetupTool\Private\Widget</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\..\..\..\..\..\Program Files\Epic Games\UE_5.7\Engine\Plugins\Marketplace\UnrealMetaXRPlugin.205.0\MetaXR\Source\OculusXRProjectSetupTool\Private\Widget\OculusXRStatusBarWidget.h">
+      <Filter>Plugins\Marketplace\UnrealMetaXRPlugin.205.0\MetaXR\Source\OculusXRProjectSetupTool\Private\Widget</Filter>
+    </ClInclude>
+    <Filter Include="Plugins\Marketplace\UnrealMetaXRPlugin.205.0\MetaXR\Source\OculusXRProjectSetupTool\Public">
+      <UniqueIdentifier>{2445B94D-F48F-3B10-A4E5-CC1C377EEFB8}</UniqueIdentifier>
+    </Filter>
+    <ClInclude Include="..\..\..\..\..\..\..\Program Files\Epic Games\UE_5.7\Engine\Plugins\Marketplace\UnrealMetaXRPlugin.205.0\MetaXR\Source\OculusXRProjectSetupTool\Public\IOculusXRProjectSetupModule.h">
+      <Filter>Plugins\Marketplace\UnrealMetaXRPlugin.205.0\MetaXR\Source\OculusXRProjectSetupTool\Public</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\..\..\..\..\Program Files\Epic Games\UE_5.7\Engine\Plugins\Marketplace\UnrealMetaXRPlugin.205.0\MetaXR\Source\OculusXRProjectSetupTool\Public\OculusXRPSTSettings.h">
+      <Filter>Plugins\Marketplace\UnrealMetaXRPlugin.205.0\MetaXR\Source\OculusXRProjectSetupTool\Public</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\..\..\..\..\Program Files\Epic Games\UE_5.7\Engine\Plugins\Marketplace\UnrealMetaXRPlugin.205.0\MetaXR\Source\OculusXRProjectSetupTool\Public\OculusXRRuleProcessorSubsystem.h">
+      <Filter>Plugins\Marketplace\UnrealMetaXRPlugin.205.0\MetaXR\Source\OculusXRProjectSetupTool\Public</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\..\..\..\..\Program Files\Epic Games\UE_5.7\Engine\Plugins\Marketplace\UnrealMetaXRPlugin.205.0\MetaXR\Source\OculusXRProjectSetupTool\Public\OculusXRSetupRule.h">
+      <Filter>Plugins\Marketplace\UnrealMetaXRPlugin.205.0\MetaXR\Source\OculusXRProjectSetupTool\Public</Filter>
+    </ClInclude>
+    <Filter Include="Plugins\Marketplace\UnrealMetaXRPlugin.205.0\MetaXR\Source\OculusXRScene">
+      <UniqueIdentifier>{7FC34523-8E41-3FE2-84AF-DA4660220C07}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\..\..\..\..\..\Program Files\Epic Games\UE_5.7\Engine\Plugins\Marketplace\UnrealMetaXRPlugin.205.0\MetaXR\Source\OculusXRScene\OculusXRScene.Build.cs">
+      <Filter>Plugins\Marketplace\UnrealMetaXRPlugin.205.0\MetaXR\Source\OculusXRScene</Filter>
+    </None>
+    <Filter Include="Plugins\Marketplace\UnrealMetaXRPlugin.205.0\MetaXR\Source\OculusXRScene\Private">
+      <UniqueIdentifier>{5FABE91B-B26E-3050-987B-C088C3E320F0}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\..\..\..\..\..\Program Files\Epic Games\UE_5.7\Engine\Plugins\Marketplace\UnrealMetaXRPlugin.205.0\MetaXR\Source\OculusXRScene\Private\OculusXRRoomLayoutManagerComponent.cpp">
+      <Filter>Plugins\Marketplace\UnrealMetaXRPlugin.205.0\MetaXR\Source\OculusXRScene\Private</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\..\..\..\..\Program Files\Epic Games\UE_5.7\Engine\Plugins\Marketplace\UnrealMetaXRPlugin.205.0\MetaXR\Source\OculusXRScene\Private\OculusXRScene.cpp">
+      <Filter>Plugins\Marketplace\UnrealMetaXRPlugin.205.0\MetaXR\Source\OculusXRScene\Private</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\..\..\..\..\Program Files\Epic Games\UE_5.7\Engine\Plugins\Marketplace\UnrealMetaXRPlugin.205.0\MetaXR\Source\OculusXRScene\Private\OculusXRSceneActor.cpp">
+      <Filter>Plugins\Marketplace\UnrealMetaXRPlugin.205.0\MetaXR\Source\OculusXRScene\Private</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\..\..\..\..\Program Files\Epic Games\UE_5.7\Engine\Plugins\Marketplace\UnrealMetaXRPlugin.205.0\MetaXR\Source\OculusXRScene\Private\OculusXRSceneAnchorComponent.cpp">
+      <Filter>Plugins\Marketplace\UnrealMetaXRPlugin.205.0\MetaXR\Source\OculusXRScene\Private</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\..\..\..\..\Program Files\Epic Games\UE_5.7\Engine\Plugins\Marketplace\UnrealMetaXRPlugin.205.0\MetaXR\Source\OculusXRScene\Private\OculusXRSceneComponents.cpp">
+      <Filter>Plugins\Marketplace\UnrealMetaXRPlugin.205.0\MetaXR\Source\OculusXRScene\Private</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\..\..\..\..\Program Files\Epic Games\UE_5.7\Engine\Plugins\Marketplace\UnrealMetaXRPlugin.205.0\MetaXR\Source\OculusXRScene\Private\OculusXRSceneDelegates.cpp">
+      <Filter>Plugins\Marketplace\UnrealMetaXRPlugin.205.0\MetaXR\Source\OculusXRScene\Private</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\..\..\..\..\Program Files\Epic Games\UE_5.7\Engine\Plugins\Marketplace\UnrealMetaXRPlugin.205.0\MetaXR\Source\OculusXRScene\Private\OculusXRSceneEventHandling.cpp">
+      <Filter>Plugins\Marketplace\UnrealMetaXRPlugin.205.0\MetaXR\Source\OculusXRScene\Private</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\..\..\..\..\..\Program Files\Epic Games\UE_5.7\Engine\Plugins\Marketplace\UnrealMetaXRPlugin.205.0\MetaXR\Source\OculusXRScene\Private\OculusXRSceneEventHandling.h">
+      <Filter>Plugins\Marketplace\UnrealMetaXRPlugin.205.0\MetaXR\Source\OculusXRScene\Private</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\..\..\..\..\..\Program Files\Epic Games\UE_5.7\Engine\Plugins\Marketplace\UnrealMetaXRPlugin.205.0\MetaXR\Source\OculusXRScene\Private\OculusXRSceneFunctionLibrary.cpp">
+      <Filter>Plugins\Marketplace\UnrealMetaXRPlugin.205.0\MetaXR\Source\OculusXRScene\Private</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\..\..\..\..\Program Files\Epic Games\UE_5.7\Engine\Plugins\Marketplace\UnrealMetaXRPlugin.205.0\MetaXR\Source\OculusXRScene\Private\OculusXRSceneFunctionsOpenXR.cpp">
+      <Filter>Plugins\Marketplace\UnrealMetaXRPlugin.205.0\MetaXR\Source\OculusXRScene\Private</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\..\..\..\..\..\Program Files\Epic Games\UE_5.7\Engine\Plugins\Marketplace\UnrealMetaXRPlugin.205.0\MetaXR\Source\OculusXRScene\Private\OculusXRSceneFunctionsOpenXR.h">
+      <Filter>Plugins\Marketplace\UnrealMetaXRPlugin.205.0\MetaXR\Source\OculusXRScene\Private</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\..\..\..\..\..\Program Files\Epic Games\UE_5.7\Engine\Plugins\Marketplace\UnrealMetaXRPlugin.205.0\MetaXR\Source\OculusXRScene\Private\OculusXRSceneFunctionsOVR.cpp">
+      <Filter>Plugins\Marketplace\UnrealMetaXRPlugin.205.0\MetaXR\Source\OculusXRScene\Private</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\..\..\..\..\..\Program Files\Epic Games\UE_5.7\Engine\Plugins\Marketplace\UnrealMetaXRPlugin.205.0\MetaXR\Source\OculusXRScene\Private\OculusXRSceneFunctionsOVR.h">
+      <Filter>Plugins\Marketplace\UnrealMetaXRPlugin.205.0\MetaXR\Source\OculusXRScene\Private</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\..\..\..\..\..\Program Files\Epic Games\UE_5.7\Engine\Plugins\Marketplace\UnrealMetaXRPlugin.205.0\MetaXR\Source\OculusXRScene\Private\OculusXRSceneGlobalMeshComponent.cpp">
+      <Filter>Plugins\Marketplace\UnrealMetaXRPlugin.205.0\MetaXR\Source\OculusXRScene\Private</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\..\..\..\..\Program Files\Epic Games\UE_5.7\Engine\Plugins\Marketplace\UnrealMetaXRPlugin.205.0\MetaXR\Source\OculusXRScene\Private\OculusXRSceneLatentActions.cpp">
+      <Filter>Plugins\Marketplace\UnrealMetaXRPlugin.205.0\MetaXR\Source\OculusXRScene\Private</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\..\..\..\..\Program Files\Epic Games\UE_5.7\Engine\Plugins\Marketplace\UnrealMetaXRPlugin.205.0\MetaXR\Source\OculusXRScene\Private\OculusXRSceneModule.cpp">
+      <Filter>Plugins\Marketplace\UnrealMetaXRPlugin.205.0\MetaXR\Source\OculusXRScene\Private</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\..\..\..\..\..\Program Files\Epic Games\UE_5.7\Engine\Plugins\Marketplace\UnrealMetaXRPlugin.205.0\MetaXR\Source\OculusXRScene\Private\OculusXRSceneModule.h">
+      <Filter>Plugins\Marketplace\UnrealMetaXRPlugin.205.0\MetaXR\Source\OculusXRScene\Private</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\..\..\..\..\..\Program Files\Epic Games\UE_5.7\Engine\Plugins\Marketplace\UnrealMetaXRPlugin.205.0\MetaXR\Source\OculusXRScene\Private\OculusXRSceneSubsystem.cpp">
+      <Filter>Plugins\Marketplace\UnrealMetaXRPlugin.205.0\MetaXR\Source\OculusXRScene\Private</Filter>
+    </ClCompile>
+    <Filter Include="Plugins\Marketplace\UnrealMetaXRPlugin.205.0\MetaXR\Source\OculusXRScene\Private\openxr">
+      <UniqueIdentifier>{7E5A5525-0FFD-390F-9732-A9AEB120FC5A}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\..\..\..\..\..\Program Files\Epic Games\UE_5.7\Engine\Plugins\Marketplace\UnrealMetaXRPlugin.205.0\MetaXR\Source\OculusXRScene\Private\openxr\OculusXRSceneXR.cpp">
+      <Filter>Plugins\Marketplace\UnrealMetaXRPlugin.205.0\MetaXR\Source\OculusXRScene\Private\openxr</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\..\..\..\..\..\Program Files\Epic Games\UE_5.7\Engine\Plugins\Marketplace\UnrealMetaXRPlugin.205.0\MetaXR\Source\OculusXRScene\Private\openxr\OculusXRSceneXR.h">
+      <Filter>Plugins\Marketplace\UnrealMetaXRPlugin.205.0\MetaXR\Source\OculusXRScene\Private\openxr</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\..\..\..\..\Program Files\Epic Games\UE_5.7\Engine\Plugins\Marketplace\UnrealMetaXRPlugin.205.0\MetaXR\Source\OculusXRScene\Private\openxr\OculusXRSceneXRIncludes.h">
+      <Filter>Plugins\Marketplace\UnrealMetaXRPlugin.205.0\MetaXR\Source\OculusXRScene\Private\openxr</Filter>
+    </ClInclude>
+    <Filter Include="Plugins\Marketplace\UnrealMetaXRPlugin.205.0\MetaXR\Source\OculusXRScene\Public">
+      <UniqueIdentifier>{67C3AEA5-D1BB-3D8E-B262-69945FD9DBCC}</UniqueIdentifier>
+    </Filter>
+    <ClInclude Include="..\..\..\..\..\..\..\Program Files\Epic Games\UE_5.7\Engine\Plugins\Marketplace\UnrealMetaXRPlugin.205.0\MetaXR\Source\OculusXRScene\Public\IOculusXRSceneModule.h">
+      <Filter>Plugins\Marketplace\UnrealMetaXRPlugin.205.0\MetaXR\Source\OculusXRScene\Public</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\..\..\..\..\Program Files\Epic Games\UE_5.7\Engine\Plugins\Marketplace\UnrealMetaXRPlugin.205.0\MetaXR\Source\OculusXRScene\Public\OculusXRRoomLayoutManagerComponent.h">
+      <Filter>Plugins\Marketplace\UnrealMetaXRPlugin.205.0\MetaXR\Source\OculusXRScene\Public</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\..\..\..\..\Program Files\Epic Games\UE_5.7\Engine\Plugins\Marketplace\UnrealMetaXRPlugin.205.0\MetaXR\Source\OculusXRScene\Public\OculusXRScene.h">
+      <Filter>Plugins\Marketplace\UnrealMetaXRPlugin.205.0\MetaXR\Source\OculusXRScene\Public</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\..\..\..\..\Program Files\Epic Games\UE_5.7\Engine\Plugins\Marketplace\UnrealMetaXRPlugin.205.0\MetaXR\Source\OculusXRScene\Public\OculusXRSceneActor.h">
+      <Filter>Plugins\Marketplace\UnrealMetaXRPlugin.205.0\MetaXR\Source\OculusXRScene\Public</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\..\..\..\..\Program Files\Epic Games\UE_5.7\Engine\Plugins\Marketplace\UnrealMetaXRPlugin.205.0\MetaXR\Source\OculusXRScene\Public\OculusXRSceneAnchorComponent.h">
+      <Filter>Plugins\Marketplace\UnrealMetaXRPlugin.205.0\MetaXR\Source\OculusXRScene\Public</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\..\..\..\..\Program Files\Epic Games\UE_5.7\Engine\Plugins\Marketplace\UnrealMetaXRPlugin.205.0\MetaXR\Source\OculusXRScene\Public\OculusXRSceneComponents.h">
+      <Filter>Plugins\Marketplace\UnrealMetaXRPlugin.205.0\MetaXR\Source\OculusXRScene\Public</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\..\..\..\..\Program Files\Epic Games\UE_5.7\Engine\Plugins\Marketplace\UnrealMetaXRPlugin.205.0\MetaXR\Source\OculusXRScene\Public\OculusXRSceneDelegates.h">
+      <Filter>Plugins\Marketplace\UnrealMetaXRPlugin.205.0\MetaXR\Source\OculusXRScene\Public</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\..\..\..\..\Program Files\Epic Games\UE_5.7\Engine\Plugins\Marketplace\UnrealMetaXRPlugin.205.0\MetaXR\Source\OculusXRScene\Public\OculusXRSceneEventDelegates.h">
+      <Filter>Plugins\Marketplace\UnrealMetaXRPlugin.205.0\MetaXR\Source\OculusXRScene\Public</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\..\..\..\..\Program Files\Epic Games\UE_5.7\Engine\Plugins\Marketplace\UnrealMetaXRPlugin.205.0\MetaXR\Source\OculusXRScene\Public\OculusXRSceneFunctionLibrary.h">
+      <Filter>Plugins\Marketplace\UnrealMetaXRPlugin.205.0\MetaXR\Source\OculusXRScene\Public</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\..\..\..\..\Program Files\Epic Games\UE_5.7\Engine\Plugins\Marketplace\UnrealMetaXRPlugin.205.0\MetaXR\Source\OculusXRScene\Public\OculusXRSceneFunctions.h">
+      <Filter>Plugins\Marketplace\UnrealMetaXRPlugin.205.0\MetaXR\Source\OculusXRScene\Public</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\..\..\..\..\Program Files\Epic Games\UE_5.7\Engine\Plugins\Marketplace\UnrealMetaXRPlugin.205.0\MetaXR\Source\OculusXRScene\Public\OculusXRSceneGlobalMeshComponent.h">
+      <Filter>Plugins\Marketplace\UnrealMetaXRPlugin.205.0\MetaXR\Source\OculusXRScene\Public</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\..\..\..\..\Program Files\Epic Games\UE_5.7\Engine\Plugins\Marketplace\UnrealMetaXRPlugin.205.0\MetaXR\Source\OculusXRScene\Public\OculusXRSceneLatentActions.h">
+      <Filter>Plugins\Marketplace\UnrealMetaXRPlugin.205.0\MetaXR\Source\OculusXRScene\Public</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\..\..\..\..\Program Files\Epic Games\UE_5.7\Engine\Plugins\Marketplace\UnrealMetaXRPlugin.205.0\MetaXR\Source\OculusXRScene\Public\OculusXRSceneSubsystem.h">
+      <Filter>Plugins\Marketplace\UnrealMetaXRPlugin.205.0\MetaXR\Source\OculusXRScene\Public</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\..\..\..\..\Program Files\Epic Games\UE_5.7\Engine\Plugins\Marketplace\UnrealMetaXRPlugin.205.0\MetaXR\Source\OculusXRScene\Public\OculusXRSceneTypes.h">
+      <Filter>Plugins\Marketplace\UnrealMetaXRPlugin.205.0\MetaXR\Source\OculusXRScene\Public</Filter>
+    </ClInclude>
+    <Filter Include="Plugins\Marketplace\UnrealMetaXRPlugin.205.0\MetaXR\Source\OculusXRSoftwareOcclusion">
+      <UniqueIdentifier>{9E358DB9-4BAF-38F3-8529-4D56F726A753}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\..\..\..\..\..\Program Files\Epic Games\UE_5.7\Engine\Plugins\Marketplace\UnrealMetaXRPlugin.205.0\MetaXR\Source\OculusXRSoftwareOcclusion\OculusXRSoftwareOcclusion.Build.cs">
+      <Filter>Plugins\Marketplace\UnrealMetaXRPlugin.205.0\MetaXR\Source\OculusXRSoftwareOcclusion</Filter>
+    </None>
+    <Filter Include="Plugins\Marketplace\UnrealMetaXRPlugin.205.0\MetaXR\Source\OculusXRSoftwareOcclusion\Private">
+      <UniqueIdentifier>{6A37A654-F018-37A6-BE9D-41C5BB9C0D77}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\..\..\..\..\..\Program Files\Epic Games\UE_5.7\Engine\Plugins\Marketplace\UnrealMetaXRPlugin.205.0\MetaXR\Source\OculusXRSoftwareOcclusion\Private\OccluderMeshAssetUserData.cpp">
+      <Filter>Plugins\Marketplace\UnrealMetaXRPlugin.205.0\MetaXR\Source\OculusXRSoftwareOcclusion\Private</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\..\..\..\..\..\Program Files\Epic Games\UE_5.7\Engine\Plugins\Marketplace\UnrealMetaXRPlugin.205.0\MetaXR\Source\OculusXRSoftwareOcclusion\Private\OccluderMeshAssetUserData.h">
+      <Filter>Plugins\Marketplace\UnrealMetaXRPlugin.205.0\MetaXR\Source\OculusXRSoftwareOcclusion\Private</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\..\..\..\..\..\Program Files\Epic Games\UE_5.7\Engine\Plugins\Marketplace\UnrealMetaXRPlugin.205.0\MetaXR\Source\OculusXRSoftwareOcclusion\Private\OculusXRSoftwareOcclusionModule.cpp">
+      <Filter>Plugins\Marketplace\UnrealMetaXRPlugin.205.0\MetaXR\Source\OculusXRSoftwareOcclusion\Private</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\..\..\..\..\..\Program Files\Epic Games\UE_5.7\Engine\Plugins\Marketplace\UnrealMetaXRPlugin.205.0\MetaXR\Source\OculusXRSoftwareOcclusion\Private\OculusXRSoftwareOcclusionModule.h">
+      <Filter>Plugins\Marketplace\UnrealMetaXRPlugin.205.0\MetaXR\Source\OculusXRSoftwareOcclusion\Private</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\..\..\..\..\..\Program Files\Epic Games\UE_5.7\Engine\Plugins\Marketplace\UnrealMetaXRPlugin.205.0\MetaXR\Source\OculusXRSoftwareOcclusion\Private\SceneSoftwareOcclusion.cpp">
+      <Filter>Plugins\Marketplace\UnrealMetaXRPlugin.205.0\MetaXR\Source\OculusXRSoftwareOcclusion\Private</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\..\..\..\..\..\Program Files\Epic Games\UE_5.7\Engine\Plugins\Marketplace\UnrealMetaXRPlugin.205.0\MetaXR\Source\OculusXRSoftwareOcclusion\Private\SceneSoftwareOcclusion.h">
+      <Filter>Plugins\Marketplace\UnrealMetaXRPlugin.205.0\MetaXR\Source\OculusXRSoftwareOcclusion\Private</Filter>
+    </ClInclude>
+    <None Include="..\..\..\..\..\..\..\Program Files\Epic Games\UE_5.7\Engine\Plugins\Marketplace\UnrealMetaXRPlugin.205.0\MetaXR\Source\OculusXRSoftwareOcclusion\Private\SceneSoftwareOcclusion.tps">
+      <Filter>Plugins\Marketplace\UnrealMetaXRPlugin.205.0\MetaXR\Source\OculusXRSoftwareOcclusion\Private</Filter>
+    </None>
+    <ClCompile Include="..\..\..\..\..\..\..\Program Files\Epic Games\UE_5.7\Engine\Plugins\Marketplace\UnrealMetaXRPlugin.205.0\MetaXR\Source\OculusXRSoftwareOcclusion\Private\SceneSoftwareOcclusionProvider.cpp">
+      <Filter>Plugins\Marketplace\UnrealMetaXRPlugin.205.0\MetaXR\Source\OculusXRSoftwareOcclusion\Private</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\..\..\..\..\..\Program Files\Epic Games\UE_5.7\Engine\Plugins\Marketplace\UnrealMetaXRPlugin.205.0\MetaXR\Source\OculusXRSoftwareOcclusion\Private\SceneSoftwareOcclusionProvider.h">
+      <Filter>Plugins\Marketplace\UnrealMetaXRPlugin.205.0\MetaXR\Source\OculusXRSoftwareOcclusion\Private</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\..\..\..\..\Program Files\Epic Games\UE_5.7\Engine\Plugins\Marketplace\UnrealMetaXRPlugin.205.0\MetaXR\Source\OculusXRSoftwareOcclusion\Private\StaticMeshOccluderData.h">
+      <Filter>Plugins\Marketplace\UnrealMetaXRPlugin.205.0\MetaXR\Source\OculusXRSoftwareOcclusion\Private</Filter>
+    </ClInclude>
+    <Filter Include="Plugins\Marketplace\UnrealMetaXRPlugin.205.0\MetaXR\Source\OculusXRSoftwareOcclusion\Public">
+      <UniqueIdentifier>{F6364897-13C5-3DEE-9BD9-3D42AEA6C789}</UniqueIdentifier>
+    </Filter>
+    <ClInclude Include="..\..\..\..\..\..\..\Program Files\Epic Games\UE_5.7\Engine\Plugins\Marketplace\UnrealMetaXRPlugin.205.0\MetaXR\Source\OculusXRSoftwareOcclusion\Public\IOculusXRSoftwareOcclusionModule.h">
+      <Filter>Plugins\Marketplace\UnrealMetaXRPlugin.205.0\MetaXR\Source\OculusXRSoftwareOcclusion\Public</Filter>
+    </ClInclude>
+    <Filter Include="Plugins\Marketplace\UnrealMetaXRPlugin.205.0\MetaXR\Source\OculusXRTelemetry">
+      <UniqueIdentifier>{F5E4B329-978E-3A95-AF3F-47EA46912FCA}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\..\..\..\..\..\Program Files\Epic Games\UE_5.7\Engine\Plugins\Marketplace\UnrealMetaXRPlugin.205.0\MetaXR\Source\OculusXRTelemetry\OculusXRTelemetry.Build.cs">
+      <Filter>Plugins\Marketplace\UnrealMetaXRPlugin.205.0\MetaXR\Source\OculusXRTelemetry</Filter>
+    </None>
+    <Filter Include="Plugins\Marketplace\UnrealMetaXRPlugin.205.0\MetaXR\Source\OculusXRTelemetry\Private">
+      <UniqueIdentifier>{771D7F96-6920-30F3-A974-BA9A19FBB35C}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\..\..\..\..\..\Program Files\Epic Games\UE_5.7\Engine\Plugins\Marketplace\UnrealMetaXRPlugin.205.0\MetaXR\Source\OculusXRTelemetry\Private\OculusXRQPL.cpp">
+      <Filter>Plugins\Marketplace\UnrealMetaXRPlugin.205.0\MetaXR\Source\OculusXRTelemetry\Private</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\..\..\..\..\Program Files\Epic Games\UE_5.7\Engine\Plugins\Marketplace\UnrealMetaXRPlugin.205.0\MetaXR\Source\OculusXRTelemetry\Private\OculusXRTelemetry.cpp">
+      <Filter>Plugins\Marketplace\UnrealMetaXRPlugin.205.0\MetaXR\Source\OculusXRTelemetry\Private</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\..\..\..\..\Program Files\Epic Games\UE_5.7\Engine\Plugins\Marketplace\UnrealMetaXRPlugin.205.0\MetaXR\Source\OculusXRTelemetry\Private\OculusXRTelemetryModule.cpp">
+      <Filter>Plugins\Marketplace\UnrealMetaXRPlugin.205.0\MetaXR\Source\OculusXRTelemetry\Private</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\..\..\..\..\..\Program Files\Epic Games\UE_5.7\Engine\Plugins\Marketplace\UnrealMetaXRPlugin.205.0\MetaXR\Source\OculusXRTelemetry\Private\OculusXRTelemetryModule.h">
+      <Filter>Plugins\Marketplace\UnrealMetaXRPlugin.205.0\MetaXR\Source\OculusXRTelemetry\Private</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\..\..\..\..\..\Program Files\Epic Games\UE_5.7\Engine\Plugins\Marketplace\UnrealMetaXRPlugin.205.0\MetaXR\Source\OculusXRTelemetry\Private\OculusXRTelemetryPrivacySettings.cpp">
+      <Filter>Plugins\Marketplace\UnrealMetaXRPlugin.205.0\MetaXR\Source\OculusXRTelemetry\Private</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\..\..\..\..\..\Program Files\Epic Games\UE_5.7\Engine\Plugins\Marketplace\UnrealMetaXRPlugin.205.0\MetaXR\Source\OculusXRTelemetry\Private\OculusXRTelemetryPrivacySettings.h">
+      <Filter>Plugins\Marketplace\UnrealMetaXRPlugin.205.0\MetaXR\Source\OculusXRTelemetry\Private</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\..\..\..\..\..\Program Files\Epic Games\UE_5.7\Engine\Plugins\Marketplace\UnrealMetaXRPlugin.205.0\MetaXR\Source\OculusXRTelemetry\Private\OculusXRTelemetryWrapper.cpp">
+      <Filter>Plugins\Marketplace\UnrealMetaXRPlugin.205.0\MetaXR\Source\OculusXRTelemetry\Private</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\..\..\..\..\..\Program Files\Epic Games\UE_5.7\Engine\Plugins\Marketplace\UnrealMetaXRPlugin.205.0\MetaXR\Source\OculusXRTelemetry\Private\OculusXRTelemetryWrapper.h">
+      <Filter>Plugins\Marketplace\UnrealMetaXRPlugin.205.0\MetaXR\Source\OculusXRTelemetry\Private</Filter>
+    </ClInclude>
+    <Filter Include="Plugins\Marketplace\UnrealMetaXRPlugin.205.0\MetaXR\Source\OculusXRTelemetry\Public">
+      <UniqueIdentifier>{71E8C82D-60CB-3DAF-94EF-60AF607CDD42}</UniqueIdentifier>
+    </Filter>
+    <ClInclude Include="..\..\..\..\..\..\..\Program Files\Epic Games\UE_5.7\Engine\Plugins\Marketplace\UnrealMetaXRPlugin.205.0\MetaXR\Source\OculusXRTelemetry\Public\OculusXRQPL.h">
+      <Filter>Plugins\Marketplace\UnrealMetaXRPlugin.205.0\MetaXR\Source\OculusXRTelemetry\Public</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\..\..\..\..\Program Files\Epic Games\UE_5.7\Engine\Plugins\Marketplace\UnrealMetaXRPlugin.205.0\MetaXR\Source\OculusXRTelemetry\Public\OculusXRTelemetry.h">
+      <Filter>Plugins\Marketplace\UnrealMetaXRPlugin.205.0\MetaXR\Source\OculusXRTelemetry\Public</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\..\..\..\..\Program Files\Epic Games\UE_5.7\Engine\Plugins\Marketplace\UnrealMetaXRPlugin.205.0\MetaXR\Source\OculusXRTelemetry\Public\OculusXRTelemetryEvents.h">
+      <Filter>Plugins\Marketplace\UnrealMetaXRPlugin.205.0\MetaXR\Source\OculusXRTelemetry\Public</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\..\..\..\..\Program Files\Epic Games\UE_5.7\Engine\Plugins\Marketplace\UnrealMetaXRPlugin.205.0\MetaXR\Source\OculusXRTelemetry\Public\OculusXRTelemetryMarker.h">
+      <Filter>Plugins\Marketplace\UnrealMetaXRPlugin.205.0\MetaXR\Source\OculusXRTelemetry\Public</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\..\..\..\..\Program Files\Epic Games\UE_5.7\Engine\Plugins\Marketplace\UnrealMetaXRPlugin.205.0\MetaXR\Source\OculusXRTelemetry\Public\OculusXRTelemetryShared.h">
+      <Filter>Plugins\Marketplace\UnrealMetaXRPlugin.205.0\MetaXR\Source\OculusXRTelemetry\Public</Filter>
+    </ClInclude>
+    <Filter Include="Plugins\Marketplace\UnrealMetaXRPlugin.205.0\MetaXR\Source\OculusXRUncookedOnly">
+      <UniqueIdentifier>{41A16CC7-7D67-3DC3-9147-787965CD6446}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\..\..\..\..\..\Program Files\Epic Games\UE_5.7\Engine\Plugins\Marketplace\UnrealMetaXRPlugin.205.0\MetaXR\Source\OculusXRUncookedOnly\OculusXRUncookedOnly.Build.cs">
+      <Filter>Plugins\Marketplace\UnrealMetaXRPlugin.205.0\MetaXR\Source\OculusXRUncookedOnly</Filter>
+    </None>
+    <Filter Include="Plugins\Marketplace\UnrealMetaXRPlugin.205.0\MetaXR\Source\OculusXRUncookedOnly\Private">
+      <UniqueIdentifier>{F2DC1215-3DE2-35F4-A9FF-546864CE1DF5}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\..\..\..\..\..\Program Files\Epic Games\UE_5.7\Engine\Plugins\Marketplace\UnrealMetaXRPlugin.205.0\MetaXR\Source\OculusXRUncookedOnly\Private\BPNode_InitializePersistentPassthrough.cpp">
+      <Filter>Plugins\Marketplace\UnrealMetaXRPlugin.205.0\MetaXR\Source\OculusXRUncookedOnly\Private</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\..\..\..\..\..\Program Files\Epic Games\UE_5.7\Engine\Plugins\Marketplace\UnrealMetaXRPlugin.205.0\MetaXR\Source\OculusXRUncookedOnly\Private\BPNode_InitializePersistentPassthrough.h">
+      <Filter>Plugins\Marketplace\UnrealMetaXRPlugin.205.0\MetaXR\Source\OculusXRUncookedOnly\Private</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\..\..\..\..\..\Program Files\Epic Games\UE_5.7\Engine\Plugins\Marketplace\UnrealMetaXRPlugin.205.0\MetaXR\Source\OculusXRUncookedOnly\Private\OculusXRUncookedOnlyModule.cpp">
+      <Filter>Plugins\Marketplace\UnrealMetaXRPlugin.205.0\MetaXR\Source\OculusXRUncookedOnly\Private</Filter>
+    </ClCompile>
+    <Filter Include="Plugins\Marketplace\UnrealMetaXRPlugin.205.0\MetaXR\Source\Thirdparty">
+      <UniqueIdentifier>{C2864163-4671-3EC3-A526-4695553E9C6B}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Plugins\Marketplace\UnrealMetaXRPlugin.205.0\MetaXR\Source\Thirdparty\EngineTelemetry">
+      <UniqueIdentifier>{D3789BA3-424E-3954-8021-38A2BF4BCBDE}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\..\..\..\..\..\Program Files\Epic Games\UE_5.7\Engine\Plugins\Marketplace\UnrealMetaXRPlugin.205.0\MetaXR\Source\Thirdparty\EngineTelemetry\EngineTelemetry.build.cs">
+      <Filter>Plugins\Marketplace\UnrealMetaXRPlugin.205.0\MetaXR\Source\Thirdparty\EngineTelemetry</Filter>
+    </None>
+    <None Include="..\..\..\..\..\..\..\Program Files\Epic Games\UE_5.7\Engine\Plugins\Marketplace\UnrealMetaXRPlugin.205.0\MetaXR\Source\Thirdparty\EngineTelemetry\EngineTelemetry_APL.xml">
+      <Filter>Plugins\Marketplace\UnrealMetaXRPlugin.205.0\MetaXR\Source\Thirdparty\EngineTelemetry</Filter>
+    </None>
+    <Filter Include="Plugins\Marketplace\UnrealMetaXRPlugin.205.0\MetaXR\Source\Thirdparty\KhronosOpenXR">
+      <UniqueIdentifier>{F2C22ECB-0616-317F-9C18-AF4789653D2C}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\..\..\..\..\..\Program Files\Epic Games\UE_5.7\Engine\Plugins\Marketplace\UnrealMetaXRPlugin.205.0\MetaXR\Source\Thirdparty\KhronosOpenXR\KhronosOpenXRHeaders.build.cs">
+      <Filter>Plugins\Marketplace\UnrealMetaXRPlugin.205.0\MetaXR\Source\Thirdparty\KhronosOpenXR</Filter>
+    </None>
+    <None Include="..\..\..\..\..\..\..\Program Files\Epic Games\UE_5.7\Engine\Plugins\Marketplace\UnrealMetaXRPlugin.205.0\MetaXR\Source\Thirdparty\KhronosOpenXR\LICENSE">
+      <Filter>Plugins\Marketplace\UnrealMetaXRPlugin.205.0\MetaXR\Source\Thirdparty\KhronosOpenXR</Filter>
+    </None>
+    <Filter Include="Plugins\Marketplace\UnrealMetaXRPlugin.205.0\MetaXR\Source\Thirdparty\MRUtilityKitShared">
+      <UniqueIdentifier>{CD8C9958-3987-3F4E-AB74-4A08354E395A}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\..\..\..\..\..\Program Files\Epic Games\UE_5.7\Engine\Plugins\Marketplace\UnrealMetaXRPlugin.205.0\MetaXR\Source\Thirdparty\MRUtilityKitShared\MRUtilityKitShared.build.cs">
+      <Filter>Plugins\Marketplace\UnrealMetaXRPlugin.205.0\MetaXR\Source\Thirdparty\MRUtilityKitShared</Filter>
+    </None>
+    <None Include="..\..\..\..\..\..\..\Program Files\Epic Games\UE_5.7\Engine\Plugins\Marketplace\UnrealMetaXRPlugin.205.0\MetaXR\Source\Thirdparty\MRUtilityKitShared\MRUtilityKit_APL.xml">
+      <Filter>Plugins\Marketplace\UnrealMetaXRPlugin.205.0\MetaXR\Source\Thirdparty\MRUtilityKitShared</Filter>
+    </None>
+    <Filter Include="Plugins\Marketplace\UnrealMetaXRPlugin.205.0\MetaXR\Source\Thirdparty\OVRPlugin">
+      <UniqueIdentifier>{EB8C6DF1-E62B-304A-A4CD-3455066A3EB5}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\..\..\..\..\..\Program Files\Epic Games\UE_5.7\Engine\Plugins\Marketplace\UnrealMetaXRPlugin.205.0\MetaXR\Source\Thirdparty\OVRPlugin\OVRPluginXR.build.cs">
+      <Filter>Plugins\Marketplace\UnrealMetaXRPlugin.205.0\MetaXR\Source\Thirdparty\OVRPlugin</Filter>
+    </None>
     <Filter Include="Plugins\MassInsights">
       <UniqueIdentifier>{076B1EE7-9E2D-3472-A054-FAA851E6F42D}</UniqueIdentifier>
     </Filter>

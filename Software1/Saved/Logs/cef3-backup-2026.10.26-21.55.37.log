@@ -1,0 +1,16 @@
+[6112:6104:1026/225010.552:WARNING:chrome_main_delegate.cc(745)] This is Chrome version 128.0.6613.138 (not a warning)
+[6112:7984:1026/225010.699:ERROR:google_update_settings.cc(265)] Failed opening key Software\Chromium to set usagestats; result: 5
+[6112:6104:1026/225010.752:WARNING:account_consistency_mode_manager.cc(77)] Desktop Identity Consistency cannot be enabled as no OAuth client ID and client secret have been configured.
+[2984:6380:1026/225017.903:WARNING:frame_impl.cc(430)] virtual CefFrameImpl::SendProcessMessage sent to detached frame 5-F0A182CB28DD101A2BC224BDE6BCE200 will be ignored
+[22204:22208:1026/225436.497:WARNING:frame_impl.cc(430)] virtual CefFrameImpl::SendProcessMessage sent to detached frame 8-D21C9BA985FF6D0F20E08FD668804EAE will be ignored
+[6112:15984:1026/225535.788:WARNING:browser_info.cc(345)] Returning a speculative frame for [11,10]
+[6112:6104:1026/225535.862:WARNING:browser_info.cc(345)] Returning a speculative frame for [11,10]
+[6112:6104:1026/225535.862:WARNING:browser_info.cc(345)] Returning a speculative frame for [11,10]
+[6112:6104:1026/225535.862:WARNING:browser_info.cc(345)] Returning a speculative frame for [11,10]
+[6112:6104:1026/225535.862:WARNING:browser_info.cc(345)] Returning a speculative frame for [11,10]
+[6112:6104:1026/225535.863:WARNING:browser_info.cc(345)] Returning a speculative frame for [11,13]
+[6112:6104:1026/225535.864:WARNING:browser_info.cc(345)] Returning a speculative frame for [11,13]
+[6112:6104:1026/225535.864:WARNING:browser_info.cc(345)] Returning a speculative frame for [11,13]
+[6112:6104:1026/225535.864:WARNING:browser_info.cc(345)] Returning a speculative frame for [11,13]
+[6112:6104:1026/225537.861:WARNING:capture_device_ranking.h(255)] Can't initialize the value of media.audio_input.user_preference_ranking because media.default_audio_capture_device isn't registered or is empty
+[6112:6104:1026/225537.861:WARNING:capture_device_ranking.h(255)] Can't initialize the value of media.video_input.user_preference_ranking because media.default_video_capture_Device isn't registered or is empty

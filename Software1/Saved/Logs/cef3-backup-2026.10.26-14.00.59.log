@@ -1,0 +1,14 @@
+[11272:11116:1026/145739.968:WARNING:chrome_main_delegate.cc(745)] This is Chrome version 128.0.6613.138 (not a warning)
+[11272:23360:1026/145740.090:ERROR:google_update_settings.cc(265)] Failed opening key Software\Chromium to set usagestats; result: 5
+[11272:11116:1026/145740.115:WARNING:account_consistency_mode_manager.cc(77)] Desktop Identity Consistency cannot be enabled as no OAuth client ID and client secret have been configured.
+[24340:15456:1026/145747.514:WARNING:spdy_session.cc(2985)] Received HEADERS for invalid stream 5
+[24340:15456:1026/145747.514:WARNING:spdy_session.cc(2985)] Received HEADERS for invalid stream 7
+[12972:7448:1026/145749.038:WARNING:frame_impl.cc(430)] virtual CefFrameImpl::SendProcessMessage sent to detached frame 5-1ED8ACD76C297C001DECF6EB65F71941 will be ignored
+[24340:15456:1026/145754.639:WARNING:spdy_session.cc(2985)] Received HEADERS for invalid stream 17
+[24340:15456:1026/145754.647:WARNING:spdy_session.cc(2985)] Received HEADERS for invalid stream 19
+[24340:15456:1026/145754.654:WARNING:spdy_session.cc(2985)] Received HEADERS for invalid stream 15
+[24340:15456:1026/145754.654:WARNING:spdy_session.cc(2985)] Received HEADERS for invalid stream 13
+[24340:15456:1026/145754.654:WARNING:spdy_session.cc(2985)] Received HEADERS for invalid stream 21
+[24340:15456:1026/145754.654:WARNING:spdy_session.cc(2985)] Received HEADERS for invalid stream 23
+[11272:11116:1026/145950.618:ERROR:device_event_log_impl.cc(196)] [14:59:50.590] USB: usb_service_win.cc:105 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: Element not found. (0x490)
+[11272:11116:1026/150059.041:WARNING:pref_notifier_impl.cc(41)] Pref observer for media_router.cast_allow_all_ips found at shutdown.

@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
   <ItemGroup>
+    <None Include="..\..\.vsconfig" />
     <Filter Include="Config">
       <UniqueIdentifier>{FA535FFB-25E1-3D20-B416-52F9BE21E06E}</UniqueIdentifier>
     </Filter>
@@ -32,6 +33,18 @@
     <Filter Include="Source\Software1">
       <UniqueIdentifier>{AB1EBE64-C728-3B47-B380-E74336E41683}</UniqueIdentifier>
     </Filter>
+    <ClCompile Include="..\..\Source\Software1\Abner.cpp">
+      <Filter>Source\Software1</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\Software1\Abner.h">
+      <Filter>Source\Software1</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\Software1\MyClasstest.cpp">
+      <Filter>Source\Software1</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\Software1\MyClasstest.h">
+      <Filter>Source\Software1</Filter>
+    </ClInclude>
     <None Include="..\..\Source\Software1\Software1.Build.cs">
       <Filter>Source\Software1</Filter>
     </None>
@@ -185,5 +198,7 @@
     <ClInclude Include="..\..\Source\Software1\Variant_TwinStick\UI\TwinStickUI.h">
       <Filter>Source\Software1\Variant_TwinStick\UI</Filter>
     </ClInclude>
+    <None Include="..\..\UpgradeLog.htm" />
+    <None Include="..\..\UpgradeLog2.htm" />
   </ItemGroup>
 </Project>

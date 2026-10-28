@@ -1,0 +1,14 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "c:\\users\\multi\\documents\\unreal projects\\software1\\source\\software1\\abner.cpp",
+        "ProvidedModule": "",
+        "PCH": "c:\\users\\multi\\documents\\unreal projects\\software1\\intermediate\\build\\win64\\x64\\software1editor\\development\\unrealed\\sharedpch.unrealed.project.valapi.valexpapi.cpp20.h.pch",
+        "Includes": [
+            "c:\\users\\multi\\documents\\unreal projects\\software1\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\software1\\definitions.software1.h",
+            "c:\\users\\multi\\documents\\unreal projects\\software1\\source\\software1\\abner.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

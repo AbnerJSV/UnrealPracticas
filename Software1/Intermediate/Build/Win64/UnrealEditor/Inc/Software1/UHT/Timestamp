@@ -7,9 +7,11 @@ C:\Users\multi\Documents\Unreal Projects\Software1\Source\Software1\Variant_Stra
 C:\Users\multi\Documents\Unreal Projects\Software1\Source\Software1\Variant_Strategy\StrategyUnit.h
 C:\Users\multi\Documents\Unreal Projects\Software1\Source\Software1\Variant_Strategy\UI\StrategyHUD.h
 C:\Users\multi\Documents\Unreal Projects\Software1\Source\Software1\Variant_Strategy\UI\StrategyUI.h
+C:\Users\multi\Documents\Unreal Projects\Software1\Source\Software1\Variant_TwinStick\TwinStickCharacter.h
 C:\Users\multi\Documents\Unreal Projects\Software1\Source\Software1\Variant_TwinStick\TwinStickGameMode.h
 C:\Users\multi\Documents\Unreal Projects\Software1\Source\Software1\Variant_TwinStick\TwinStickPlayerController.h
 C:\Users\multi\Documents\Unreal Projects\Software1\Source\Software1\Variant_TwinStick\AI\TwinStickAIController.h
+C:\Users\multi\Documents\Unreal Projects\Software1\Source\Software1\Variant_TwinStick\AI\TwinStickNPC.h
 C:\Users\multi\Documents\Unreal Projects\Software1\Source\Software1\Variant_TwinStick\AI\TwinStickNPCDestruction.h
 C:\Users\multi\Documents\Unreal Projects\Software1\Source\Software1\Variant_TwinStick\AI\TwinStickSpawner.h
 C:\Users\multi\Documents\Unreal Projects\Software1\Source\Software1\Variant_TwinStick\AI\TwinStickStateTreeUtility.h
@@ -17,5 +19,3 @@ C:\Users\multi\Documents\Unreal Projects\Software1\Source\Software1\Variant_Twin
 C:\Users\multi\Documents\Unreal Projects\Software1\Source\Software1\Variant_TwinStick\Gameplay\TwinStickPickup.h
 C:\Users\multi\Documents\Unreal Projects\Software1\Source\Software1\Variant_TwinStick\Gameplay\TwinStickProjectile.h
 C:\Users\multi\Documents\Unreal Projects\Software1\Source\Software1\Variant_TwinStick\UI\TwinStickUI.h
-C:\Users\multi\Documents\Unreal Projects\Software1\Source\Software1\Variant_TwinStick\AI\TwinStickNPC.h
-C:\Users\multi\Documents\Unreal Projects\Software1\Source\Software1\Variant_TwinStick\TwinStickCharacter.h

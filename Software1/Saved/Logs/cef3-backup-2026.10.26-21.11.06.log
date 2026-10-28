@@ -1,0 +1,8 @@
+[38644:27524:1026/221026.601:WARNING:chrome_main_delegate.cc(745)] This is Chrome version 128.0.6613.138 (not a warning)
+[38644:40808:1026/221026.721:ERROR:google_update_settings.cc(265)] Failed opening key Software\Chromium to set usagestats; result: 5
+[38644:27524:1026/221026.733:WARNING:account_consistency_mode_manager.cc(77)] Desktop Identity Consistency cannot be enabled as no OAuth client ID and client secret have been configured.
+[35784:9852:1026/221033.386:WARNING:frame_impl.cc(430)] virtual CefFrameImpl::SendProcessMessage sent to detached frame 5-09D004A25724FD26A85314575B63735B will be ignored
+[25040:43752:1026/221044.417:ERROR:frame_impl.cc(537)] frame 6-D7862C5F4A9A70B1D597B71CE7CD345D connection timeout
+[25040:43752:1026/221055.435:ERROR:frame_impl.cc(537)] frame 6-D7862C5F4A9A70B1D597B71CE7CD345D connection timeout
+[25040:43752:1026/221106.445:ERROR:frame_impl.cc(537)] frame 6-D7862C5F4A9A70B1D597B71CE7CD345D connection timeout
+[25040:43752:1026/221106.445:FATAL:frame_impl.cc(648)] frame 6-D7862C5F4A9A70B1D597B71CE7CD345D connection retry failed (reason=CONNECT_TIMEOUT, current_state=CONNECTION_PENDING)
